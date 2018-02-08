@@ -1,0 +1,61 @@
+#+BEGIN_COMMENT
+.. title: Blogging using nikola-github-emacs-orgmode
+.. slug: how-to-write-a-blog-using-nikola
+.. date: 2018-02-09 01:38:14 UTC+05:30
+.. tags: nikola, emacs, github, orgmode, linux, python
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+#+END_COMMENT
+
+Hello, I'm Human.
+* Blog about writing blogs
+This blog about writing blogs is written upon popular request by pestering
+friends. Special thanks to all other blogs about writing blogs which
+helped me write this blog about writing blogs.
+* Will be reading about... 
+If you would like to know what you're going to deal with, then follow
+the links. If you just want to get your blog up and running, then
+bother not, you shall.
+|----------------------------+-----------------------------------------------------------|
+|                              |                                                           |
+|----------------------------+-----------------------------------------------------------|
+| [[https://getnikola.com/][Nikola]]                     | static website generator                                  |
+|----------------------------+-----------------------------------------------------------|
+| [[https://guides.github.com/activities/hello-world/][Github]]                     | Free website hosting                                      |
+|----------------------------+-----------------------------------------------------------|
+| [[https://www.gnu.org/software/emacs/tour/][emacs]]                      | Emacs : A wonderful text editor                           |
+|----------------------------+-----------------------------------------------------------|
+| [[https://en.wikipedia.org/wiki/Org-mode][orgmode]]                    | Headings, Tables, Text formatting, Genetically Awesome!!! |
+|----------------------------+-----------------------------------------------------------|
+| [[http://docs.python-guide.org/en/latest/dev/virtualenvs/][Python virtual environment]] | A special work place without pollution                    |
+|----------------------------+-----------------------------------------------------------|
+* Well...
+The idea is to create a blogging website hosted in /Github/, using a
+static site generator software /Nikola/ with the help of /Python
+virtual environment/ and then write blog posts using /emacs org mode/.
+** Also
+1. I'm using Linux platform.
+2. I will be assuming your blog name as 'bottle'
+* Github 
+Create a GitHub account. Create a repository with the following name:
+'bottle.github.io'.
+
+Once you do this, then GitHub will host your website in the following
+address(URL) : https://bottle.github.io/
+
+Clone(copy) this newborn repository into your local machine a.k.a
+personal computer by using the following command:
+#+BEGIN_SRC sh
+$ git clone https://bottle.github.io/ ~/projects/bottle
+#+END_SRC
+* Python Virtual Environment
+* Nikola
+** Installation
+** Website
+** Posts
+** Publish
+** Themes
+* Thanks
+
