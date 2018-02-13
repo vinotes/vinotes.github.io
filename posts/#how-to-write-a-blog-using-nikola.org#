@@ -68,11 +68,12 @@ create a virtual environment called vegetables.
 Wrapped virtual environment commands for ease of use.
 Let "$HOME/virenvs" be our directory for all environments.
 #+BEGIN_QUOTE
-~As always, names doesn't matter. It is what you do that defines you - Spiderman's ex-girlfriend~
+~As always, names doesn't matter. It is what you do that defines you 
+
+           -- Spiderman's ex-girlfriend~
 #+END_QUOTE
 ** Steps
 Make sure you have pip (python package manager) in your machine.
-And follow the steps :
 #+BEGIN_SRC sh
 pip install virtualenv
 pip install virtualenvwrapper
@@ -211,8 +212,6 @@ nikola github_deploy
 #+END_SRC
 
 * Thanks
-For detailed information : 
-
 1. [[http://streakycobra.github.io/posts/blogging-in-org-mode-with-nikola/][streakycobra]]
 2. [[http://cestlaz.github.io/posts/using-emacs-35-blogging/][C'est la Z]]
 3. [[http://docs.python-guide.org/en/latest/dev/virtualenvs/][The Hitchhiker's guide to Python]]
