@@ -88,13 +88,11 @@ helped me write this blog about writing blogs.
 </div>
 </div>
 <div id="outline-container-sec-2" class="outline-2">
-<h2 id="sec-2">You will be reading about… Will you?</h2>
+<h2 id="sec-2">To know these exist…</h2>
 <div class="outline-text-2" id="text-2">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-<colgroup>
-<col class="left">
-<col class="left">
-</colgroup>
+<colgroup><col class="left"></colgroup>
+<colgroup><col class="left"></colgroup>
 <thead><tr>
 <th scope="col" class="left"><a href="https://getnikola.com/">Nikola</a></th>
 <th scope="col" class="left">Static website generator</th>
@@ -117,7 +115,6 @@ helped me write this blog about writing blogs.
 </tr></tbody>
 </table>
 <p>
-\\
 Curious Columbus-es should then follow the links.
 (or) If you just want to get your blog up and running then,
 bother not, you shall.
@@ -148,13 +145,17 @@ virtual environment</i> and then write blog posts using <i>emacs org mode</i>.
 <div id="outline-container-sec-4" class="outline-2">
 <h2 id="sec-4">GitHub</h2>
 <div class="outline-text-2" id="text-4">
+<ol class="org-ol">
+<li>Create a GitHub account.
+</li>
+<li>Create a repository with the following name:'bottle.github.io'
+</li>
+<li>
+<a href="https://guides.github.com/activities/hello-world/">Instructions</a>.
+</li>
+</ol>
 <p>
-Create a GitHub account. Create a repository with the following name:
-'bottle.github.io'. <a href="https://guides.github.com/activities/hello-world/">Instructions</a>.
-</p>
-
-<p>
-Once you do this, then GitHub will host your website in the following
+Once done this, GitHub will host your website in the following
 address(URL) : <a href="https://bottle.github.io/">https://bottle.github.io/</a>
 </p>
 
@@ -162,7 +163,7 @@ address(URL) : <a href="https://bottle.github.io/">https://bottle.github.io/</a>
 Clone(copy) this newborn repository into your local machine a.k.a
 personal computer by using the following command:
 </p>
-<div class="highlight"><pre><span></span>$ git clone https://bottle.github.io/ ~/projects/bottle
+<div class="highlight"><pre><span></span>git clone https://bottle.github.io/ <span class="nv">$HOME</span>/projects/bottle
 </pre></div>
 
 <p>
@@ -173,29 +174,271 @@ push them back to GitHub later.
 </div>
 <div id="outline-container-sec-5" class="outline-2">
 <h2 id="sec-5">Python Virtual Environment</h2>
+<div class="outline-text-2" id="text-5">
+<p>
+If you haven't heard the news yet, Python is a programming
+language and Python 3 is here to stay.
+</p>
+
+<p>
+Python Virtual environment basically copies python scripts to create a
+new workplace. You could install custom packages specific to your
+project. 
+</p>
+
+<p>
+For e.g. if you wish to have a separate working environment for
+cooking vegetables, where you don't want nikola to be installed, 
+create a virtual environment called vegetables. 
+</p>
 </div>
+<div id="outline-container-sec-5-1" class="outline-3">
+<h3 id="sec-5-1">Virtual environment wrapper</h3>
+<div class="outline-text-3" id="text-5-1">
+<p>
+Wrapped virtual environment commands for ease of use.
+Let "$HOME/virenvs" be our directory for all environments.
+</p>
+<blockquote>
+<p>
+<code>As always, names doesn't matter. It is what you do that defines you - Spiderman's ex-girlfriend</code>
+</p>
+</blockquote>
+</div>
+</div>
+<div id="outline-container-sec-5-2" class="outline-3">
+<h3 id="sec-5-2">Steps</h3>
+<div class="outline-text-3" id="text-5-2">
+<p>
+Make sure you have pip (python package manager) in your machine.
+And follow the steps :
+</p>
+<div class="highlight"><pre><span></span>pip install virtualenv
+pip install virtualenvwrapper
+<span class="nb">export</span> <span class="nv">WORKON_HOME</span><span class="o">=</span><span class="nv">$HOME</span>/virenvs
+<span class="nb">source</span> /usr/local/bin/virtualenvwrapper.sh
+mkvirtualenv bottle
+workon bottle
+</pre></div>
+
+<p>
+Now you should see that you have entered the 'bottle' environment.
+</p>
+</div>
+</div>
+</div>
+
 <div id="outline-container-sec-6" class="outline-2">
 <h2 id="sec-6">Nikola</h2>
 <div class="outline-text-2" id="text-6">
+<p>
+If you are inside the bottle, then you are ready to install nikola, the
+static site generator.
+</p>
 </div>
 <div id="outline-container-sec-6-1" class="outline-3">
 <h3 id="sec-6-1">Installation</h3>
+<div class="outline-text-3" id="text-6-1">
+<div class="highlight"><pre><span></span>pip install --upgrade pip <span class="s1">'Nikola[extras]'</span>
+nikola plugin -i orgmode
+<span class="nb">cd</span> <span class="nv">$HOME</span>/projects/bottle
+git checkout -b sources
+</pre></div>
+
+<p>
+add a .git ignore file to $HOME/projects/bottle folder with the
+following content in it.
+</p>
+
+<div class="highlight"><pre><span></span>*.py<span class="o">[</span>cod<span class="o">]</span>
+__pycache__
+cache
+output
+.doit.db
+</pre></div>
+
+<p>
+commit this to git
+</p>
+
+<div class="highlight"><pre><span></span>git add .gitignore
+git commit -m <span class="s2">"Add .gitignore"</span>
+</pre></div>
+</div>
 </div>
 <div id="outline-container-sec-6-2" class="outline-3">
 <h3 id="sec-6-2">Website</h3>
+<div class="outline-text-3" id="text-6-2">
+<p>
+Create a website using nikola
+</p>
+<div class="highlight"><pre><span></span>nikola init bottle
+</pre></div>
+<p>
+Fill in the form that follows.
+</p>
+
+<p>
+It should show a success message after form is filled.
+Now, nikola will create a new folder called bottle inside
+$HOME/projects/bottle, which is unnecessary. So move its contents to
+$HOME/projects/bottle folder and delete the extra bottle.
+</p>
+<div class="highlight"><pre><span></span>mv my_first_site/* .
+rm -r my_first_site
+</pre></div>
+
+
+<p>
+Your new site 'bottle' can be viewed either locally or globally(using
+a new technology called internet). <code>The latter will be done later.</code>
+</p>
+
+<p>
+To view your recently created site locally, 
+</p>
+<div class="highlight"><pre><span></span>nikola build
+nikola serve
+</pre></div>
+
+<p>
+Open browser and enter <i>localhost:8000</i> in the URL bar.
+</p>
+
+<p>
+To stop the localhost web service in the terminal hit Ctrl-c.
+</p>
+</div>
 </div>
 <div id="outline-container-sec-6-3" class="outline-3">
 <h3 id="sec-6-3">Posts</h3>
+<div class="outline-text-3" id="text-6-3">
+<p>
+Now, you would want to eat others head by writing blogs. That can be
+easily accomplished.
+</p>
+
+<div class="highlight"><pre><span></span>nikola new_post -e
+</pre></div>
+<p>
+The -e option will open the post in your text editor of choice;
+</p>
+</div>
+<ul class="org-ul"><li>
+<a id="sec-6-3-0-1" name="sec-6-3-0-1"></a>Emacs Org-mode<br><div class="outline-text-5" id="text-6-3-0-1">
+<p>
+I will only write the command to prompt new post with org mode and the
+configuration.
+</p>
+<blockquote>
+<p>
+<code>The self-inflicted awesomeness of emacs and org-mode can only be experienced!</code>
+</p>
+</blockquote>
+
+<p>
+You've already installed org mode plugin for nikola in your
+installation process. 
+</p>
+
+<p>
+Now, append the following to your conf.py file(available in bottle
+folder)
+</p>
+
+<div class="highlight"><pre><span></span><span class="c1"># Add the orgmode compiler to your COMPILERS dict.</span>
+<span class="n">COMPILERS</span><span class="p">[</span><span class="s2">"orgmode"</span><span class="p">]</span> <span class="o">=</span> <span class="p">(</span><span class="s1">'.org'</span><span class="p">,)</span>
+
+<span class="c1"># Add org files to your POSTS, PAGES</span>
+<span class="n">POSTS</span> <span class="o">=</span> <span class="n">POSTS</span> <span class="o">+</span> <span class="p">((</span><span class="s2">"posts/*.org"</span><span class="p">,</span> <span class="s2">"posts"</span><span class="p">,</span> <span class="s2">"post.tmpl"</span><span class="p">),)</span>
+<span class="n">PAGES</span> <span class="o">=</span> <span class="n">PAGES</span> <span class="o">+</span> <span class="p">((</span><span class="s2">"stories/*.org"</span><span class="p">,</span> <span class="s2">"stories"</span><span class="p">,</span> <span class="s2">"story.tmpl"</span><span class="p">),)</span>
+</pre></div>
+
+<p>
+Now, to write a post using org-mode,
+</p>
+<div class="highlight"><pre><span></span>nikola new_post -e -f orgmode
+</pre></div>
+</div>
+</li></ul>
 </div>
 <div id="outline-container-sec-6-4" class="outline-3">
-<h3 id="sec-6-4">Publish</h3>
+<h3 id="sec-6-4">Comments</h3>
+<div class="outline-text-3" id="text-6-4">
+<p>
+If you are using disqus as the commenting system then create a disqus
+account and then in your conf.py file,
+</p>
+<div class="highlight"><pre><span></span><span class="c1"># To use comments, you can choose between different third party comment</span>
+<span class="c1"># systems.  The following comment systems are supported by Nikola:</span>
+<span class="c1">#   disqus, facebook, googleplus, intensedebate, isso, livefyre, muut</span>
+<span class="c1"># You can leave this option blank to disable comments.</span>
+<span class="n">COMMENT_SYSTEM</span> <span class="o">=</span> <span class="s2">"disqus"</span>
+<span class="c1"># And you also need to add your COMMENT_SYSTEM_ID which</span>
+<span class="c1"># depends on what comment system you use. The default is</span>
+<span class="c1"># "nikolademo" which is a test account for Disqus. More information</span>
+<span class="c1"># is in the manual.</span>
+<span class="n">COMMENT_SYSTEM_ID</span> <span class="o">=</span> <span class="s2">"your_disqus_account_id"</span>
+</pre></div>
+</div>
 </div>
 <div id="outline-container-sec-6-5" class="outline-3">
-<h3 id="sec-6-5">Themes</h3>
+<h3 id="sec-6-5">Publish</h3>
+<div class="outline-text-3" id="text-6-5">
+<p>
+use the following commands to launch the site in local host
+</p>
+<div class="highlight"><pre><span></span>nikola build
+nikola serve
+</pre></div>
+
+<p>
+The 'nikola auto' command automatically updates the site for the
+changes you make in your post
+</p>
+<div class="highlight"><pre><span></span>nikola auto
+</pre></div>
+
+<p>
+To publish your blog to the so called internet,
+</p>
+<div class="highlight"><pre><span></span>nikola github_deploy
+</pre></div>
 </div>
 </div>
+</div>
+
 <div id="outline-container-sec-7" class="outline-2">
 <h2 id="sec-7">Thanks</h2>
+<div class="outline-text-2" id="text-7">
+<p>
+For detailed information : 
+</p>
+
+<ol class="org-ol">
+<li>
+<a href="http://streakycobra.github.io/posts/blogging-in-org-mode-with-nikola/">streakycobra</a>
+</li>
+<li>
+<a href="http://cestlaz.github.io/posts/using-emacs-35-blogging/">C'est la Z</a>
+</li>
+<li>
+<a href="http://docs.python-guide.org/en/latest/dev/virtualenvs/">The Hitchhiker's guide to Python</a>
+</li>
+<li>
+<a href="https://getnikola.com/getting-started.html">nikola</a>
+</li>
+<li>
+<a href="http://cestlaz.github.io/stories/emacs/">using emacs</a>
+</li>
+<li>
+<a href="https://www.youtube.com/watch?v=SzA2YODtgK4">Getting started with org mode</a>
+</li>
+<li>
+<a href="https://www.youtube.com/watch?v=oJTwQvgfgMM">org mode : by its creator</a>
+</li>
+</ol>
+</div>
 </div>
     </div>
     </article>
