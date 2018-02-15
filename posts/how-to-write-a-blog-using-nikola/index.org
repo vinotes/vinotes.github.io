@@ -12,7 +12,7 @@
 This blog about writing blogs is written upon request by pestering
 friends. Special thanks to all other blogs about writing blogs which
 helped me write this blog about writing blogs.
-* To know these exist...
+* To know these exist
 | /                          | <                                                         |
 |----------------------------+-----------------------------------------------------------|
 | [[https://getnikola.com/][Nikola]]                     | Static website generator                                  |
@@ -30,7 +30,7 @@ helped me write this blog about writing blogs.
 Curious Columbus-es should then follow the links.
 (or) If you just want to get your blog up and running then,
 bother not, you shall.
-* Well...
+* Well
 The idea is to create a blogging website hosted in /Github/, using a
 static site generator software /Nikola/, with the help of /Python
 virtual environment/ and then write blog posts using /emacs org mode/.
@@ -38,7 +38,7 @@ virtual environment/ and then write blog posts using /emacs org mode/.
 1. I'm using Linux.
 2. I will be assuming the name of your blog as 'bottle'
 * GitHub 
-1. Create a GitHub account.
+1. Create a GitHub account with username 'bottle'
 2. Create a repository with the following name:'bottle.github.io'
 3. [[https://guides.github.com/activities/hello-world/][Instructions]].
 
@@ -68,7 +68,7 @@ create a virtual environment called vegetables.
 Wrapped virtual environment commands for ease of use.
 Let "$HOME/virenvs" be our directory for all environments.
 #+BEGIN_QUOTE
-~As always, names doesn't matter. It is what you do that defines you - Spiderman's ex-girlfriend~
+~As always, names doesn't matter. It is what you do that defines you - Batman's ex-girlfriend~
 #+END_QUOTE
 ** Steps
 Make sure you have pip (python package manager) in your machine.
