@@ -9,9 +9,8 @@
 .. type: text
 #+END_COMMENT
 * Blog about writing blogs
-This blog about writing blogs is written upon request by pestering
-friends. Special thanks to all other blogs about writing blogs which
-helped me write this blog about writing blogs.
+This blog about writing blogs is upon request by pestering
+friends. Thanks to all other blogs about writing blogs.
 * To know these exist
 | /                          | <                                                         |
 |----------------------------+-----------------------------------------------------------|
@@ -37,7 +36,13 @@ virtual environment/ and then write blog posts using /emacs org mode/.
 *** Also
 1. I'm using Linux.
 2. I will be assuming the name of your blog as 'bottle'
-* GitHub 
+* GitHub
+#+BEGIN_QUOTE
+=git= : /(British)/ a foolish or worthless person
+
+                    -- Merriam-Webster
+#+END_QUOTE
+
 1. Create a GitHub account with username 'bottle'
 2. Create a repository with the following name:'bottle.github.io'
 3. [[https://guides.github.com/activities/hello-world/][Instructions]].
@@ -68,7 +73,7 @@ create a virtual environment called vegetables.
 Wrapped virtual environment commands for ease of use.
 Let "$HOME/virenvs" be our directory for all environments.
 #+BEGIN_QUOTE
-~As always, names doesn't matter. It is what you do that defines you - Batman's ex-girlfriend~
+~As always, names doesn't matter. It is what you do that defines you - Spiderman's ex-girlfriend~
 #+END_QUOTE
 ** Steps
 Make sure you have pip (python package manager) in your machine.
@@ -130,7 +135,7 @@ rm -r my_first_site
 
 
 Your new site 'bottle' can be viewed either locally or globally(using
-a new technology called internet). ~The latter will be done later.~
+a new technology called internet). The latter will be done later.
 
 To view your recently created site locally, 
 #+BEGIN_SRC sh
@@ -138,23 +143,36 @@ nikola build
 nikola serve
 #+END_SRC
 
-Open browser and enter /localhost:8000/ in the URL bar.
+Open browser and enter /localhost:8000/ in the URL bar !
 
 To stop the localhost web service in the terminal hit Ctrl-c.
 ** Posts
-Now, you would want to eat others head by writing blogs. That can be
+Now, you would want to flush your ideas into blogs. That could be
 easily accomplished.
 
 #+BEGIN_SRC sh
 nikola new_post -e
 #+END_SRC
 The -e option will open the post in your text editor of choice;
+
+Movimg on from editor of your choice,
+
 **** Emacs Org-mode
-I will only write the command to prompt new post with org mode and the
-configuration.
-#+BEGIN_QUOTE
-~The self-inflicted awesomeness of emacs and org-mode can only be experienced!~
-#+END_QUOTE
+Every great software application is a file with some text in it and
+~Emacs is a text file editor~
+
+The best way to get started with Emacs is to follow its built-in
+tutorial. /Open Emacs and press Ctrl-h t. Customizing Emacs is like
+making your own waffle. Still help is available at [[http://cestlaz.github.io/stories/emacs/][using emacs]].
+
+org-mode in itself is the biggest reason people fall in love with
+Emacs so easily. The best way to learn about org-mode is to hear it
+from the horse's mouth [[https://www.youtube.com/watch?v=oJTwQvgfgMM][org mode : by its creator]].
+
+Two cool things in org-mode that I must mention:
+1. creating tables =|Name|Age <tab>=
+2. exporting to html/pdf/LaTeX/odt/iCal ... =Ctrl-c Ctrl-e=
+**** To write a new blog post in Emacs org-mode
 
 You've already installed org mode plugin for nikola in your
 installation process. 
@@ -193,22 +211,33 @@ COMMENT_SYSTEM_ID = "your_disqus_account_id"
 
 #+END_SRC
 ** Publish
-use the following commands to launch the site in local host
+*** use the following commands to launch the site in local host
 #+BEGIN_SRC sh
 nikola build
 nikola serve
 #+END_SRC
 
-The 'nikola auto' command automatically updates the site for the
-changes you make in your post
+The 'nikola auto' command automatically updates the local site for
+every change you make to your post.
 #+BEGIN_SRC sh
 nikola auto
 #+END_SRC
 
-To publish your blog to the so called internet,
+*** To publish your blog to the so called internet,
+
+Edit the conf.py file and change these following variables. This helps
+in keeping the master branch of GitHub page less crowded.
+
+#+BEGIN_SRC python
+GITHUB_SOURCE_BRANCH = 'sources'
+GITHUB_DEPLOY_BRANCH = 'master'
+#+END_SRC
+
 #+BEGIN_SRC sh
 nikola github_deploy
 #+END_SRC
+
+And visit https://bottle.github.io
 
 * Thanks
 For detailed information : 
