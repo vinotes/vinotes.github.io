@@ -2,16 +2,17 @@
 .. title: Blogging using nikola-github-emacs-orgmode
 .. slug: how-to-write-a-blog-using-nikola
 .. date: 2018-02-09 01:38:14 UTC+05:30
-.. tags: nikola, emacs, github, orgmode, linux, python
+.. tags: nikola, emacs, github, orgmode, linux, python, blogging
 .. category: 
 .. link: 
 .. description: 
 .. type: text
 #+END_COMMENT
-* Blog about writing blogs
+* =Blog about writing blogs=
 This blog about writing blogs is upon request by pestering
 friends. Thanks to all other blogs about writing blogs.
-* To know these exist
+------
+* =To know these exist=
 | /                          | <                                                         |
 |----------------------------+-----------------------------------------------------------|
 | [[https://getnikola.com/][Nikola]]                     | Static website generator                                  |
@@ -29,20 +30,23 @@ friends. Thanks to all other blogs about writing blogs.
 Curious Columbus-es should then follow the links.
 (or) If you just want to get your blog up and running then,
 bother not, you shall.
-* Well
+------
+* =Well=
 The idea is to create a blogging website hosted in /Github/, using a
 static site generator software /Nikola/, with the help of /Python
 virtual environment/ and then write blog posts using /emacs org mode/.
 *** Also
 1. I'm using Linux.
 2. I will be assuming the name of your blog as 'bottle'
-* GitHub
+------
+* =GitHub=
 #+BEGIN_QUOTE
 =git= : /(British)/ a foolish or worthless person
 
                     -- Merriam-Webster
 #+END_QUOTE
 
+So, keeping that in mind:
 1. Create a GitHub account with username 'bottle'
 2. Create a repository with the following name:'bottle.github.io'
 3. [[https://guides.github.com/activities/hello-world/][Instructions]].
@@ -58,7 +62,8 @@ git clone https://bottle.github.io/ $HOME/projects/bottle
 
 You will be adding blog posts in ~/projects/bottle directory and will
 push them back to GitHub later.
-* Python Virtual Environment
+------
+* =Python Virtual Environment=
 If you haven't heard the news yet, Python is a programming
 language and Python 3 is here to stay.
 
@@ -88,8 +93,8 @@ workon bottle
 #+END_SRC
 
 Now you should see that you have entered the 'bottle' environment.
-
-* Nikola
+------
+* =Nikola=
 If you are inside the bottle, then you are ready to install nikola, the
 static site generator.
 ** Installation
@@ -146,6 +151,7 @@ nikola serve
 Open browser and enter /localhost:8000/ in the URL bar !
 
 To stop the localhost web service in the terminal hit Ctrl-c.
+------
 ** Posts
 Now, you would want to flush your ideas into blogs. That could be
 easily accomplished.
@@ -172,12 +178,13 @@ from the horse's mouth [[https://www.youtube.com/watch?v=oJTwQvgfgMM][org mode :
 Two cool things in org-mode that I must mention:
 1. creating tables =|Name|Age <tab>=
 2. exporting to html/pdf/LaTeX/odt/iCal ... =Ctrl-c Ctrl-e=
+------
 **** To write a new blog post in Emacs org-mode
 
 You've already installed org mode plugin for nikola in your
 installation process. 
 
-Now, append the following to your conf.py file(available in bottle
+Now, append the following to your =conf.py= file(available in bottle
 folder)
 
 #+BEGIN_SRC python
@@ -194,9 +201,19 @@ Now, to write a post using org-mode,
 #+BEGIN_SRC  sh
 nikola new_post -e -f orgmode
 #+END_SRC
+
 ** Comments
-If you are using disqus as the commenting system then create a disqus
-account and then in your conf.py file,
+If you would like using disqus as the commenting system then:
+1. Create a disqus account
+2. Login and click on your picture at top right and select install on site
+3. Fill in necessary details. If you don't see nikola platform in the
+   list, don't worry, skip that and go to next page. If it is about
+   installing manually by adding code where you want disqus to appear,
+   SKIP that as well.
+4. Go to the last step and finish the configuration
+5. At the end of setup, you should see your disqus short name.
+6. That is your disqus ID you need to add in your =conf.py= file
+
 #+BEGIN_SRC python
 # To use comments, you can choose between different third party comment
 # systems.  The following comment systems are supported by Nikola:
@@ -210,8 +227,9 @@ COMMENT_SYSTEM = "disqus"
 COMMENT_SYSTEM_ID = "your_disqus_account_id"
 
 #+END_SRC
+
 ** Publish
-*** use the following commands to launch the site in local host
+*** To launch the site in local host
 #+BEGIN_SRC sh
 nikola build
 nikola serve
@@ -225,7 +243,7 @@ nikola auto
 
 *** To publish your blog to the so called internet,
 
-Edit the conf.py file and change these following variables. This helps
+Edit the =conf.py= file and change these following variables. This helps
 in keeping the master branch of GitHub page less crowded.
 
 #+BEGIN_SRC python
@@ -238,8 +256,8 @@ nikola github_deploy
 #+END_SRC
 
 And visit https://bottle.github.io
-
-* Thanks
+------
+* =Thanks=
 For detailed information : 
 
 1. [[http://streakycobra.github.io/posts/blogging-in-org-mode-with-nikola/][streakycobra]]
