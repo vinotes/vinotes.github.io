@@ -22,6 +22,7 @@ friends. Thanks to all other blogs about writing blogs.
 
 
 
+
 To know these exist
 
 
@@ -37,9 +38,10 @@ To know these exist
 
 
 Nikola
-Static website">
+Static websit">
 <meta property="og:type" content="article">
 <meta property="article:published_time" content="2018-02-09T01:38:14+05:30">
+<meta property="article:tag" content="blogging">
 <meta property="article:tag" content="emacs">
 <meta property="article:tag" content="github">
 <meta property="article:tag" content="linux">
@@ -119,16 +121,17 @@ Static website">
 
     </header><div class="e-content entry-content" itemprop="articleBody text">
     <div id="outline-container-sec-1" class="outline-2">
-<h2 id="sec-1">Blog about writing blogs</h2>
+<h2 id="sec-1"><code>Blog about writing blogs</code></h2>
 <div class="outline-text-2" id="text-1">
 <p>
 This blog about writing blogs is upon request by pestering
 friends. Thanks to all other blogs about writing blogs.
 </p>
+<hr>
 </div>
 </div>
 <div id="outline-container-sec-2" class="outline-2">
-<h2 id="sec-2">To know these exist</h2>
+<h2 id="sec-2"><code>To know these exist</code></h2>
 <div class="outline-text-2" id="text-2">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 <colgroup><col class="left"></colgroup>
@@ -159,10 +162,11 @@ Curious Columbus-es should then follow the links.
 (or) If you just want to get your blog up and running then,
 bother not, you shall.
 </p>
+<hr>
 </div>
 </div>
 <div id="outline-container-sec-3" class="outline-2">
-<h2 id="sec-3">Well</h2>
+<h2 id="sec-3"><code>Well</code></h2>
 <div class="outline-text-2" id="text-3">
 <p>
 The idea is to create a blogging website hosted in <i>Github</i>, using a
@@ -179,11 +183,12 @@ virtual environment</i> and then write blog posts using <i>emacs org mode</i>.
 <li>I will be assuming the name of your blog as 'bottle'
 </li>
 </ol>
+<hr>
 </div>
 </div>
 </div>
 <div id="outline-container-sec-4" class="outline-2">
-<h2 id="sec-4">GitHub</h2>
+<h2 id="sec-4"><code>GitHub</code></h2>
 <div class="outline-text-2" id="text-4">
 <blockquote>
 <p>
@@ -195,6 +200,9 @@ virtual environment</i> and then write blog posts using <i>emacs org mode</i>.
 </p>
 </blockquote>
 
+<p>
+So, keeping that in mind:
+</p>
 <ol class="org-ol">
 <li>Create a GitHub account with username 'bottle'
 </li>
@@ -220,10 +228,11 @@ personal computer by using the following command:
 You will be adding blog posts in ~/projects/bottle directory and will
 push them back to GitHub later.
 </p>
+<hr>
 </div>
 </div>
 <div id="outline-container-sec-5" class="outline-2">
-<h2 id="sec-5">Python Virtual Environment</h2>
+<h2 id="sec-5"><code>Python Virtual Environment</code></h2>
 <div class="outline-text-2" id="text-5">
 <p>
 If you haven't heard the news yet, Python is a programming
@@ -274,12 +283,12 @@ workon bottle
 <p>
 Now you should see that you have entered the 'bottle' environment.
 </p>
+<hr>
 </div>
 </div>
 </div>
-
 <div id="outline-container-sec-6" class="outline-2">
-<h2 id="sec-6">Nikola</h2>
+<h2 id="sec-6"><code>Nikola</code></h2>
 <div class="outline-text-2" id="text-6">
 <p>
 If you are inside the bottle, then you are ready to install nikola, the
@@ -358,6 +367,7 @@ Open browser and enter <i>localhost:8000</i> in the URL bar !
 <p>
 To stop the localhost web service in the terminal hit Ctrl-c.
 </p>
+<hr>
 </div>
 </div>
 <div id="outline-container-sec-6-3" class="outline-3">
@@ -408,6 +418,7 @@ Two cool things in org-mode that I must mention:
 <li>exporting to html/pdf/LaTeX/odt/iCal … <code>Ctrl-c Ctrl-e</code>
 </li>
 </ol>
+<hr>
 </div>
 </li>
 <li>
@@ -418,7 +429,7 @@ installation process.
 </p>
 
 <p>
-Now, append the following to your conf.py file(available in bottle
+Now, append the following to your <code>conf.py</code> file(available in bottle
 folder)
 </p>
 
@@ -439,13 +450,30 @@ Now, to write a post using org-mode,
 </li>
 </ul>
 </div>
+
 <div id="outline-container-sec-6-4" class="outline-3">
 <h3 id="sec-6-4">Comments</h3>
 <div class="outline-text-3" id="text-6-4">
 <p>
-If you are using disqus as the commenting system then create a disqus
-account and then in your conf.py file,
+If you would like using disqus as the commenting system then:
 </p>
+<ol class="org-ol">
+<li>Create a disqus account
+</li>
+<li>Login and click on your picture at top right and select install on site
+</li>
+<li>Fill in necessary details. If you don't see nikola platform in the
+list, don't worry, skip that and go to next page. If it is about
+installing manually by adding code where you want disqus to appear,
+SKIP that as well.
+</li>
+<li>Go to the last step and finish the configuration
+</li>
+<li>At the end of setup, you should see your disqus short name.
+</li>
+<li>That is your disqus ID you need to add in your <code>conf.py</code> file
+</li>
+</ol>
 <div class="highlight"><pre><span></span><span class="c1"># To use comments, you can choose between different third party comment</span>
 <span class="c1"># systems.  The following comment systems are supported by Nikola:</span>
 <span class="c1">#   disqus, facebook, googleplus, intensedebate, isso, livefyre, muut</span>
@@ -459,12 +487,13 @@ account and then in your conf.py file,
 </pre></div>
 </div>
 </div>
+
 <div id="outline-container-sec-6-5" class="outline-3">
 <h3 id="sec-6-5">Publish</h3>
 <div class="outline-text-3" id="text-6-5">
 </div>
 <div id="outline-container-sec-6-5-1" class="outline-4">
-<h4 id="sec-6-5-1">use the following commands to launch the site in local host</h4>
+<h4 id="sec-6-5-1">To launch the site in local host</h4>
 <div class="outline-text-4" id="text-6-5-1">
 <div class="highlight"><pre><span></span>nikola build
 nikola serve
@@ -483,7 +512,7 @@ every change you make to your post.
 <h4 id="sec-6-5-2">To publish your blog to the so called internet,</h4>
 <div class="outline-text-4" id="text-6-5-2">
 <p>
-Edit the conf.py file and change these following variables. This helps
+Edit the <code>conf.py</code> file and change these following variables. This helps
 in keeping the master branch of GitHub page less crowded.
 </p>
 
@@ -497,13 +526,13 @@ in keeping the master branch of GitHub page less crowded.
 <p>
 And visit <a href="https://bottle.github.io">https://bottle.github.io</a>
 </p>
+<hr>
 </div>
 </div>
 </div>
 </div>
-
 <div id="outline-container-sec-7" class="outline-2">
-<h2 id="sec-7">Thanks</h2>
+<h2 id="sec-7"><code>Thanks</code></h2>
 <div class="outline-text-2" id="text-7">
 <p>
 For detailed information : 
@@ -536,7 +565,8 @@ For detailed information :
 </div>
     </div>
     <aside class="postpromonav"><nav><ul itemprop="keywords" class="tags">
-<li><a class="tag p-category" href="../../categories/emacs/" rel="tag">emacs</a></li>
+<li><a class="tag p-category" href="../../categories/blogging/" rel="tag">blogging</a></li>
+            <li><a class="tag p-category" href="../../categories/emacs/" rel="tag">emacs</a></li>
             <li><a class="tag p-category" href="../../categories/github/" rel="tag">github</a></li>
             <li><a class="tag p-category" href="../../categories/linux/" rel="tag">linux</a></li>
             <li><a class="tag p-category" href="../../categories/nikola/" rel="tag">nikola</a></li>
@@ -547,7 +577,7 @@ For detailed information :
         
         <div id="disqus_thread"></div>
         <script>
-        var disqus_shortname ="mindtoilet",
+        var disqus_shortname ="https-mindtoilet-github-io",
             disqus_url="https://mindtoilet.github.io/posts/how-to-write-a-blog-using-nikola/",
         disqus_title="Blogging using nikola-github-emacs-orgmode",
         disqus_identifier="cache/posts/how-to-write-a-blog-using-nikola.html",
@@ -564,7 +594,7 @@ For detailed information :
     <a href="https://disqus.com" class="dsq-brlink" rel="nofollow">Comments powered by <span class="logo-disqus">Disqus</span></a>
 
 
-        </section></article><script>var disqus_shortname="mindtoilet";(function(){var a=document.createElement("script");a.async=true;a.src="https://"+disqus_shortname+".disqus.com/count.js";(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(a)}());</script>
+        </section></article><script>var disqus_shortname="https-mindtoilet-github-io";(function(){var a=document.createElement("script");a.async=true;a.src="https://"+disqus_shortname+".disqus.com/count.js";(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(a)}());</script>
 </div>
         <!--End of body content-->
 
