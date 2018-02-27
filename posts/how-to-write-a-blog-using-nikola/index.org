@@ -68,20 +68,24 @@ If you haven't heard the news yet, Python is a programming
 language and Python 3 is here to stay.
 
 Python Virtual environment basically copies python scripts to create a
-new workplace. You could install custom packages specific to your
-project. 
+new workplace. You could install custom python packages specific to your
+project. This means packages used for one project will not pollute
+another project.
 
 For e.g. if you wish to have a separate working environment for
 cooking vegetables, where you don't want nikola to be installed, 
 create a virtual environment called vegetables. 
 ** Virtual environment wrapper  
-Wrapped virtual environment commands for ease of use.
+Gift-wrapped python virtual environment commands.
+For ease of use. No need to remember too many virtualenv commands.
+
+
 Let "$HOME/virenvs" be our directory for all environments.
 #+BEGIN_QUOTE
 ~As always, names doesn't matter. It is what you do that defines you - Spiderman's ex-girlfriend~
 #+END_QUOTE
 ** Steps
-Make sure you have pip (python package manager) in your machine.
+Make sure you have pip (python package manager) installed in your machine.
 And follow the steps :
 #+BEGIN_SRC sh
 pip install virtualenv
@@ -95,7 +99,7 @@ workon bottle
 Now you should see that you have entered the 'bottle' environment.
 ------
 * =Nikola=
-If you are inside the bottle, then you are ready to install nikola, the
+If you are inside the bottle, then you are ready to install /nikola/, the
 static site generator.
 ** Installation
 #+BEGIN_SRC sh
@@ -105,7 +109,7 @@ cd $HOME/projects/bottle
 git checkout -b sources
 #+END_SRC
 
-add a .git ignore file to $HOME/projects/bottle folder with the
+add a .gitignore file to ~$HOME/projects/bottle~ folder with the
 following content in it.
 
 #+BEGIN_SRC sh
@@ -131,8 +135,8 @@ Fill in the form that follows.
 
 It should show a success message after form is filled.
 Now, nikola will create a new folder called bottle inside
-$HOME/projects/bottle, which is unnecessary. So move its contents to
-$HOME/projects/bottle folder and delete the extra bottle.
+~$HOME/projects/bottle~, which is unnecessary. So move its contents to
+~$HOME/projects/bottle~ folder and delete the extra bottle.
 #+BEGIN_SRC sh
 mv my_first_site/* .
 rm -r my_first_site
@@ -168,12 +172,11 @@ Every great software application is a file with some text in it and
 ~Emacs is a text file editor~
 
 The best way to get started with Emacs is to follow its built-in
-tutorial. /Open Emacs and press Ctrl-h t. Customizing Emacs is like
-making your own waffle. Still help is available at [[http://cestlaz.github.io/stories/emacs/][using emacs]].
+tutorial. Open Emacs and press Ctrl-h t. 
+Emacs tastes best when customized. Help is available at [[http://cestlaz.github.io/stories/emacs/][using emacs]].
 
 org-mode in itself is the biggest reason people fall in love with
-Emacs so easily. The best way to learn about org-mode is to hear it
-from the horse's mouth [[https://www.youtube.com/watch?v=oJTwQvgfgMM][org mode : by its creator]].
+Emacs so easily. [[https://www.youtube.com/watch?v=SzA2YODtgK4][I like org mode introduction by Harry Schwartz]].
 
 Two cool things in org-mode that I must mention:
 1. creating tables =|Name|Age <tab>=
@@ -203,11 +206,11 @@ nikola new_post -e -f orgmode
 #+END_SRC
 
 ** Comments
-If you would like using disqus as the commenting system then:
+If you like using disqus as the commenting system then:
 1. Create a disqus account
 2. Login and click on your picture at top right and select install on site
 3. Fill in necessary details. If you don't see nikola platform in the
-   list, don't worry, skip that and go to next page. If it is about
+   list, don't worry, skip that and go to next page. If the next page is about
    installing manually by adding code where you want disqus to appear,
    SKIP that as well.
 4. Go to the last step and finish the configuration

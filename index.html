@@ -198,8 +198,9 @@ language and Python 3 is here to stay.
 
 <p>
 Python Virtual environment basically copies python scripts to create a
-new workplace. You could install custom packages specific to your
-project. 
+new workplace. You could install custom python packages specific to your
+project. This means packages used for one project will not pollute
+another project.
 </p>
 
 <p>
@@ -212,7 +213,12 @@ create a virtual environment called vegetables.
 <h3 id="sec-5-1">Virtual environment wrapper</h3>
 <div class="outline-text-3" id="text-5-1">
 <p>
-Wrapped virtual environment commands for ease of use.
+Gift-wrapped python virtual environment commands.
+For ease of use. No need to remember too many virtualenv commands.
+</p>
+
+
+<p>
 Let "$HOME/virenvs" be our directory for all environments.
 </p>
 <blockquote>
@@ -226,7 +232,7 @@ Let "$HOME/virenvs" be our directory for all environments.
 <h3 id="sec-5-2">Steps</h3>
 <div class="outline-text-3" id="text-5-2">
 <p>
-Make sure you have pip (python package manager) in your machine.
+Make sure you have pip (python package manager) installed in your machine.
 And follow the steps :
 </p>
 <div class="highlight"><pre><span></span>pip install virtualenv
@@ -248,7 +254,7 @@ Now you should see that you have entered the 'bottle' environment.
 <h2 id="sec-6"><code>Nikola</code></h2>
 <div class="outline-text-2" id="text-6">
 <p>
-If you are inside the bottle, then you are ready to install nikola, the
+If you are inside the bottle, then you are ready to install <i>nikola</i>, the
 static site generator.
 </p>
 </div>
@@ -262,7 +268,7 @@ git checkout -b sources
 </pre></div>
 
 <p>
-add a .git ignore file to $HOME/projects/bottle folder with the
+add a .gitignore file to <code>$HOME/projects/bottle</code> folder with the
 following content in it.
 </p>
 
@@ -297,8 +303,8 @@ Fill in the form that follows.
 <p>
 It should show a success message after form is filled.
 Now, nikola will create a new folder called bottle inside
-$HOME/projects/bottle, which is unnecessary. So move its contents to
-$HOME/projects/bottle folder and delete the extra bottle.
+<code>$HOME/projects/bottle</code>, which is unnecessary. So move its contents to
+<code>$HOME/projects/bottle</code> folder and delete the extra bottle.
 </p>
 <div class="highlight"><pre><span></span>mv my_first_site/* .
 rm -r my_first_site
@@ -356,14 +362,13 @@ Every great software application is a file with some text in it and
 
 <p>
 The best way to get started with Emacs is to follow its built-in
-tutorial. /Open Emacs and press Ctrl-h t. Customizing Emacs is like
-making your own waffle. Still help is available at <a href="http://cestlaz.github.io/stories/emacs/">using emacs</a>.
+tutorial. Open Emacs and press Ctrl-h t. 
+Emacs tastes best when customized. Help is available at <a href="http://cestlaz.github.io/stories/emacs/">using emacs</a>.
 </p>
 
 <p>
 org-mode in itself is the biggest reason people fall in love with
-Emacs so easily. The best way to learn about org-mode is to hear it
-from the horse's mouth <a href="https://www.youtube.com/watch?v=oJTwQvgfgMM">org mode : by its creator</a>.
+Emacs so easily. <a href="https://www.youtube.com/watch?v=SzA2YODtgK4">I like org mode introduction by Harry Schwartz</a>.
 </p>
 
 <p>
@@ -412,7 +417,7 @@ Now, to write a post using org-mode,
 <h3 id="sec-6-4">Comments</h3>
 <div class="outline-text-3" id="text-6-4">
 <p>
-If you would like using disqus as the commenting system then:
+If you like using disqus as the commenting system then:
 </p>
 <ol class="org-ol">
 <li>Create a disqus account
@@ -420,7 +425,7 @@ If you would like using disqus as the commenting system then:
 <li>Login and click on your picture at top right and select install on site
 </li>
 <li>Fill in necessary details. If you don't see nikola platform in the
-list, don't worry, skip that and go to next page. If it is about
+list, don't worry, skip that and go to next page. If the next page is about
 installing manually by adding code where you want disqus to appear,
 SKIP that as well.
 </li>
