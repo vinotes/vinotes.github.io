@@ -6,32 +6,96 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://mindtoilet.github.io/categories/audience.xml</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://mindtoilet.github.io/categories/blogging.xml</loc>
-  <lastmod>2018-02-27T17:59:00Z</lastmod>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/cat_technology.xml</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/cat_writing.xml</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/comedy.xml</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/emacs.xml</loc>
-  <lastmod>2018-02-27T17:59:00Z</lastmod>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/experiment.xml</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/freakout.xml</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/future.xml</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/github.xml</loc>
-  <lastmod>2018-02-27T17:59:00Z</lastmod>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/humour.xml</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/internet.xml</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/linux.xml</loc>
-  <lastmod>2018-02-27T17:59:00Z</lastmod>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/movies.xml</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/nikola.xml</loc>
-  <lastmod>2018-02-27T17:59:00Z</lastmod>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/orgmode.xml</loc>
-  <lastmod>2018-02-27T17:59:00Z</lastmod>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/python.xml</loc>
-  <lastmod>2018-02-27T17:59:00Z</lastmod>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/real.xml</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/sex.xml</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/social.xml</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/surreal.xml</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/toilet.xml</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/wednesday.xml</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/galleries/rss.xml</loc>
@@ -39,10 +103,10 @@
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/rss.xml</loc>
-  <lastmod>2018-03-19T13:57:00Z</lastmod>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/sitemap.xml</loc>
-  <lastmod>2018-03-19T13:57:00Z</lastmod>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
  </sitemap>
 </sitemapindex>

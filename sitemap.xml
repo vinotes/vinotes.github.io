@@ -15,27 +15,67 @@
  </url>
  <url>
   <loc>https://mindtoilet.github.io/archive.html</loc>
-  <lastmod>2018-03-19T13:57:00Z</lastmod>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://mindtoilet.github.io/categories/</loc>
-  <lastmod>2018-02-19T18:29:00Z</lastmod>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mindtoilet.github.io/categories/audience/</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://mindtoilet.github.io/categories/blogging/</loc>
   <lastmod>2018-02-19T18:29:00Z</lastmod>
  </url>
  <url>
+  <loc>https://mindtoilet.github.io/categories/cat_technology/</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mindtoilet.github.io/categories/cat_writing/</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mindtoilet.github.io/categories/comedy/</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://mindtoilet.github.io/categories/emacs/</loc>
   <lastmod>2018-02-08T20:51:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mindtoilet.github.io/categories/experiment/</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mindtoilet.github.io/categories/freakout/</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mindtoilet.github.io/categories/future/</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://mindtoilet.github.io/categories/github/</loc>
   <lastmod>2018-02-08T20:51:00Z</lastmod>
  </url>
  <url>
+  <loc>https://mindtoilet.github.io/categories/humour/</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mindtoilet.github.io/categories/internet/</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://mindtoilet.github.io/categories/linux/</loc>
   <lastmod>2018-02-08T20:51:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mindtoilet.github.io/categories/movies/</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://mindtoilet.github.io/categories/nikola/</loc>
@@ -48,6 +88,30 @@
  <url>
   <loc>https://mindtoilet.github.io/categories/python/</loc>
   <lastmod>2018-02-08T20:51:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mindtoilet.github.io/categories/real/</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mindtoilet.github.io/categories/sex/</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mindtoilet.github.io/categories/social/</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mindtoilet.github.io/categories/surreal/</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mindtoilet.github.io/categories/toilet/</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mindtoilet.github.io/categories/wednesday/</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://mindtoilet.github.io/galleries/</loc>
@@ -68,5 +132,9 @@
  <url>
   <loc>https://mindtoilet.github.io/posts/i-am-not-from-hitherto/</loc>
   <lastmod>2018-03-11T07:51:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mindtoilet.github.io/posts/today-is-wednesday/</loc>
+  <lastmod>2018-03-28T14:12:00Z</lastmod>
  </url>
 </urlset>
