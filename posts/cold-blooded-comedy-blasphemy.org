@@ -2,8 +2,8 @@
 .. title: Cold blooded comedy blasphemy
 .. slug: cold-blooded-comedy-blasphemy
 .. date: 2018-03-19 18:35:56 UTC+05:30
-.. tags: 
-.. category: 
+.. tags: comedy, movies, toilet, humour, audience
+.. category: writing
 .. link: 
 .. description: 
 .. type: text
@@ -11,8 +11,8 @@
 
 #+OPTIONS: \n:t
 
+--------------------------------------------------
 
-* Cold blooded comedy blasphemy
 The Director is waiting in the car. 
 Assistant enters. 
 
@@ -50,3 +50,5 @@ D: Sorry what? No, I finished it quickly.
 S: Were you not in the theater?
 A: Watching the movie?
 D: Oh, no.. no.. I was in the toilet.
+
+--------------------------------------------------
