@@ -12,8 +12,7 @@
 #+OPTIONS: \n:t
 ----------------------------------
 
-Today morning, I posted a message in all multiple groups in my
-messaging app.
+Today morning, I posted a message in multiple chat groups.
 Clearly, the world around me was not ready for this. 
 
 ** ~The message~
@@ -33,8 +32,8 @@ What am I missing with this date?
 Did you integrate your messaging app with emacs?
 #+END_QUOTE
 Since most dates in the calendar are earmarked '/exciting/', a boring
-date in calendar brings natural suspicion. 
-About the pure evil second comment, ~Dislike is proportional to ignorance~
+date brings natural suspicion. 
+About the pure evil second comment, ~Dislike is directly proportional to ignorance~
 ** ~Football group~
 #+BEGIN_QUOTE
 Yup it is. Good morning.
