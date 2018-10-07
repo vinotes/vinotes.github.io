@@ -31,11 +31,11 @@
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/experiment.xml</loc>
-  <lastmod>2018-03-28T14:12:00Z</lastmod>
+  <lastmod>2018-03-29T14:43:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/freakout.xml</loc>
-  <lastmod>2018-03-28T14:12:00Z</lastmod>
+  <lastmod>2018-03-29T14:43:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/future.xml</loc>
@@ -56,6 +56,10 @@
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/linux.xml</loc>
   <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/misogyny-feminism-language-wedding.xml</loc>
+  <lastmod>2018-10-07T07:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/movies.xml</loc>
@@ -83,7 +87,7 @@
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/social.xml</loc>
-  <lastmod>2018-03-28T14:12:00Z</lastmod>
+  <lastmod>2018-03-29T14:43:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/surreal.xml</loc>
@@ -95,18 +99,18 @@
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/wednesday.xml</loc>
-  <lastmod>2018-03-28T14:12:00Z</lastmod>
+  <lastmod>2018-03-29T14:43:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/galleries/rss.xml</loc>
-  <lastmod>2018-02-19T18:11:00Z</lastmod>
+  <lastmod>2018-06-16T19:15:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/rss.xml</loc>
-  <lastmod>2018-03-28T14:12:00Z</lastmod>
+  <lastmod>2018-10-07T07:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/sitemap.xml</loc>
-  <lastmod>2018-03-28T14:12:00Z</lastmod>
+  <lastmod>2018-10-07T07:19:00Z</lastmod>
  </sitemap>
 </sitemapindex>
