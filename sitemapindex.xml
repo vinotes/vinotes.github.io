@@ -34,6 +34,10 @@
   <lastmod>2018-03-29T14:43:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://mindtoilet.github.io/categories/feminism.xml</loc>
+  <lastmod>2018-10-08T18:25:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://mindtoilet.github.io/categories/freakout.xml</loc>
   <lastmod>2018-03-29T14:43:00Z</lastmod>
  </sitemap>
@@ -54,12 +58,20 @@
   <lastmod>2018-03-28T14:12:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://mindtoilet.github.io/categories/language.xml</loc>
+  <lastmod>2018-10-08T18:25:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://mindtoilet.github.io/categories/linux.xml</loc>
   <lastmod>2018-03-28T14:12:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/misogyny-feminism-language-wedding.xml</loc>
-  <lastmod>2018-10-07T07:19:00Z</lastmod>
+  <lastmod>2018-10-07T07:24:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/misogyny.xml</loc>
+  <lastmod>2018-10-08T18:25:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/movies.xml</loc>
@@ -82,6 +94,10 @@
   <lastmod>2018-03-28T14:12:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://mindtoilet.github.io/categories/satire.xml</loc>
+  <lastmod>2018-10-08T18:25:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://mindtoilet.github.io/categories/sex.xml</loc>
   <lastmod>2018-03-28T14:12:00Z</lastmod>
  </sitemap>
@@ -98,6 +114,10 @@
   <lastmod>2018-03-28T14:12:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://mindtoilet.github.io/categories/wedding.xml</loc>
+  <lastmod>2018-10-08T18:25:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://mindtoilet.github.io/categories/wednesday.xml</loc>
   <lastmod>2018-03-29T14:43:00Z</lastmod>
  </sitemap>
@@ -107,10 +127,10 @@
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/rss.xml</loc>
-  <lastmod>2018-10-07T07:19:00Z</lastmod>
+  <lastmod>2018-10-08T18:25:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/sitemap.xml</loc>
-  <lastmod>2018-10-07T07:19:00Z</lastmod>
+  <lastmod>2018-10-08T18:25:00Z</lastmod>
  </sitemap>
 </sitemapindex>
