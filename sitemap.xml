@@ -15,11 +15,11 @@
  </url>
  <url>
   <loc>https://mindtoilet.github.io/archive.html</loc>
-  <lastmod>2018-10-07T05:43:00Z</lastmod>
+  <lastmod>2018-10-22T18:31:00Z</lastmod>
  </url>
  <url>
   <loc>https://mindtoilet.github.io/categories/</loc>
-  <lastmod>2018-10-08T18:25:00Z</lastmod>
+  <lastmod>2018-10-23T18:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://mindtoilet.github.io/categories/audience/</loc>
@@ -28,6 +28,10 @@
  <url>
   <loc>https://mindtoilet.github.io/categories/blogging/</loc>
   <lastmod>2018-02-19T18:29:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mindtoilet.github.io/categories/cat_satire/</loc>
+  <lastmod>2018-10-22T18:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://mindtoilet.github.io/categories/cat_technology/</loc>
@@ -40,6 +44,14 @@
  <url>
   <loc>https://mindtoilet.github.io/categories/comedy/</loc>
   <lastmod>2018-03-28T14:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mindtoilet.github.io/categories/cooking/</loc>
+  <lastmod>2018-10-22T18:31:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mindtoilet.github.io/categories/crime/</loc>
+  <lastmod>2018-10-22T18:31:00Z</lastmod>
  </url>
  <url>
   <loc>https://mindtoilet.github.io/categories/emacs/</loc>
@@ -106,10 +118,6 @@
   <lastmod>2018-03-28T14:12:00Z</lastmod>
  </url>
  <url>
-  <loc>https://mindtoilet.github.io/categories/satire/</loc>
-  <lastmod>2018-10-08T18:25:00Z</lastmod>
- </url>
- <url>
   <loc>https://mindtoilet.github.io/categories/sex/</loc>
   <lastmod>2018-03-28T14:12:00Z</lastmod>
  </url>
@@ -144,6 +152,10 @@
  <url>
   <loc>https://mindtoilet.github.io/posts/cold-blooded-comedy-blasphemy/</loc>
   <lastmod>2018-03-19T13:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mindtoilet.github.io/posts/crime-scene/</loc>
+  <lastmod>2018-10-22T18:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://mindtoilet.github.io/posts/how-to-write-a-blog-using-nikola/</loc>
