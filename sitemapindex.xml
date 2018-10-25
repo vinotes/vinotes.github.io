@@ -22,8 +22,12 @@
   <lastmod>2018-10-23T16:23:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://mindtoilet.github.io/categories/cat_writing-serious-comedy.xml</loc>
+  <lastmod>2018-10-25T17:00:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://mindtoilet.github.io/categories/cat_writing.xml</loc>
-  <lastmod>2018-10-23T18:42:00Z</lastmod>
+  <lastmod>2018-10-25T17:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/comedy.xml</loc>
@@ -31,11 +35,15 @@
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/cooking.xml</loc>
-  <lastmod>2018-10-23T18:42:00Z</lastmod>
+  <lastmod>2018-10-25T17:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/crime.xml</loc>
-  <lastmod>2018-10-23T18:42:00Z</lastmod>
+  <lastmod>2018-10-25T17:00:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/dosa.xml</loc>
+  <lastmod>2018-10-25T17:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/emacs.xml</loc>
@@ -48,6 +56,10 @@
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/feminism.xml</loc>
   <lastmod>2018-10-22T18:30:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/food.xml</loc>
+  <lastmod>2018-10-25T17:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/freakout.xml</loc>
@@ -131,10 +143,10 @@
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/rss.xml</loc>
-  <lastmod>2018-10-23T18:42:00Z</lastmod>
+  <lastmod>2018-10-25T17:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/sitemap.xml</loc>
-  <lastmod>2018-10-23T18:43:00Z</lastmod>
+  <lastmod>2018-10-25T17:00:00Z</lastmod>
  </sitemap>
 </sitemapindex>
