@@ -11,7 +11,7 @@ salah melwood
 .. type: text
 #+END_COMMENT
 
-#+OPTIONS: \n:t
+
 
 --------------------------------------------------
 
