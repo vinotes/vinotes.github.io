@@ -8,11 +8,11 @@
 .. description: 
 .. type: text
 #+END_COMMENT
-* Blog about writing blogs
+* =Blog about writing blogs=
 This blog about writing blogs is upon request by pestering
 friends. Thanks to all other blogs about writing blogs.
 ------
-* To know these exist
+* =To know these exist=
 | /                          | <                                                         |
 |----------------------------+-----------------------------------------------------------|
 | [[https://getnikola.com/][Nikola]]                     | Static website generator                                  |
@@ -31,7 +31,7 @@ Curious Columbus-es should then follow the links.
 (or) If you just want to get your blog up and running then,
 bother not, you shall.
 ------
-* Well
+* =Well=
 The idea is to create a blogging website hosted in /Github/, using a
 static site generator software /Nikola/, with the help of /Python
 virtual environment/ and then write blog posts using /emacs org mode/.
@@ -39,9 +39,9 @@ virtual environment/ and then write blog posts using /emacs org mode/.
 1. I'm using Linux.
 2. I will be assuming the name of your blog as 'bottle'
 ------
-* GitHub
+* =GitHub=
 #+BEGIN_QUOTE
-git : /(British)/ a foolish or worthless person
+=git= : /(British)/ a foolish or worthless person
 
                     -- Merriam-Webster
 #+END_QUOTE
@@ -63,7 +63,7 @@ git clone https://bottle.github.io/ $HOME/projects/bottle
 You will be adding blog posts in ~/projects/bottle directory and will
 push them back to GitHub later.
 ------
-* Python Virtual Environment
+* =Python Virtual Environment=
 If you haven't heard the news yet, Python is a programming
 language and Python 3 is here to stay.
 
@@ -80,9 +80,9 @@ Gift-wrapped python virtual environment commands.
 For ease of use. No need to remember too many virtualenv commands.
 
 
-Let /$HOME/virenvs/ be our directory for all environments.
+Let "$HOME/virenvs" be our directory for all environments.
 #+BEGIN_QUOTE
-/As always, names doesn't matter. It is what you do that defines you - Spiderman's ex-girlfriend/
+~As always, names doesn't matter. It is what you do that defines you - Spiderman's ex-girlfriend~
 #+END_QUOTE
 ** Steps
 Make sure you have pip (python package manager) installed in your machine.
@@ -98,7 +98,7 @@ workon bottle
 
 Now you should see that you have entered the 'bottle' environment.
 ------
-* Nikola
+* =Nikola=
 If you are inside the bottle, then you are ready to install /nikola/, the
 static site generator.
 ** Installation
@@ -109,7 +109,7 @@ cd $HOME/projects/bottle
 git checkout -b sources
 #+END_SRC
 
-add a .gitignore file to $HOME/projects/bottle folder with the
+add a .gitignore file to ~$HOME/projects/bottle~ folder with the
 following content in it.
 
 #+BEGIN_SRC sh
@@ -135,8 +135,8 @@ Fill in the form that follows.
 
 It should show a success message after form is filled.
 Now, nikola will create a new folder called bottle inside
-$HOME/projects/bottle, which is unnecessary. So move its contents to
-$HOME/projects/bottle folder and delete the extra bottle.
+~$HOME/projects/bottle~, which is unnecessary. So move its contents to
+~$HOME/projects/bottle~ folder and delete the extra bottle.
 #+BEGIN_SRC sh
 mv my_first_site/* .
 rm -r my_first_site
@@ -169,7 +169,7 @@ Movimg on from editor of your choice,
 
 **** Emacs Org-mode
 Every great software application is a file with some text in it and
-Emacs is a text file editor
+~Emacs is a text file editor~
 
 The best way to get started with Emacs is to follow its built-in
 tutorial. Open Emacs and press Ctrl-h t. 
@@ -179,15 +179,15 @@ org-mode in itself is the biggest reason people fall in love with
 Emacs so easily. [[https://www.youtube.com/watch?v=SzA2YODtgK4][I like org mode introduction by Harry Schwartz]].
 
 Two cool things in org-mode that I must mention:
-1. creating tables |Name|Age <tab>
-2. exporting to html/pdf/LaTeX/odt/iCal ... Ctrl-c Ctrl-e
+1. creating tables =|Name|Age <tab>=
+2. exporting to html/pdf/LaTeX/odt/iCal ... =Ctrl-c Ctrl-e=
 ------
 **** To write a new blog post in Emacs org-mode
 
 You've already installed org mode plugin for nikola in your
 installation process. 
 
-Now, append the following to your conf.py file(available in bottle
+Now, append the following to your =conf.py= file(available in bottle
 folder)
 
 #+BEGIN_SRC python
@@ -215,7 +215,7 @@ If you like using disqus as the commenting system then:
    SKIP that as well.
 4. Go to the last step and finish the configuration
 5. At the end of setup, you should see your disqus short name.
-6. That is your disqus ID you need to add in your conf.py file
+6. That is your disqus ID you need to add in your =conf.py= file
 
 #+BEGIN_SRC python
 # To use comments, you can choose between different third party comment
@@ -246,7 +246,7 @@ nikola auto
 
 *** To publish your blog to the so called internet,
 
-Edit the conf.py file and change these following variables. This helps
+Edit the =conf.py= file and change these following variables. This helps
 in keeping the master branch of GitHub page less crowded.
 
 #+BEGIN_SRC python
@@ -260,7 +260,7 @@ nikola github_deploy
 
 And visit https://bottle.github.io
 ------
-* Thanks
+* =Thanks=
 For detailed information : 
 
 1. [[http://streakycobra.github.io/posts/blogging-in-org-mode-with-nikola/][streakycobra]]
