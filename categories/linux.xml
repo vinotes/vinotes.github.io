@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>mindtoilet (Posts about linux)</title><link>https://mindtoilet.github.io/</link><description></description><atom:link href="https://mindtoilet.github.io/categories/linux.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><copyright>Contents © 2018 &lt;a href="mailto:mindtoilet@gmail.com"&gt;mind&lt;/a&gt; </copyright><lastBuildDate>Tue, 23 Oct 2018 16:23:55 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Blogging using nikola, github, emacs, orgmode</title><link>https://mindtoilet.github.io/posts/how-to-write-a-blog-using-nikola/</link><dc:creator>mind</dc:creator><description>&lt;div id="outline-container-sec-1" class="outline-2"&gt;
-&lt;h2 id="sec-1"&gt;&lt;code&gt;Blog about writing blogs&lt;/code&gt;&lt;/h2&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>mindtoilet (Posts about linux)</title><link>https://mindtoilet.github.io/</link><description></description><atom:link href="https://mindtoilet.github.io/categories/linux.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:mindtoilet@gmail.com"&gt;mind&lt;/a&gt; </copyright><lastBuildDate>Wed, 01 Apr 2020 23:35:41 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Blogging using nikola, github, emacs, orgmode</title><link>https://mindtoilet.github.io/posts/how-to-write-a-blog-using-nikola/</link><dc:creator>mind</dc:creator><description>&lt;div id="outline-container-sec-1" class="outline-2"&gt;
+&lt;h2 id="sec-1"&gt;Blog about writing blogs&lt;/h2&gt;
 &lt;div class="outline-text-2" id="text-1"&gt;
 &lt;p&gt;
 This blog about writing blogs is upon request by pestering
@@ -10,7 +10,7 @@ friends. Thanks to all other blogs about writing blogs.
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div id="outline-container-sec-2" class="outline-2"&gt;
-&lt;h2 id="sec-2"&gt;&lt;code&gt;To know these exist&lt;/code&gt;&lt;/h2&gt;
+&lt;h2 id="sec-2"&gt;To know these exist&lt;/h2&gt;
 &lt;div class="outline-text-2" id="text-2"&gt;
 &lt;table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides"&gt;
 
@@ -64,7 +64,7 @@ bother not, you shall.
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div id="outline-container-sec-3" class="outline-2"&gt;
-&lt;h2 id="sec-3"&gt;&lt;code&gt;Well&lt;/code&gt;&lt;/h2&gt;
+&lt;h2 id="sec-3"&gt;Well&lt;/h2&gt;
 &lt;div class="outline-text-2" id="text-3"&gt;
 &lt;p&gt;
 The idea is to create a blogging website hosted in &lt;i&gt;Github&lt;/i&gt;, using a
@@ -86,11 +86,11 @@ virtual environment&lt;/i&gt; and then write blog posts using &lt;i&gt;emacs org
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div id="outline-container-sec-4" class="outline-2"&gt;
-&lt;h2 id="sec-4"&gt;&lt;code&gt;GitHub&lt;/code&gt;&lt;/h2&gt;
+&lt;h2 id="sec-4"&gt;GitHub&lt;/h2&gt;
 &lt;div class="outline-text-2" id="text-4"&gt;
 &lt;blockquote&gt;
 &lt;p&gt;
-&lt;code&gt;git&lt;/code&gt; : &lt;i&gt;(British)&lt;/i&gt; a foolish or worthless person
+git : &lt;i&gt;(British)&lt;/i&gt; a foolish or worthless person
 &lt;/p&gt;
 
 &lt;p&gt;
@@ -130,7 +130,7 @@ push them back to GitHub later.
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div id="outline-container-sec-5" class="outline-2"&gt;
-&lt;h2 id="sec-5"&gt;&lt;code&gt;Python Virtual Environment&lt;/code&gt;&lt;/h2&gt;
+&lt;h2 id="sec-5"&gt;Python Virtual Environment&lt;/h2&gt;
 &lt;div class="outline-text-2" id="text-5"&gt;
 &lt;p&gt;
 If you haven't heard the news yet, Python is a programming
@@ -160,11 +160,11 @@ For ease of use. No need to remember too many virtualenv commands.
 
 
 &lt;p&gt;
-Let "$HOME/virenvs" be our directory for all environments.
+Let &lt;i&gt;$HOME/virenvs&lt;/i&gt; be our directory for all environments.
 &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;
-&lt;code&gt;As always, names doesn't matter. It is what you do that defines you - Spiderman's ex-girlfriend&lt;/code&gt;
+&lt;i&gt;As always, names doesn't matter. It is what you do that defines you - Spiderman's ex-girlfriend&lt;/i&gt;
 &lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;
@@ -192,7 +192,7 @@ Now you should see that you have entered the 'bottle' environment.
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div id="outline-container-sec-6" class="outline-2"&gt;
-&lt;h2 id="sec-6"&gt;&lt;code&gt;Nikola&lt;/code&gt;&lt;/h2&gt;
+&lt;h2 id="sec-6"&gt;Nikola&lt;/h2&gt;
 &lt;div class="outline-text-2" id="text-6"&gt;
 &lt;p&gt;
 If you are inside the bottle, then you are ready to install &lt;i&gt;nikola&lt;/i&gt;, the
@@ -209,7 +209,7 @@ git checkout -b sources
 &lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;
-add a .gitignore file to &lt;code&gt;$HOME/projects/bottle&lt;/code&gt; folder with the
+add a .gitignore file to $HOME/projects/bottle folder with the
 following content in it.
 &lt;/p&gt;
 
@@ -244,8 +244,8 @@ Fill in the form that follows.
 &lt;p&gt;
 It should show a success message after form is filled.
 Now, nikola will create a new folder called bottle inside
-&lt;code&gt;$HOME/projects/bottle&lt;/code&gt;, which is unnecessary. So move its contents to
-&lt;code&gt;$HOME/projects/bottle&lt;/code&gt; folder and delete the extra bottle.
+$HOME/projects/bottle, which is unnecessary. So move its contents to
+$HOME/projects/bottle folder and delete the extra bottle.
 &lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;mv my_first_site/* .
 rm -r my_first_site
@@ -296,7 +296,7 @@ Movimg on from editor of your choice,
 &lt;ul class="org-ul"&gt;&lt;li&gt;&lt;a id="sec-6-3-0-1" name="sec-6-3-0-1"&gt;&lt;/a&gt;Emacs Org-mode&lt;br&gt;&lt;div class="outline-text-5" id="text-6-3-0-1"&gt;
 &lt;p&gt;
 Every great software application is a file with some text in it and
-&lt;code&gt;Emacs is a text file editor&lt;/code&gt;
+Emacs is a text file editor
 &lt;/p&gt;
 
 &lt;p&gt;
@@ -314,9 +314,9 @@ Emacs so easily. &lt;a href="https://www.youtube.com/watch?v=SzA2YODtgK4"&gt;I l
 Two cool things in org-mode that I must mention:
 &lt;/p&gt;
 &lt;ol class="org-ol"&gt;
-&lt;li&gt;creating tables &lt;code&gt;|Name|Age &amp;lt;tab&amp;gt;&lt;/code&gt;
+&lt;li&gt;creating tables |Name|Age &amp;lt;tab&amp;gt;
 &lt;/li&gt;
-&lt;li&gt;exporting to html/pdf/LaTeX/odt/iCal … &lt;code&gt;Ctrl-c Ctrl-e&lt;/code&gt;
+&lt;li&gt;exporting to html/pdf/LaTeX/odt/iCal … Ctrl-c Ctrl-e
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
@@ -329,7 +329,7 @@ installation process.
 &lt;/p&gt;
 
 &lt;p&gt;
-Now, append the following to your &lt;code&gt;conf.py&lt;/code&gt; file(available in bottle
+Now, append the following to your conf.py file(available in bottle
 folder)
 &lt;/p&gt;
 
@@ -370,7 +370,7 @@ SKIP that as well.
 &lt;/li&gt;
 &lt;li&gt;At the end of setup, you should see your disqus short name.
 &lt;/li&gt;
-&lt;li&gt;That is your disqus ID you need to add in your &lt;code&gt;conf.py&lt;/code&gt; file
+&lt;li&gt;That is your disqus ID you need to add in your conf.py file
 &lt;/li&gt;
 &lt;/ol&gt;
 
@@ -411,7 +411,7 @@ every change you make to your post.
 &lt;h4 id="sec-6-5-2"&gt;To publish your blog to the so called internet,&lt;/h4&gt;
 &lt;div class="outline-text-4" id="text-6-5-2"&gt;
 &lt;p&gt;
-Edit the &lt;code&gt;conf.py&lt;/code&gt; file and change these following variables. This helps
+Edit the conf.py file and change these following variables. This helps
 in keeping the master branch of GitHub page less crowded.
 &lt;/p&gt;
 
@@ -431,7 +431,7 @@ And visit &lt;a href="https://bottle.github.io"&gt;https://bottle.github.io&lt;/
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div id="outline-container-sec-7" class="outline-2"&gt;
-&lt;h2 id="sec-7"&gt;&lt;code&gt;Thanks&lt;/code&gt;&lt;/h2&gt;
+&lt;h2 id="sec-7"&gt;Thanks&lt;/h2&gt;
 &lt;div class="outline-text-2" id="text-7"&gt;
 &lt;p&gt;
 For detailed information : 

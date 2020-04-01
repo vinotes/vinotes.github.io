@@ -7,63 +7,75 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/audience.xml</loc>
-  <lastmod>2018-10-23T16:23:00Z</lastmod>
+  <lastmod>2020-04-01T23:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/blogging.xml</loc>
-  <lastmod>2018-10-23T16:23:00Z</lastmod>
+  <lastmod>2020-04-01T23:35:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/cat_draft.xml</loc>
+  <lastmod>2020-04-01T23:43:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/cat_satire.xml</loc>
-  <lastmod>2018-10-22T18:30:00Z</lastmod>
+  <lastmod>2020-04-01T23:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/cat_technology.xml</loc>
-  <lastmod>2018-10-23T16:23:00Z</lastmod>
+  <lastmod>2020-04-01T23:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/cat_writing-serious-comedy.xml</loc>
-  <lastmod>2018-10-25T17:08:00Z</lastmod>
+  <lastmod>2020-04-01T23:09:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/cat_writing.xml</loc>
-  <lastmod>2018-10-25T17:00:00Z</lastmod>
+  <lastmod>2020-04-01T23:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/comedy.xml</loc>
-  <lastmod>2018-10-23T16:23:00Z</lastmod>
+  <lastmod>2020-04-01T23:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/cooking.xml</loc>
-  <lastmod>2018-10-25T17:08:00Z</lastmod>
+  <lastmod>2020-04-01T23:09:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/crime.xml</loc>
-  <lastmod>2018-10-25T17:08:00Z</lastmod>
+  <lastmod>2020-04-01T23:09:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/dosa.xml</loc>
-  <lastmod>2018-10-25T17:08:00Z</lastmod>
+  <lastmod>2020-04-01T23:09:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/emacs.xml</loc>
-  <lastmod>2018-10-23T16:23:00Z</lastmod>
+  <lastmod>2020-04-01T23:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/experiment.xml</loc>
-  <lastmod>2018-03-29T14:43:00Z</lastmod>
+  <lastmod>2020-04-01T23:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/feminism.xml</loc>
-  <lastmod>2018-10-22T18:30:00Z</lastmod>
+  <lastmod>2020-04-01T23:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/food.xml</loc>
-  <lastmod>2018-10-25T17:08:00Z</lastmod>
+  <lastmod>2020-04-01T23:09:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/football-liverpoolfc-palakkad-kerala-india-dream-sadiomane-jurgenklopp-lfc-ynwa.xml</loc>
+  <lastmod>2020-04-01T23:43:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/football-liverpoolfc-palakkad-kerala.xml</loc>
+  <lastmod>2020-04-01T23:46:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/freakout.xml</loc>
-  <lastmod>2018-03-29T14:43:00Z</lastmod>
+  <lastmod>2020-04-01T23:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/future.xml</loc>
@@ -71,15 +83,15 @@
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/github.xml</loc>
-  <lastmod>2018-10-23T16:23:00Z</lastmod>
+  <lastmod>2020-04-01T23:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/himalayas.xml</loc>
-  <lastmod>2020-01-26T20:33:00Z</lastmod>
+  <lastmod>2020-01-26T20:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/humour.xml</loc>
-  <lastmod>2018-10-23T16:23:00Z</lastmod>
+  <lastmod>2020-04-01T23:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/internet.xml</loc>
@@ -87,43 +99,43 @@
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/language.xml</loc>
-  <lastmod>2018-10-22T18:30:00Z</lastmod>
+  <lastmod>2020-04-01T23:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/linux.xml</loc>
-  <lastmod>2018-10-23T16:23:00Z</lastmod>
+  <lastmod>2020-04-01T23:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/misogyny.xml</loc>
-  <lastmod>2018-10-22T18:30:00Z</lastmod>
+  <lastmod>2020-04-01T23:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/mountains.xml</loc>
-  <lastmod>2020-01-26T20:33:00Z</lastmod>
+  <lastmod>2020-01-26T20:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/movies.xml</loc>
-  <lastmod>2018-10-23T16:23:00Z</lastmod>
+  <lastmod>2020-04-01T23:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/nature.xml</loc>
-  <lastmod>2020-01-26T20:33:00Z</lastmod>
+  <lastmod>2020-01-26T20:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/night.xml</loc>
-  <lastmod>2020-01-26T20:33:00Z</lastmod>
+  <lastmod>2020-01-26T20:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/nikola.xml</loc>
-  <lastmod>2018-10-23T16:23:00Z</lastmod>
+  <lastmod>2020-04-01T23:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/orgmode.xml</loc>
-  <lastmod>2018-10-23T16:23:00Z</lastmod>
+  <lastmod>2020-04-01T23:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/python.xml</loc>
-  <lastmod>2018-10-23T16:23:00Z</lastmod>
+  <lastmod>2020-04-01T23:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/real.xml</loc>
@@ -131,11 +143,11 @@
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/river.xml</loc>
-  <lastmod>2020-01-26T20:33:00Z</lastmod>
+  <lastmod>2020-01-26T20:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/sea.xml</loc>
-  <lastmod>2020-01-26T20:33:00Z</lastmod>
+  <lastmod>2020-01-26T20:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/sex.xml</loc>
@@ -143,11 +155,11 @@
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/sky.xml</loc>
-  <lastmod>2020-01-26T20:33:00Z</lastmod>
+  <lastmod>2020-01-26T20:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/social.xml</loc>
-  <lastmod>2018-03-29T14:43:00Z</lastmod>
+  <lastmod>2020-04-01T23:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/surreal.xml</loc>
@@ -155,26 +167,26 @@
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/toilet.xml</loc>
-  <lastmod>2018-10-23T16:23:00Z</lastmod>
+  <lastmod>2020-04-01T23:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/wedding.xml</loc>
-  <lastmod>2018-10-22T18:30:00Z</lastmod>
+  <lastmod>2020-04-01T23:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/wednesday.xml</loc>
-  <lastmod>2018-03-29T14:43:00Z</lastmod>
+  <lastmod>2020-04-01T23:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/galleries/rss.xml</loc>
-  <lastmod>2020-01-26T20:41:00Z</lastmod>
+  <lastmod>2020-04-01T23:32:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/rss.xml</loc>
-  <lastmod>2020-01-26T20:33:00Z</lastmod>
+  <lastmod>2020-04-01T23:46:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/sitemap.xml</loc>
-  <lastmod>2020-01-26T20:41:00Z</lastmod>
+  <lastmod>2020-04-01T23:46:00Z</lastmod>
  </sitemap>
 </sitemapindex>
