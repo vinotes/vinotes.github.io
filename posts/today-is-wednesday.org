@@ -15,37 +15,37 @@
 Today morning, I posted a message in multiple chat groups.
 Clearly, the world around me was not ready for this. 
 
-** ~The message~
+** /The message/
 #+BEGIN_QUOTE
 "/Today is Wednesday, 28 March 2018/"
 #+END_QUOTE
 
-** ~Buddy~
+** /Buddy/
 #+BEGIN_QUOTE
 yes bro!
 What's on today?
 #+END_QUOTE
 This guy is jobless.
-** ~Engineers group~
+** /Engineers group/
 #+BEGIN_QUOTE
 What am I missing with this date?
 Did you integrate your messaging app with emacs?
 #+END_QUOTE
 Since most dates in the calendar are earmarked '/exciting/', a boring
 date brings natural suspicion. 
-About the pure evil second comment, ~Dislike is directly proportional to ignorance~
-** ~Football group~
+About the pure evil second comment, /Dislike is directly proportional to ignorance/
+** /Football group/
 #+BEGIN_QUOTE
 Yup it is. Good morning.
 #+END_QUOTE
 Class is permanent.
-** ~Team~
+** /Team/
 #+BEGIN_QUOTE
 Any deadline?
 Is it your birthday?
 #+END_QUOTE
 Hardworking professionals makes the Queen smile.
-** ~Another group~
+** /Another group/
 #+BEGIN_QUOTE
 so?
 🤔🤔
@@ -54,7 +54,7 @@ yes
 👍
 #+END_QUOTE
 Our mutual friend is not part of this group. 
-** ~Another another group~
+** /Another another group/
 #+BEGIN_QUOTE
 🙄
 🤔
@@ -62,19 +62,19 @@ Only our hero can solve this puzzle
 It’s not my bday 😏
 #+END_QUOTE
 She is sure it is not her birthday. Good, one less job for our hero.
-** ~School group~
+** /School group/
 #+BEGIN_QUOTE
 Congratulations👏🏼😃
 😪
 What's special today?
 #+END_QUOTE
 Congratulations on today being today. Ha ha !
-** ~Creative Friend~
+** /Creative Friend/
 #+BEGIN_QUOTE
 Happy birthday Wednesday💐 many more happy returns of the day😊
 #+END_QUOTE
 This is Epic!
-** ~General mass~
+** /General mass/
 Who didn't reply in the chat group, because they wish to maintain text message
 virginity in the social messaging ecosystem. I applaud that. After all,
 the second most important thing in the world is virginity.
