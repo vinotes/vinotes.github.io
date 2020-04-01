@@ -11,6 +11,9 @@ salah melwood
 .. type: text
 #+END_COMMENT
 
+#+OPTIONS: \n:t
+
+--------------------------------------------------
 
 Liverpool FC is my football club. Palakkad is a beautiful town in Kerala,
 India. 
