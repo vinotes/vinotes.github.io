@@ -141,7 +141,7 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "libretto"
+THEME = "hyde"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
@@ -1375,7 +1375,8 @@ GLOBAL_CONTEXT = {
      "carpet__body_prefix": "",
      "carpet__content_prefix": "",
      "carpet__content_suffix": "",
-     "carpet__cookie_message": ""
+     "carpet__cookie_message": "",
+    "hyde_subtheme": "theme-base-08"
 }
 
 
