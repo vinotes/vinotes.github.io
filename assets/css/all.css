@@ -1,398 +1,846 @@
+@import url("html4css1.css");
+@import url("nikola_rst.css");
+
 /*
-:Author: David Goodger (goodger@python.org)
-:Id: $Id: html4css1.css 7952 2016-07-26 18:15:59Z milde $
-:Copyright: This stylesheet has been placed in the public domain.
+ *                        ___
+ *                       /\_ \
+ *  _____     ___     ___\//\ \      __
+ * /\ '__`\  / __`\  / __`\\ \ \   /'__`\
+ * \ \ \_\ \/\ \_\ \/\ \_\ \\_\ \_/\  __/
+ *  \ \ ,__/\ \____/\ \____//\____\ \____\
+ *   \ \ \/  \/___/  \/___/ \/____/\/____/
+ *    \ \_\
+ *     \/_/
+ *
+ * Designed, built, and released under MIT license by @mdo. Learn more at
+ * https://github.com/poole/poole.
+ */
 
-Default cascading style sheet for the HTML output of Docutils.
 
-See http://docutils.sf.net/docs/howto/html-stylesheets.html for how to
-customize this style sheet.
-*/
+/*
+ * Contents
+ *
+ * Body resets
+ * Custom type
+ * Messages
+ * Container
+ * Masthead
+ * Posts and pages
+ * Pagination
+ * Reverse layout
+ * Themes
+ */
 
-/* used to remove borders from tables and images */
-.borderless, table.borderless td, table.borderless th {
-  border: 0 }
 
-table.borderless td, table.borderless th {
-  /* Override padding for "table.docutils td" with "! important".
-     The right padding separates the table cells. */
-  padding: 0 0.5em 0 0 ! important }
+/*
+ * Body resets
+ *
+ * Update the foundational and global aspects of the page.
+ */
 
-.first {
-  /* Override more specific margin styles with "! important". */
-  margin-top: 0 ! important }
-
-.last, .with-subtitle {
-  margin-bottom: 0 ! important }
-
-.hidden {
-  display: none }
-
-.subscript {
-  vertical-align: sub;
-  font-size: smaller }
-
-.superscript {
-  vertical-align: super;
-  font-size: smaller }
-
-a.toc-backref {
-  text-decoration: none ;
-  color: black }
-
-blockquote.epigraph {
-  margin: 2em 5em ; }
-
-dl.docutils dd {
-  margin-bottom: 0.5em }
-
-object[type="image/svg+xml"], object[type="application/x-shockwave-flash"] {
-  overflow: hidden;
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
 }
 
-/* Uncomment (and remove this text!) to get bold-faced definition list terms
-dl.docutils dt {
-  font-weight: bold }
-*/
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
 
-div.abstract {
-  margin: 2em 5em }
+html {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+@media (min-width: 38em) {
+  html {
+    font-size: 20px;
+  }
+}
 
-div.abstract p.topic-title {
-  font-weight: bold ;
-  text-align: center }
+body {
+  color: #515151;
+  background-color: #fff;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
 
-div.admonition, div.attention, div.caution, div.danger, div.error,
-div.hint, div.important, div.note, div.tip, div.warning {
-  margin: 2em ;
-  border: medium outset ;
-  padding: 1em }
+/* No `:visited` state is required by default (browsers will use `a`) */
+a {
+  color: #268bd2;
+  text-decoration: none;
+}
+a strong {
+  color: inherit;
+}
+/* `:focus` is linked to `:hover` for basic accessibility */
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
 
-div.admonition p.admonition-title, div.hint p.admonition-title,
-div.important p.admonition-title, div.note p.admonition-title,
-div.tip p.admonition-title {
-  font-weight: bold ;
-  font-family: sans-serif }
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: .5rem;
+  font-weight: bold;
+  line-height: 1.25;
+  color: #313131;
+  text-rendering: optimizeLegibility;
+}
+h1 {
+  font-size: 2rem;
+}
+h2 {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+}
+h3 {
+  margin-top: 1.5rem;
+  font-size: 1.25rem;
+}
+h4, h5, h6 {
+  margin-top: 1rem;
+  font-size: 1rem;
+}
 
-div.attention p.admonition-title, div.caution p.admonition-title,
-div.danger p.admonition-title, div.error p.admonition-title,
-div.warning p.admonition-title, .code .error {
-  color: red ;
-  font-weight: bold ;
-  font-family: sans-serif }
+/* Body text */
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
 
-/* Uncomment (and remove this text!) to get reduced vertical space in
-   compound paragraphs.
-div.compound .compound-first, div.compound .compound-middle {
-  margin-bottom: 0.5em }
+strong {
+  color: #303030;
+}
 
-div.compound .compound-last, div.compound .compound-middle {
-  margin-top: 0.5em }
-*/
 
-div.dedication {
-  margin: 2em 5em ;
-  text-align: center ;
-  font-style: italic }
+/* Lists */
+ul, ol, dl {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
 
-div.dedication p.topic-title {
-  font-weight: bold ;
-  font-style: normal }
+dt {
+  font-weight: bold;
+}
+dd {
+  margin-bottom: .5rem;
+}
 
-div.figure {
-  margin-left: 2em ;
-  margin-right: 2em }
+/* Misc */
+hr {
+  position: relative;
+  margin: 1.5rem 0;
+  border: 0;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #fff;
+}
 
-div.footer, div.header {
-  clear: both;
-  font-size: smaller }
+abbr {
+  font-size: 85%;
+  font-weight: bold;
+  color: #555;
+  text-transform: uppercase;
+}
+abbr[title] {
+  cursor: help;
+  border-bottom: 1px dotted #e5e5e5;
+}
 
-div.line-block {
-  display: block ;
-  margin-top: 1em ;
-  margin-bottom: 1em }
+/* Code */
+code,
+pre {
+  font-family: Menlo, Monaco, "Courier New", monospace;
+}
+code {
+  padding: .25em .5em;
+  font-size: 85%;
+  color: #bf616a;
+  background-color: #f9f9f9;
+  border-radius: 3px;
+}
+pre {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  font-size: .8rem;
+  line-height: 1.4;
+  white-space: pre;
+  word-break: break-all;
+  word-wrap: break-word;
+  background-color: #f9f9f9;
+}
+pre code {
+  padding: 0;
+  font-size: 100%;
+  color: inherit;
+  background-color: transparent;
+}
 
-div.line-block div.line-block {
-  margin-top: 0 ;
-  margin-bottom: 0 ;
-  margin-left: 1.5em }
+/* Pygments via Jekyll */
+.highlight {
+  margin-bottom: 1rem;
+  border-radius: 4px;
+}
+.highlight pre {
+  margin-bottom: 0;
+}
 
-div.sidebar {
-  margin: 0 0 0.5em 1em ;
-  border: medium outset ;
-  padding: 1em ;
-  background-color: #ffffee ;
-  width: 40% ;
-  float: right ;
-  clear: right }
+/* Gist via GitHub Pages */
+.gist .gist-file {
+  font-family: Menlo, Monaco, "Courier New", monospace !important;
+}
+.gist .markdown-body {
+  padding: 15px;
+}
+.gist pre {
+  padding: 0;
+  background-color: transparent;
+}
+.gist .gist-file .gist-data {
+  font-size: .8rem !important;
+  line-height: 1.4;
+}
+.gist code {
+  padding: 0;
+  color: inherit;
+  background-color: transparent;
+  border-radius: 0;
+}
 
-div.sidebar p.rubric {
-  font-family: sans-serif ;
-  font-size: medium }
+/* Quotes */
+blockquote {
+  padding: .5rem 1rem;
+  margin: .8rem 0;
+  color: #7a7a7a;
+  border-left: .25rem solid #e5e5e5;
+}
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+@media (min-width: 30em) {
+  blockquote {
+    padding-right: 5rem;
+    padding-left: 1.25rem;
+  }
+}
 
-div.system-messages {
-  margin: 5em }
+img {
+  display: block;
+  max-width: 100%;
+  margin: 0 0 1rem;
+  border-radius: 5px;
+}
 
-div.system-messages h1 {
-  color: red }
+/* Tables */
+table {
+  margin-bottom: 1rem;
+  width: 100%;
+  border: 1px solid #e5e5e5;
+  border-collapse: collapse;
+}
+td,
+th {
+  padding: .25rem .5rem;
+  border: 1px solid #e5e5e5;
+}
+tbody tr:nth-child(odd) td,
+tbody tr:nth-child(odd) th {
+  background-color: #f9f9f9;
+}
 
-div.system-message {
-  border: medium outset ;
-  padding: 1em }
 
-div.system-message p.system-message-title {
-  color: red ;
-  font-weight: bold }
+/*
+ * Custom type
+ *
+ * Extend paragraphs with `.lead` for larger introductory text.
+ */
 
-div.topic {
-  margin: 2em }
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
 
-h1.section-subtitle, h2.section-subtitle, h3.section-subtitle,
-h4.section-subtitle, h5.section-subtitle, h6.section-subtitle {
-  margin-top: 0.4em }
 
-h1.title {
-  text-align: center }
+/*
+ * Messages
+ *
+ * Show alert messages to users. You may add it to single elements like a `<p>`,
+ * or to a parent if there are multiple elements to show.
+ */
 
-h2.subtitle {
-  text-align: center }
+.message {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  color: #717171;
+  background-color: #f9f9f9;
+}
 
-hr.docutils {
-  width: 75% }
 
-img.align-left, .figure.align-left, object.align-left, table.align-left {
-  clear: left ;
-  float: left ;
-  margin-right: 1em }
+/*
+ * Container
+ *
+ * Center the page content.
+ */
 
-img.align-right, .figure.align-right, object.align-right, table.align-right {
-  clear: right ;
-  float: right ;
-  margin-left: 1em }
+.container {
+  max-width: 38rem;
+  padding-left:  1rem;
+  padding-right: 1rem;
+  margin-left:  auto;
+  margin-right: auto;
+}
 
-img.align-center, .figure.align-center, object.align-center {
+
+/*
+ * Masthead
+ *
+ * Super small header above the content for site name and short description.
+ */
+
+.masthead {
+  padding-top:    1rem;
+  padding-bottom: 1rem;
+  margin-bottom: 3rem;
+}
+.masthead-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #505050;
+}
+.masthead-title a {
+  color: #505050;
+}
+.masthead-title small {
+  font-size: 75%;
+  font-weight: 400;
+  color: #c0c0c0;
+  letter-spacing: 0;
+}
+
+
+/*
+ * Posts and pages
+ *
+ * Each post is wrapped in `.post` and is used on default and post layouts. Each
+ * page is wrapped in `.page` and is only used on the page layout.
+ */
+
+.page,
+.post {
+  margin-bottom: 4em;
+}
+
+/* Blog post or page title */
+.page-title,
+.post-title,
+.post-title a {
+  color: #303030;
+}
+.page-title,
+.post-title {
+  margin-top: 0;
+}
+
+/* Meta data line below post title */
+.post-date {
+  display: block;
+  margin-top: -.5rem;
+  margin-bottom: 1rem;
+  color: #9a9a9a;
+}
+
+/* Related posts */
+.related {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  border-top: 1px solid #eee;
+}
+.related-posts {
+  padding-left: 0;
+  list-style: none;
+}
+.related-posts h3 {
+  margin-top: 0;
+}
+.related-posts li small {
+  font-size: 75%;
+  color: #999;
+}
+.related-posts li a:hover {
+  color: #268bd2;
+  text-decoration: none;
+}
+.related-posts li a:hover small {
+  color: inherit;
+}
+
+
+/*
+ * Pagination
+ *
+ * Super lightweight (HTML-wise) blog pagination. `span`s are provide for when
+ * there are no more previous or next posts to show.
+ */
+
+.pagination {
+  overflow: hidden; /* clearfix */
+  margin-left: -1rem;
+  margin-right: -1rem;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  color: #ccc;
+  text-align: center;
+}
+
+/* Pagination items can be `span`s or `a`s */
+.pagination-item {
+  display: block;
+  padding: 1rem;
+  border: 1px solid #eee;
+}
+.pagination-item:first-child {
+  margin-bottom: -1px;
+}
+
+/* Only provide a hover state for linked pagination items */
+a.pagination-item:hover {
+  background-color: #f5f5f5;
+}
+
+
+/*
+ * Tags
+ *
+ * Super lightweight (HTML-wise) blog pagination. `span`s are provide for when
+ * there are no more previous or next posts to show.
+ */
+
+.tags {
+
+  overflow: hidden; /* clearfix */
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  color: #ccc;
+  text-align: center;
+  border: 2px dotted #eee;
+  border-radius: 3px;
+  padding: 5px;
+
+  height: auto;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* Pagination items can be `span`s or `a`s */
+.tag {
+  display: block;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 4px;
+  padding-right: 4px;
+  margin: 5px;
+  border: 1px solid #eee;
+  background: #f5f5f5;
+  border-radius: 15px;
+  font-size: smaller;
+}
+
+/* Only provide a hover state for linked pagination items */
+.tag:hover {
+  background-color: #ddd;
+}
+
+
+
+@media (min-width: 30em) {
+  .pagination {
+    margin: 3rem 0;
+  }
+  .pagination-item {
+    float: left;
+    width: 50%;
+  }
+  .pagination-item:first-child {
+    margin-bottom: 0;
+    border-top-left-radius:    4px;
+    border-bottom-left-radius: 4px;
+  }
+  .pagination-item:last-child {
+    margin-left: -1px;
+    border-top-right-radius:    4px;
+    border-bottom-right-radius: 4px;
+  }
+}
+
+
+/* Fix whitespace of listings w/ numbers (issue #155) */
+table.codehilitetable pre {
+  padding: 0;
+}
+td.code /* to exclude listings w/o numbers */
+pre.code.literal-block {
+  margin-left: 0;
+}
+
+/*
+ *  __                  __
+ * /\ \                /\ \
+ * \ \ \___   __  __   \_\ \     __
+ *  \ \  _ `\/\ \/\ \  /'_` \  /'__`\
+ *   \ \ \ \ \ \ \_\ \/\ \_\ \/\  __/
+ *    \ \_\ \_\/`____ \ \___,_\ \____\
+ *     \/_/\/_/`/___/> \/__,_ /\/____/
+ *                /\___/
+ *                \/__/
+ *
+ * Designed, built, and released under MIT license by @mdo. Learn more at
+ * https://github.com/poole/hyde.
+ */
+
+
+/*
+ * Contents
+ *
+ * Global resets
+ * Sidebar
+ * Container
+ * Reverse layout
+ * Themes
+ */
+
+
+/*
+ * Global resets
+ *
+ * Update the foundational and global aspects of the page.
+ */
+
+html {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+}
+@media (min-width: 48em) {
+  html {
+    font-size: 16px;
+  }
+}
+@media (min-width: 58em) {
+  html {
+    font-size: 20px;
+  }
+}
+
+
+/*
+ * Sidebar
+ *
+ * Flexible banner for housing site name, intro, and "footer" content. Starts
+ * out above content in mobile and later moves to the side with wider viewports.
+ */
+
+div.hsidebar, .hsidebar {
+  padding: 2rem 1rem;
+  color: rgba(255,255,255,.5);
+  background-color: #202020;
+  text-align: center;
+  margin-left: 0;
+  margin-bottom: 0;
+}
+
+@media (min-width: 48em) {
+div.hsidebar, .hsidebar {
+    position: fixed;
+    text-align: left;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 18rem;
+  }
+}
+
+/* Sidebar images */
+div.hsidebar img, .hsidebar img {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-table.align-center {
-  margin-left: auto;
-  margin-right: auto;
+img#logo {
+
+  width: 200px;
 }
 
-.align-left {
-  text-align: left }
-
-.align-center {
-  clear: both ;
-  text-align: center }
-
-.align-right {
-  text-align: right }
-
-/* reset inner alignment in figures */
-div.align-right {
-  text-align: inherit }
-
-/* div.align-center * { */
-/*   text-align: left } */
-
-.align-top    {
-  vertical-align: top }
-
-.align-middle {
-  vertical-align: middle }
-
-.align-bottom {
-  vertical-align: bottom }
-
-ol.simple, ul.simple {
-  margin-bottom: 1em }
-
-ol.arabic {
-  list-style: decimal }
-
-ol.loweralpha {
-  list-style: lower-alpha }
-
-ol.upperalpha {
-  list-style: upper-alpha }
-
-ol.lowerroman {
-  list-style: lower-roman }
-
-ol.upperroman {
-  list-style: upper-roman }
-
-p.attribution {
-  text-align: right ;
-  margin-left: 50% }
-
-p.caption {
-  font-style: italic }
-
-p.credits {
-  font-style: italic ;
-  font-size: smaller }
-
-p.label {
-  white-space: nowrap }
-
-p.rubric {
-  font-weight: bold ;
-  font-size: larger ;
-  color: maroon ;
-  text-align: center }
-
-p.sidebar-title {
-  font-family: sans-serif ;
-  font-weight: bold ;
-  font-size: larger }
-
-p.sidebar-subtitle {
-  font-family: sans-serif ;
-  font-weight: bold }
-
-p.topic-title {
-  font-weight: bold }
-
-pre.address {
-  margin-bottom: 0 ;
-  margin-top: 0 ;
-  font: inherit }
-
-pre.literal-block, pre.doctest-block, pre.math, pre.code {
-  margin-left: 2em ;
-  margin-right: 2em }
-
-pre.code .ln { color: grey; } /* line numbers */
-pre.code, code { background-color: #eeeeee }
-pre.code .comment, code .comment { color: #5C6576 }
-pre.code .keyword, code .keyword { color: #3B0D06; font-weight: bold }
-pre.code .literal.string, code .literal.string { color: #0C5404 }
-pre.code .name.builtin, code .name.builtin { color: #352B84 }
-pre.code .deleted, code .deleted { background-color: #DEB0A1}
-pre.code .inserted, code .inserted { background-color: #A3D289}
-
-span.classifier {
-  font-family: sans-serif ;
-  font-style: oblique }
-
-span.classifier-delimiter {
-  font-family: sans-serif ;
-  font-weight: bold }
-
-span.interpreted {
-  font-family: sans-serif }
-
-span.option {
-  white-space: nowrap }
-
-span.pre {
-  white-space: pre }
-
-span.problematic {
-  color: red }
-
-span.section-subtitle {
-  /* font-size relative to parent (h1..h6 element) */
-  font-size: 80% }
-
-table.citation {
-  border-left: solid 1px gray;
-  margin-left: 1px }
-
-table.docinfo {
-  margin: 2em 4em }
-
-table.docutils {
-  margin-top: 0.5em ;
-  margin-bottom: 0.5em }
-
-table.footnote {
-  border-left: solid 1px black;
-  margin-left: 1px }
-
-table.docutils td, table.docutils th,
-table.docinfo td, table.docinfo th {
-  padding-left: 0.5em ;
-  padding-right: 0.5em ;
-  vertical-align: top }
-
-table.docutils th.field-name, table.docinfo th.docinfo-name {
-  font-weight: bold ;
-  text-align: left ;
-  white-space: nowrap ;
-  padding-left: 0 }
-
-/* "booktabs" style (no vertical lines) */
-table.docutils.booktabs {
-  border: 0px;
-  border-top: 2px solid;
-  border-bottom: 2px solid;
-  border-collapse: collapse;
-}
-table.docutils.booktabs * {
-  border: 0px;
-}
-table.docutils.booktabs th {
-  border-bottom: thin solid;
-  text-align: left;
+/* Sidebar links */
+div.hsidebar a, .hsidebar a {
+  color: #fff;
 }
 
-h1 tt.docutils, h2 tt.docutils, h3 tt.docutils,
-h4 tt.docutils, h5 tt.docutils, h6 tt.docutils {
-  font-size: 100% }
-
-ul.auto-toc {
-  list-style-type: none }
-
-div.admonition, div.attention, div.caution, div.danger, div.error,
-div.hint, div.important, div.note, div.tip, div.warning, div.sidebar {
-/* stolen from Boostrap 3 (.panel .panel-default) */
-  margin-bottom: 20px;
-  background-color: #fff;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
-          box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
-  padding: 0 15px 15px 15px;
+/* About section */
+.sidebar-about h1 {
+  color: #fff;
+  margin-top: 0;
+  font-family: "Abril Fatface", serif;
+  font-size: 2.75rem;
 }
 
-div.attention, div.caution, div.danger, div.error, div.warning {
-  /* stolen from Boostrap 3 (.panel .panel-danger) */
-  border-color: #EBCCD1;
+/* Sidebar nav */
+.sidebar-nav {
+  margin-bottom: 1rem;
+}
+.sidebar-nav-item {
+  display: block;
+  line-height: 1.50;
+}
+a.sidebar-nav-item:hover,
+a.sidebar-nav-item:focus {
+  text-decoration: underline;
+}
+.sidebar-nav-item.active {
+  font-weight: bold;
 }
 
-div.admonition p.admonition-title, div.hint p.admonition-title,
-div.important p.admonition-title, div.note p.admonition-title,
-div.tip p.admonition-title, div.sidebar p.sidebar-title,
-div.attention p.admonition-title, div.caution p.admonition-title,
-div.danger p.admonition-title, div.error p.admonition-title,
-div.warning p.admonition-title {
-/* stolen from Boostrap 3 (.panel .panel-default .panel-heading) */
+/* Sticky sidebar
+ *
+ * Add the `sidebar-sticky` class to the sidebar's container to affix it the
+ * contents to the bottom of the sidebar in tablets and up.
+ */
+
+@media (min-width: 48em) {
+  .sidebar-sticky {
+    position: absolute;
+    right:  1rem;
+    bottom: 0;
+    left:   1rem;
+  }
+}
+
+/*
+ * Footer
+ *
+ * Edit Styles for footer
+ */
+.footer {
   font-size: 16px;
-  color: #333;
-  background-color: #F5F5F5;
-  padding: 10px 15px;
-  margin-left: -15px;
-  margin-right: -15px;
-  border-bottom: 1px solid rgba(0, 0, 0, 0);
-  border-top-left-radius: 3px;
-  border-top-right-radius: 3px;
-  color: #333;
-  background-color: #F5F5F5;
-  border-color: #DDD;
 }
 
-div.attention p.admonition-title, div.caution p.admonition-title,
-div.danger p.admonition-title, div.error p.admonition-title,
-div.warning p.admonition-title {
-  /* stolen from Boostrap 3 (.panel .panel-danger) */
-  color: #A94442;
-  background-color: #F2DEDE;
-  border-color: #EBCCD1;
+.icon_row{
+  width: auto;
+  height: auto;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.icon_row img.social_icon{
+  width: 24px;
+  display: inline-block;
+  margin: 0px auto;
+  vertical-align: bottom;
+}
+
+.copyright{
+  font-size: smaller;
+  line-height: 0.5;
+  text-align: center;
+}
+
+/* Container
+ *
+ * Align the contents of the site above the proper threshold with some margin-fu
+ * with a 25%-wide `.sidebar`.
+ */
+
+.content {
+  padding-top:    4rem;
+  padding-bottom: 4rem;
+}
+
+@media (min-width: 48em) {
+  .content {
+    max-width: 38rem;
+    margin-left: 20rem;
+    margin-right: 2rem;
+  }
+}
+
+@media (min-width: 64em) {
+  .content {
+    margin-left: 22rem;
+    margin-right: 4rem;
+  }
+}
+
+
+/*
+ * Reverse layout
+ *
+ * Flip the orientation of the page by placing the `.sidebar` on the right.
+ */
+
+@media (min-width: 48em) {
+  .layout-reverse .hsidebar {
+    left: auto;
+    right: 0;
+  }
+  .layout-reverse .content {
+    margin-left: 2rem;
+    margin-right: 20rem;
+  }
+}
+
+@media (min-width: 64em) {
+  .layout-reverse .content {
+    margin-left: 4rem;
+    margin-right: 22rem;
+  }
+}
+
+
+
+/*
+ * Themes
+ *
+ * As of v1.1, Hyde includes optional themes to color the sidebar and links
+ * within blog posts. To use, add the class of your choosing to the `body`.
+ */
+
+/* Base16 (http://chriskempson.github.io/base16/#default) */
+
+/* Red */
+.theme-base-08 .hsidebar {
+  background-color: #ac4142;
+}
+.theme-base-08 .content a,
+.theme-base-08 .related-posts li a:hover {
+  color: #ac4142;
+}
+
+/* Orange */
+.theme-base-09 .hsidebar {
+  background-color: #d28445;
+}
+.theme-base-09 .content a,
+.theme-base-09 .related-posts li a:hover {
+  color: #d28445;
+}
+
+/* Yellow */
+.theme-base-0a .hsidebar {
+  background-color: #f4bf75;
+}
+.theme-base-0a .content a,
+.theme-base-0a .related-posts li a:hover {
+  color: #f4bf75;
+}
+
+/* Green */
+.theme-base-0b .hsidebar {
+  background-color: #90a959;
+}
+.theme-base-0b .content a,
+.theme-base-0b .related-posts li a:hover {
+  color: #90a959;
+}
+
+/* Cyan */
+.theme-base-0c .hsidebar {
+  background-color: #75b5aa;
+}
+.theme-base-0c .content a,
+.theme-base-0c .related-posts li a:hover {
+  color: #75b5aa;
+}
+
+/* Blue */
+.theme-base-0d .hsidebar {
+  background-color: #6a9fb5;
+}
+.theme-base-0d .content a,
+.theme-base-0d .related-posts li a:hover {
+  color: #6a9fb5;
+}
+
+/* Magenta */
+.theme-base-0e .hsidebar {
+  background-color: #aa759f;
+}
+.theme-base-0e .content a,
+.theme-base-0e .related-posts li a:hover {
+  color: #aa759f;
+}
+
+/* Brown */
+.theme-base-0f .hsidebar {
+  background-color: #8f5536;
+}
+.theme-base-0f .content a,
+.theme-base-0f .related-posts li a:hover {
+  color: #8f5536;
+}
+
+
+
+/*
+ * Additional Classes pertaining to Nikola
+ *
+ * The accessible link at the top shouldn't be visible.  The class that make
+ * them invisible were in themes.css.
+ * To use, example below:
+ * <a href="..." class="sr-only sr-only-focusable">...</a>
+ *
+ */
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+.sr-only-focusable:active,
+.sr-only-focusable:focus {
+  position: static;
+  width: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  clip: auto;
+}
+
+.breadcrumb {
+  padding: 8px 15px;
+  margin-bottom: 20px;
+  list-style: none;
+}
+
+.breadcrumb > li {
+  display: inline-block;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.breadcrumb > li:after {
+  content: ' / ';
+  color: #888;
+}
+
+.breadcrumb > li:last-of-type:after {
+  content: '';
+  margin-left: 0;
+}
+
+.thumbnails > li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.thumbnails > li:last-of-type {
+  margin-right: 0;
 }
 
 /* code.css file generated by Nikola */
@@ -466,416 +914,3 @@ pre.code .vi { color: #19177C } /* Name.Variable.Instance */
 pre.code .vm { color: #19177C } /* Name.Variable.Magic */
 pre.code .il { color: #666666 } /* Literal.Number.Integer.Long */
 table.codetable { width: 100%;} td.linenos {text-align: right; width: 4em;}
-
-@charset "UTF-8";
-
-/*
-	Copyright © 2014-2017 Daniel Aleksandersen and others.
-
-	Permission is hereby granted, free of charge, to any
-	person obtaining a copy of this software and associated
-	documentation files (the "Software"), to deal in the
-	Software without restriction, including without limitation
-	the rights to use, copy, modify, merge, publish,
-	distribute, sublicense, and/or sell copies of the
-	Software, and to permit persons to whom the Software is
-	furnished to do so, subject to the following conditions:
-
-	The above copyright notice and this permission notice
-	shall be included in all copies or substantial portions of
-	the Software.
-
-	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
-	KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
-	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
-	PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS
-	OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-	OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
-	OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-	SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-*/
-
-body {
-	color: #4F5151;
-	font-family: Helvetica, Arial, sans-serif;
-	font-size: 17px;
-	line-height: 1.4;
-	padding: 1em;
-}
-
-#container {
-	margin: 1em auto;
-	max-width: 770px;
-}
-#menu ul,
-#menu ul li,
-.postpromonav .tags,
-.postpromonav .tags li,
-.pager,
-.pager li,
-#toptranslations ul,
-#toptranslations ul li {
-	list-style: none;
-	padding-left: 0;
-	padding-right: 0;
-}
-
-#toptranslations ul {
-	display: inline;
-}
-
-#menu ul li,
-#toptranslations ul li {
-	display: inline-block;
-	margin-right: 1.5em;
-}
-
-#toptranslations h2 {
-	display: inline;
-	font-size: 1em;
-	margin-right: 1.5em;
-}
-
-#menu ul li:dir(rtl),
-#toptranslations ul li:dir(rtl),
-#toptranslations h2:dir(rtl) {
-	margin-left: 1.5em;
-	margin-right: 0;
-}
-
-#toptranslations {
-	text-align: right;
-	float: right;
-}
-
-#toptranslations:dir(rtl) {
-	text-align: left;
-	float: left;
-}
-
-.posttranslations h3, .translationslist h3 {
-	display: inline;
-	font-size: 1em;
-}
-
-.entry-title {
-	font-size: 2em;
-}
-
-.posttranslations h3:last-child, .translationslist h3:last-child {
-	display: none;
-}
-
-.postindex article {
-	border-bottom: 1px solid #4F5151;
-	padding-bottom: 1em;
-}
-#header {
-	border-bottom: 1px solid #4F5151;
-}
-#footer {
-	border-top: 1px solid #4F5151;
-}
-
-/* Tags */
-.postpromonav {
-	border-bottom: 1px solid #4F5151;
-	border-top: 1px solid #4F5151;
-	margin-top: 1em;
-	padding: .5em 0;
-}
-.postpromonav .tags {
-	text-align: center;
-}
-.metadata p:before,
-.postpromonav .tags li:before,
-.postlist .listdate:after,
-.translationslist p:before {
-	content: " — ";
-}
-.postlist li {
-	margin-bottom: .33em;
-}
-
-/* Post and archive pagers */
-.postindexpager .pager .next:before {
-	content: "↓ ";
-}
-.postindexpager .pager .previous:before,
-.archivenav .pager .up:before {
-	content: "↑ ";
-}
-.postpromonav .pager .next:after,
-.archivenav .pager .next:after {
-	content: " →";
-}
-.postpromonav .pager .previous:dir(rtl):after,
-.archivenav .pager .previous:dir(rtl):after {
-	content: " →";
-}
-.postpromonav .pager .previous:before,
-.archivenav .pager .previous:before {
-	content: "← ";
-}
-.postpromonav .pager .next:dir(rtl):before,
-.archivenav .pager .next:dir(rtl):before {
-	content: "← ";
-}
-
-.metadata p:first-of-type:before,
-.postpromonav .tags li:first-of-type:before,
-.translationslist p:first-of-type:before {
-	content: "";
-}
-.postpromonav .pager {
-	clear: both;
-	height: 1em;
-}
-.postpromonav .tags li,
-.postpromonav .pager li,
-.archivenav .pager li {
-	display: inline-block;
-}
-.archivenav .pager {
-	text-align: center
-}
-.postpromonav .pager .next,
-.archivenav .pager .next {
-	float: right;
-}
-.postpromonav .pager .next:dir(rtl),
-.archivenav .pager .next:dir(rtl) {
-	float: left;
-}
-
-.postpromonav .pager .previous,
-.archivenav .pager .previous {
-	float: left;
-}
-.postpromonav .pager .previous:dir(rtl),
-.archivenav .pager .previous:dir(rtl) {
-	float: right;
-}
-
-.archivenav .pager .disabled,
-.archivenav .pager .disabled a,
-.archivenav .pager .disabled:link {
-    color: #888;
-    cursor: not-allowed;
-}
-
-.metadata p,
-.translationslist p {
-	display: inline;
-}
-
-#brand {
-	font-size: 3em;
-	line-height: 1;
-}
-
-/* Links */
-:link {
-	color: #1168CC;
-	text-decoration: none;
-}
-:visited {
-	color: #6830BB;
-}
-:link:hover, :visited:hover {
-	color: #0d53a3;
-}
-
-#brand :link,
-#brand :visited {
-	color: inherit;
-}
-
-/* Images */
-img {
-	border: none;
-	line-height: 1;
-}
-
-.postpage img,
-.postpage object,
-.postindex article img,
-.postindex article object {
-	height: auto;
-	max-width: 100%;
-}
-
-/* Comment helpers */
-#disqus_thread {
-	min-height: 325px;
-}
-
-.breadcrumb {
-	padding: 8px 15px;
-	margin-bottom: 20px;
-	list-style: none;
-}
-
-.breadcrumb > li {
-	display: inline-block;
-	margin-right: 0;
-	margin-left: 0;
-}
-
-.breadcrumb > li:after {
-	content: ' / ';
-	color: #888;
-}
-
-.breadcrumb > li:last-of-type:after {
-	content: '';
-	margin-left: 0;
-}
-
-.thumbnails {
-	list-style: none;
-	padding: 0;
-}
-
-.thumbnails > li {
-	display: inline-block;
-	margin-right: 10px;
-}
-
-.thumbnails > li:last-of-type {
-	margin-right: 0;
-}
-
-.codetable .linenos {
-	padding-right: 10px;
-}
-
-.sr-only {
-	position: absolute;
-	width: 1px;
-	height: 1px;
-	padding: 0;
-	margin: -1px;
-	overflow: hidden;
-	clip: rect(0, 0, 0, 0);
-	border: 0;
-}
-
-.sr-only-focusable:active,
-.sr-only-focusable:focus {
-	position: static;
-	width: auto;
-	height: auto;
-	margin: 0;
-	overflow: visible;
-	clip: auto;
-}
-
-pre.code, code {
-	white-space: pre;
-	word-wrap: normal;
-	overflow: auto;
-}
-
-/* SOURCE: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
-@media print {
-	*,
-	*:before,
-	*:after {
-		background: transparent !important;
-		color: #000 !important; /* Black prints faster: http://www.sanbeiji.com/archives/953 */
-		box-shadow: none !important;
-		text-shadow: none !important;
-		font-family: Garamond, Junicode, serif;
-	}
-
-	body {
-		font-size: 12pt;
-	}
-
-	a,
-	a:visited {
-		text-decoration: underline;
-	}
-
-	a[href]:after {
-		content: " (" attr(href) ")";
-	}
-
-	abbr[title]:after {
-		content: " (" attr(title) ")";
-	}
-
-	/*
-	 * Don't show links that are fragment identifiers,
-	 * or use the `javascript:` pseudo protocol
-	 */
-
-	a[href^="#"]:after,
-	a[href^="data:"]:after,
-	a[href^="javascript:"]:after {
-		content: "";
-	}
-
-	pre,
-	blockquote {
-		border: 1px solid #999;
-		page-break-inside: avoid;
-	}
-
-	/*
-	 * Printing Tables:
-	 * http://css-discuss.incutio.com/wiki/Printing_Tables
-	 */
-
-	thead {
-		display: table-header-group;
-	}
-
-	tr,
-	img {
-		page-break-inside: avoid;
-	}
-
-	img {
-		max-width: 100% !important;
-	}
-
-	p,
-	h2,
-	h3 {
-		orphans: 3;
-		widows: 3;
-	}
-
-	h2,
-	h3 {
-		page-break-after: avoid;
-	}
-
-	.hidden-print {
-		display: none !important;
-	}
-
-	article .entry-title a[href]:after,
-	article .metadata a[href]:after,
-	article .tags a[href]:after {
-		content: "";
-	}
-
-	article .metadata .sourceline {
-		display: none;
-	}
-
-	article .metadata .linkline a[href]:after {
-		content: " (" attr(href) ")";
-	}
-
-	#header {
-		display: none;
-	}
-
-	.postpromonav {
-		padding: 0;
-	}
-}
