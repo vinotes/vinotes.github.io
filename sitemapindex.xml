@@ -66,6 +66,10 @@
   <lastmod>2020-04-01T23:57:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://mindtoilet.github.io/categories/football.xml</loc>
+  <lastmod>2020-04-02T01:10:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://mindtoilet.github.io/categories/freakout.xml</loc>
   <lastmod>2020-04-01T23:52:00Z</lastmod>
  </sitemap>
@@ -90,12 +94,20 @@
   <lastmod>2018-03-28T14:12:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://mindtoilet.github.io/categories/kerala.xml</loc>
+  <lastmod>2020-04-02T01:10:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://mindtoilet.github.io/categories/language.xml</loc>
   <lastmod>2020-04-01T23:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/linux.xml</loc>
   <lastmod>2020-04-01T23:52:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/liverpoolfc.xml</loc>
+  <lastmod>2020-04-02T01:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/misogyny.xml</loc>
@@ -124,6 +136,10 @@
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/orgmode.xml</loc>
   <lastmod>2020-04-01T23:52:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/palakkad.xml</loc>
+  <lastmod>2020-04-02T01:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/python.xml</loc>
@@ -171,14 +187,14 @@
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/galleries/rss.xml</loc>
-  <lastmod>2020-04-02T00:13:00Z</lastmod>
+  <lastmod>2020-04-02T01:13:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/rss.xml</loc>
-  <lastmod>2020-04-01T23:58:00Z</lastmod>
+  <lastmod>2020-04-02T01:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/sitemap.xml</loc>
-  <lastmod>2020-04-02T00:13:00Z</lastmod>
+  <lastmod>2020-04-02T01:13:00Z</lastmod>
  </sitemap>
 </sitemapindex>
