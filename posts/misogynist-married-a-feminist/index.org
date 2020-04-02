@@ -9,8 +9,6 @@
 .. type: text
 #+END_COMMENT
 
-#+OPTIONS: \n:t
-
 --------------------------------------------------
 
 The sky was clear and the occasion was auspicious, all set to witness the unwitnessed. 
