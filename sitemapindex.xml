@@ -78,12 +78,20 @@
   <lastmod>2020-04-01T23:52:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://mindtoilet.github.io/categories/hermanhesse.xml</loc>
+  <lastmod>2020-04-13T00:48:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://mindtoilet.github.io/categories/himalayas.xml</loc>
   <lastmod>2020-04-01T23:57:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/humour.xml</loc>
   <lastmod>2020-04-02T10:30:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/hypocognition.xml</loc>
+  <lastmod>2020-04-13T00:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/internet.xml</loc>
@@ -104,6 +112,14 @@
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/liverpoolfc.xml</loc>
   <lastmod>2020-04-02T13:10:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/love.xml</loc>
+  <lastmod>2020-04-13T00:48:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/meaning.xml</loc>
+  <lastmod>2020-04-13T00:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/misogyny.xml</loc>
@@ -146,6 +162,10 @@
   <lastmod>2020-04-02T10:47:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://mindtoilet.github.io/categories/resonance.xml</loc>
+  <lastmod>2020-04-13T00:48:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://mindtoilet.github.io/categories/river.xml</loc>
   <lastmod>2020-04-01T23:57:00Z</lastmod>
  </sitemap>
@@ -158,6 +178,10 @@
   <lastmod>2020-04-02T10:47:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://mindtoilet.github.io/categories/siddhartha.xml</loc>
+  <lastmod>2020-04-13T00:48:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://mindtoilet.github.io/categories/sky.xml</loc>
   <lastmod>2020-04-01T23:57:00Z</lastmod>
  </sitemap>
@@ -168,6 +192,10 @@
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/surreal.xml</loc>
   <lastmod>2020-04-02T10:47:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/thoughts.xml</loc>
+  <lastmod>2020-04-13T00:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/toilet.xml</loc>
@@ -183,14 +211,14 @@
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/galleries/rss.xml</loc>
-  <lastmod>2020-04-02T01:18:00Z</lastmod>
+  <lastmod>2020-04-03T08:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/rss.xml</loc>
-  <lastmod>2020-04-02T23:37:00Z</lastmod>
+  <lastmod>2020-04-13T00:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/sitemap.xml</loc>
-  <lastmod>2020-04-02T23:37:00Z</lastmod>
+  <lastmod>2020-04-13T00:48:00Z</lastmod>
  </sitemap>
 </sitemapindex>
