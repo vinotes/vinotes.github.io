@@ -1,13 +1,11 @@
-#+BEGIN_COMMENT
+<!--
 .. title: Wave
 .. slug: wave
 .. date: 2020-04-08 01:59:28 UTC+05:30
-.. tags: draft
-.. category: 
-.. link: 
-.. description: 
+.. tags: 
 .. type: text
-#+END_COMMENT
+.. status: draft
+-->
 
 
 Write your post here.
