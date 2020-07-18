@@ -1,13 +1,11 @@
-#+BEGIN_COMMENT
+<!--
 .. title: Ethical Stalking
 .. slug: ethical-stalking
 .. date: 2019-01-01 07:52:41 UTC+05:30
-.. tags: draft
-.. category: 
-.. link: 
-.. description: 
+.. tags: 
 .. type: text
-#+END_COMMENT
+.. status: draft
+-->
 
 1. There is no medicine for jealousy and stalking
 2. Stalking is an art
