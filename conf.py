@@ -26,7 +26,7 @@ SITE_URL = "https://mindtoilet.github.io/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://mindtoilet.github.io/"
 BLOG_EMAIL = "mindtoilet@gmail.com"
-BLOG_DESCRIPTION = "Where flush ideas.?"  # (translatable)
+BLOG_DESCRIPTION = "Mind Blogging"  # (translatable)
 
 # Nikola is multilingual!
 #
