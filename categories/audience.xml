@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>mindtoilet (Posts about audience)</title><link>https://mindtoilet.github.io/</link><description></description><atom:link href="https://mindtoilet.github.io/categories/audience.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:mindtoilet@gmail.com"&gt;mind&lt;/a&gt; </copyright><lastBuildDate>Sun, 06 Sep 2020 18:18:03 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Cold blooded comedy blasphemy</title><link>https://mindtoilet.github.io/posts/cold-blooded-comedy-blasphemy/</link><dc:creator>mind</dc:creator><description>&lt;hr&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>mindtoilet (Posts about audience)</title><link>https://mindtoilet.github.io/</link><description></description><atom:link href="https://mindtoilet.github.io/categories/audience.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:mindtoilet@gmail.com"&gt;mind&lt;/a&gt; </copyright><lastBuildDate>Sun, 06 Sep 2020 19:07:17 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Cold blooded comedy blasphemy</title><link>https://mindtoilet.github.io/posts/cold-blooded-comedy-blasphemy/</link><dc:creator>mind</dc:creator><description>&lt;hr&gt;
 
 
+&lt;div class="org-center"&gt;
 &lt;p&gt;
 &lt;b&gt;THE PERSONS OF THE PLAY&lt;/b&gt;&lt;br&gt;
 &lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;
 &lt;b&gt;Mr. Earnest&lt;/b&gt;, a Movie Director.&lt;br&gt;
@@ -18,10 +20,11 @@
 &lt;b&gt;Parthaa&lt;/b&gt;, the Driver&lt;br&gt;
 &lt;/p&gt;
 
-
+&lt;div class="org-center"&gt;
 &lt;p&gt;
 &lt;b&gt;THE SCENES OF THE PLAY&lt;/b&gt;&lt;br&gt;
 &lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;
 Act I. &lt;i&gt;Inside the car parked outside the movie theatre&lt;/i&gt;&lt;br&gt;
@@ -36,6 +39,7 @@ Time:  Undefined.&lt;br&gt;
 Place: Unknown.&lt;br&gt;
 &lt;/p&gt;
 
+&lt;div class="org-center"&gt;
 &lt;p&gt;
 &lt;b&gt;FIRST ACT&lt;/b&gt;&lt;br&gt;
 &lt;/p&gt;
@@ -44,6 +48,8 @@ Place: Unknown.&lt;br&gt;
 		    SCENE&lt;br&gt;
 &lt;i&gt;Inside the car parked outside the movie theatre.&lt;/i&gt;&lt;br&gt;
 &lt;/p&gt;
+&lt;/div&gt;
+
 
 &lt;p&gt;
 [The Director is waiting inside the car.]&lt;br&gt;
@@ -53,32 +59,88 @@ Place: Unknown.&lt;br&gt;
 [Enter Mrs. Annamma]&lt;br&gt;
 &lt;/p&gt;
 
+&lt;p&gt;
+&lt;i&gt;ANNAMMA&lt;/i&gt;. Earnest, my dear, they are not laughing.&lt;br&gt;
+&lt;/p&gt;
 
 &lt;p&gt;
-ANNAMMA: Earnest, my dear, they are not laughing.&lt;br&gt;
-EARNEST: What do you mean they aren't laughing? Did you hear them not laughing?&lt;br&gt;
-ANNAMMA: Yes.&lt;br&gt;
-EARNEST: It is a comedy movie.&lt;br&gt;
-ANNAMMA: I know. But there is no laughter. Humour is hiding.&lt;br&gt;
-EARNEST: Ridiculous, ridiculous. The script was hilarious. I wrote it.&lt;br&gt;
-ANNAMMA: They are just silent. There is a powerful sound vacuum.&lt;br&gt;
-EARNEST: That's impossible. I remember it was funny. Didn't it tickle your funny bone?&lt;br&gt;
-ANNAMMA: Yes. It did tickle me.&lt;br&gt;
-EARNEST: The actors also were hysterical during the filming. They had the time of their life doing what I told them to do.&lt;br&gt;
-ANNAMMA: Right Sir. They did laugh their bottoms up.&lt;br&gt;
-EARNEST: Why are the audience such cretins?&lt;br&gt;
-ANNAMMA: I don't know. But some of them even left the theatre in between the show.&lt;br&gt;
-EARNEST: That's cold blooded comedy blasphemy!&lt;br&gt;
-ANNAMMA: I couldn't take it as well. That's why I came out to tell you.&lt;br&gt;
-EARNEST: Thanks Annamma. Let's get out of here. Where is our driver?&lt;br&gt;
-ANNAMMA: I think he inside the hall watching the movie.&lt;br&gt;
-EARNEST: Thank goodness, at least the boy has some sense of humour.&lt;br&gt;
-ANNAMMA: Here he comes. In his face, I see… satisfaction!&lt;br&gt;
-EARNEST: Wonderful, Wonderful!&lt;br&gt;
+&lt;i&gt;EARNEST&lt;/i&gt;. What do you mean they aren't laughing? Did you hear them not laughing?&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;ANNAMMA&lt;/i&gt;. Yes.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;EARNEST&lt;/i&gt;. It is a comedy movie.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;ANNAMMA&lt;/i&gt;. I know. But there is no laughter. Humour is hiding.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;EARNEST&lt;/i&gt;. Ridiculous, ridiculous. The script was hilarious. I wrote it.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;ANNAMMA&lt;/i&gt;. They are just silent. There is a powerful sound vacuum.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;EARNEST&lt;/i&gt;. That's impossible. I remember it was funny. Didn't it tickle your funny bone?&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;ANNAMMA&lt;/i&gt;. Yes. It did tickle me.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;EARNEST&lt;/i&gt;. The actors also were hysterical during the filming. They had the time of their life doing what I told them to do.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;ANNAMMA&lt;/i&gt;. Right Sir. They did laugh their bottoms up.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;EARNEST&lt;/i&gt;. Why are the audience such cretins?&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;ANNAMMA&lt;/i&gt;. I don't know. But some of them even left the theatre in between the show.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;EARNEST&lt;/i&gt;. That's cold blooded comedy blasphemy!&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;ANNAMMA&lt;/i&gt;. I couldn't take it as well. That's why I came out to tell you.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;EARNEST&lt;/i&gt;. Thanks Annamma. Let's get out of here. Where is our driver?&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;ANNAMMA&lt;/i&gt;. I think he inside the hall watching the movie.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;EARNEST&lt;/i&gt;. Thank goodness, at least the boy has some sense of humour.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;ANNAMMA&lt;/i&gt;. Here he comes. In his face, I see… satisfaction!&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;EARNEST&lt;/i&gt;. Wonderful, Wonderful!&lt;br&gt;
 &lt;/p&gt;
 
 
-
+&lt;div class="org-center"&gt;
 &lt;p&gt;
 &lt;b&gt;SECOND ACT&lt;/b&gt;&lt;br&gt;
 &lt;/p&gt;
@@ -87,6 +149,7 @@ EARNEST: Wonderful, Wonderful!&lt;br&gt;
 		    SCENE&lt;br&gt;
 &lt;i&gt;Outside the car parked outside the movie theatre.&lt;/i&gt;&lt;br&gt;
 &lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;
 [The Director and Assistant gets out of the car.]&lt;br&gt;
@@ -96,21 +159,61 @@ EARNEST: Wonderful, Wonderful!&lt;br&gt;
 [Enter Partha]&lt;br&gt;
 &lt;/p&gt;
 
+
 &lt;p&gt;
-EARNEST: Partha, Did you enjoy it?&lt;br&gt;
-PARTHAA: Sir, it is Parthaa, not Partha.&lt;br&gt;
-EARNEST: Parthaa, Did you enjoy it?&lt;br&gt;
-ANNAMMA: Tell us, how was it?&lt;br&gt;
-PARTHAA: It was relaxing. Thanks for asking.&lt;br&gt;
-EARNEST: Thank God. All that not in vain.&lt;br&gt;
-ANNAMMA: Well done Earnest. Congratulations.&lt;br&gt;
-EARNEST: Thanks dear.&lt;br&gt;
-ANNAMMA: Parthaa, is it over already? I thought it went for another 30 minutes.&lt;br&gt;
-PARTHAA: Sorry what? No, I finished it quickly.&lt;br&gt;
-ANNAMMA: (exchanging look with Earnest) You finished it quickly…?&lt;br&gt;
-EARNEST: Were you not in the theatre?&lt;br&gt;
-ANNAMMA: Watching the movie?&lt;br&gt;
-PARTHAA: Oh, no.. no.. I was in the toilet.&lt;br&gt;
+&lt;i&gt;EARNEST&lt;/i&gt;. Partha, Did you enjoy it?&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;PARTHAA&lt;/i&gt;. Sir, it is Parthaa, not Partha.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;EARNEST&lt;/i&gt;. Parthaa, Did you enjoy it?&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;ANNAMMA&lt;/i&gt;. Tell us, how was it?&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;PARTHAA&lt;/i&gt;. It was relaxing. Thanks for asking.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;EARNEST&lt;/i&gt;. Thank God. All that not in vain.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;ANNAMMA&lt;/i&gt;. Well done Earnest. Congratulations.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;EARNEST&lt;/i&gt;. Thanks dear.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;ANNAMMA&lt;/i&gt;. Parthaa, is it over already? I thought it went for another 30 minutes.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;PARTHAA&lt;/i&gt;. Sorry what? No, I finished it quickly.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;ANNAMMA&lt;/i&gt;. (exchanging look with Earnest) You finished it quickly…?&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;EARNEST&lt;/i&gt;. Were you not in the theatre?&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;ANNAMMA&lt;/i&gt;. Watching the movie?&lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;i&gt;PARTHAA&lt;/i&gt;. Oh, no.. no.. I was in the toilet.&lt;br&gt;
 &lt;/p&gt;
 
 &lt;hr&gt;</description><category>audience</category><category>comedy</category><category>humour</category><category>movies</category><category>toilet</category><guid>https://mindtoilet.github.io/posts/cold-blooded-comedy-blasphemy/</guid><pubDate>Mon, 19 Mar 2018 13:05:56 GMT</pubDate></item></channel></rss>

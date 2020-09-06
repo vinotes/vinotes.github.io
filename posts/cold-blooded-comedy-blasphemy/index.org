@@ -14,7 +14,9 @@
 --------------------------------------------------
 
 
-                           *THE PERSONS OF THE PLAY*
+#+BEGIN_CENTER
+*THE PERSONS OF THE PLAY*
+#+END_CENTER
 
 *Mr. Earnest*, a Movie Director.
 
@@ -22,8 +24,9 @@
 
 *Parthaa*, the Driver
 
-
-                             *THE SCENES OF THE PLAY*
+#+BEGIN_CENTER
+*THE SCENES OF THE PLAY*
+#+END_CENTER                             
 
 Act I. /Inside the car parked outside the movie theatre/
 
@@ -32,61 +35,97 @@ Act II. /Outside the car parked outside the movie theatre/
 Time:  Undefined.
 Place: Unknown.
 
+#+BEGIN_CENTER
                                   *FIRST ACT*
 
                                      SCENE
                  /Inside the car parked outside the movie theatre./
+#+END_CENTER
+
 
 [The Director is waiting inside the car.]
 
 [Enter Mrs. Annamma]
 
+/ANNAMMA/. Earnest, my dear, they are not laughing.
 
-ANNAMMA: Earnest, my dear, they are not laughing.
-EARNEST: What do you mean they aren't laughing? Did you hear them not laughing? 
-ANNAMMA: Yes.
-EARNEST: It is a comedy movie.
-ANNAMMA: I know. But there is no laughter. Humour is hiding. 
-EARNEST: Ridiculous, ridiculous. The script was hilarious. I wrote it.
-ANNAMMA: They are just silent. There is a powerful sound vacuum.
-EARNEST: That's impossible. I remember it was funny. Didn't it tickle your funny bone?
-ANNAMMA: Yes. It did tickle me.
-EARNEST: The actors also were hysterical during the filming. They had the time of their life doing what I told them to do.
-ANNAMMA: Right Sir. They did laugh their bottoms up.
-EARNEST: Why are the audience such cretins?
-ANNAMMA: I don't know. But some of them even left the theatre in between the show.
-EARNEST: That's cold blooded comedy blasphemy! 
-ANNAMMA: I couldn't take it as well. That's why I came out to tell you.
-EARNEST: Thanks Annamma. Let's get out of here. Where is our driver?
-ANNAMMA: I think he inside the hall watching the movie.
-EARNEST: Thank goodness, at least the boy has some sense of humour.
-ANNAMMA: Here he comes. In his face, I see... satisfaction!
-EARNEST: Wonderful, Wonderful!
+/EARNEST/. What do you mean they aren't laughing? Did you hear them not laughing? 
 
+/ANNAMMA/. Yes.
 
+/EARNEST/. It is a comedy movie.
 
+/ANNAMMA/. I know. But there is no laughter. Humour is hiding. 
+
+/EARNEST/. Ridiculous, ridiculous. The script was hilarious. I wrote it.
+
+/ANNAMMA/. They are just silent. There is a powerful sound vacuum.
+
+/EARNEST/. That's impossible. I remember it was funny. Didn't it tickle your funny bone?
+
+/ANNAMMA/. Yes. It did tickle me.
+
+/EARNEST/. The actors also were hysterical during the filming. They had the time of their life doing what I told them to do.
+
+/ANNAMMA/. Right Sir. They did laugh their bottoms up.
+
+/EARNEST/. Why are the audience such cretins?
+
+/ANNAMMA/. I don't know. But some of them even left the theatre in between the show.
+
+/EARNEST/. That's cold blooded comedy blasphemy! 
+
+/ANNAMMA/. I couldn't take it as well. That's why I came out to tell you.
+
+/EARNEST/. Thanks Annamma. Let's get out of here. Where is our driver?
+
+/ANNAMMA/. I think he inside the hall watching the movie.
+
+/EARNEST/. Thank goodness, at least the boy has some sense of humour.
+
+/ANNAMMA/. Here he comes. In his face, I see... satisfaction!
+
+/EARNEST/. Wonderful, Wonderful!
+
+                                  
+#+BEGIN_CENTER
                                   *SECOND ACT*
 
                                      SCENE
                  /Outside the car parked outside the movie theatre./
+#+END_CENTER
 
 [The Director and Assistant gets out of the car.]
 
 [Enter Partha]
 
-EARNEST: Partha, Did you enjoy it?
-PARTHAA: Sir, it is Parthaa, not Partha.
-EARNEST: Parthaa, Did you enjoy it?
-ANNAMMA: Tell us, how was it?
-PARTHAA: It was relaxing. Thanks for asking.
-EARNEST: Thank God. All that not in vain.
-ANNAMMA: Well done Earnest. Congratulations.
-EARNEST: Thanks dear.
-ANNAMMA: Parthaa, is it over already? I thought it went for another 30 minutes.
-PARTHAA: Sorry what? No, I finished it quickly.
-ANNAMMA: (exchanging look with Earnest) You finished it quickly...?
-EARNEST: Were you not in the theatre?
-ANNAMMA: Watching the movie?
-PARTHAA: Oh, no.. no.. I was in the toilet.
+
+/EARNEST/. Partha, Did you enjoy it?
+
+/PARTHAA/. Sir, it is Parthaa, not Partha.
+
+/EARNEST/. Parthaa, Did you enjoy it?
+
+/ANNAMMA/. Tell us, how was it?
+
+/PARTHAA/. It was relaxing. Thanks for asking.
+
+/EARNEST/. Thank God. All that not in vain.
+
+/ANNAMMA/. Well done Earnest. Congratulations.
+
+/EARNEST/. Thanks dear.
+
+/ANNAMMA/. Parthaa, is it over already? I thought it went for another 30 minutes.
+
+/PARTHAA/. Sorry what? No, I finished it quickly.
+
+/ANNAMMA/. (exchanging look with Earnest) You finished it quickly...?
+
+/EARNEST/. Were you not in the theatre?
+
+/ANNAMMA/. Watching the movie?
+
+/PARTHAA/. Oh, no.. no.. I was in the toilet.
 
 --------------------------------------------------
