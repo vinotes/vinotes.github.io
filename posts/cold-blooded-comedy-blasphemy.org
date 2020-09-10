@@ -10,13 +10,7 @@
 #+END_COMMENT
 
 #+OPTIONS: \n:t
-
---------------------------------------------------
-
-
-#+BEGIN_CENTER
-*THE PERSONS OF THE PLAY*
-#+END_CENTER
+** THE PERSONS OF THE PLAY
 
 *Mr. Earnest*, a Movie Director.
 
@@ -24,24 +18,20 @@
 
 *Parthaa*, the Driver
 
-#+BEGIN_CENTER
-*THE SCENES OF THE PLAY*
-#+END_CENTER                             
+** THE SCENES OF THE PLAY
 
-Act I. /Inside the car parked outside the movie theatre/
+*Act I*. /Inside the car parked outside the movie theatre/
 
-Act II. /Outside the car parked outside the movie theatre/
+*Act II*. /Outside the car parked outside the movie theatre/
 
-Time:  Undefined.
-Place: Unknown.
+*Time*:  Undefined.
+*Place*: Unknown.
 
-#+BEGIN_CENTER
-                                  *FIRST ACT*
+**  FIRST ACT
 
-                                     SCENE
-                 /Inside the car parked outside the movie theatre./
-#+END_CENTER
-
+*SCENE*
+~Inside the car parked outside the movie theatre.~
+ ------------------------------------------------
 
 [The Director is waiting inside the car.]
 
@@ -86,14 +76,11 @@ Place: Unknown.
 /ANNAMMA/. Here he comes. In his face, I see... satisfaction!
 
 /EARNEST/. Wonderful, Wonderful!
-
-                                  
-#+BEGIN_CENTER
-                                  *SECOND ACT*
-
-                                     SCENE
-                 /Outside the car parked outside the movie theatre./
-#+END_CENTER
+**  SECOND ACT
+ 
+*SCENE*
+~Outside the car parked outside the movie theatre.~
+ ------------------------------------------------
 
 [The Director and Assistant gets out of the car.]
 

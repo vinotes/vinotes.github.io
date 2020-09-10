@@ -10,7 +10,6 @@
 #+END_COMMENT
 
 #+OPTIONS: \n:t
-----------------------------------
 
 Today morning, I posted a message in multiple chat groups.
 Clearly, the world around me was not ready for this. 
