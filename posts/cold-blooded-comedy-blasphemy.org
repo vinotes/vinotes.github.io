@@ -2,7 +2,7 @@
 .. title: Cold blooded comedy blasphemy
 .. slug: cold-blooded-comedy-blasphemy
 .. date: 2018-03-19 18:35:56 UTC+05:30
-.. tags: comedy, movies, toilet, humour, audience
+.. tags: comedy, movies, humour
 .. category: writing
 .. link: 
 .. description: 

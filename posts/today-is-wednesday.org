@@ -2,7 +2,7 @@
 .. title: Today is Wednesday
 .. slug: today-is-wednesday
 .. date: 2018-03-28 19:15:28 UTC+05:30
-.. tags: social, experiment, freakout, wednesday
+.. tags: social experiment
 .. category: 
 .. link: 
 .. description: 
