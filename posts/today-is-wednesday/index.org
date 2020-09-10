@@ -2,7 +2,7 @@
 .. title: Today is Wednesday
 .. slug: today-is-wednesday
 .. date: 2018-03-28 19:15:28 UTC+05:30
-.. tags: social, experiment, freakout, wednesday
+.. tags: social experiment
 .. category: 
 .. link: 
 .. description: 
@@ -10,7 +10,6 @@
 #+END_COMMENT
 
 #+OPTIONS: \n:t
-----------------------------------
 
 Today morning, I posted a message in multiple chat groups.
 Clearly, the world around me was not ready for this. 
