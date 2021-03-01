@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://mindtoilet.github.io/</loc>
-  <lastmod>2020-12-15T19:22:00Z</lastmod>
+  <lastmod>2021-03-01T19:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://mindtoilet.github.io/2018/</loc>
@@ -18,12 +18,16 @@
   <lastmod>2020-12-15T18:46:00Z</lastmod>
  </url>
  <url>
+  <loc>https://mindtoilet.github.io/2021/</loc>
+  <lastmod>2021-03-01T19:57:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://mindtoilet.github.io/archive.html</loc>
-  <lastmod>2020-12-15T19:54:00Z</lastmod>
+  <lastmod>2021-03-01T19:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://mindtoilet.github.io/categories/</loc>
-  <lastmod>2020-12-15T19:54:00Z</lastmod>
+  <lastmod>2021-03-01T19:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://mindtoilet.github.io/categories/animals/</loc>
@@ -92,6 +96,10 @@
  <url>
   <loc>https://mindtoilet.github.io/categories/football/</loc>
   <lastmod>2020-12-15T18:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mindtoilet.github.io/categories/friend/</loc>
+  <lastmod>2021-03-01T19:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://mindtoilet.github.io/categories/future/</loc>
@@ -243,11 +251,11 @@
  </url>
  <url>
   <loc>https://mindtoilet.github.io/galleries/</loc>
-  <lastmod>2020-12-16T04:32:00Z</lastmod>
+  <lastmod>2021-03-01T19:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://mindtoilet.github.io/index-1.html</loc>
-  <lastmod>2020-12-15T19:54:00Z</lastmod>
+  <lastmod>2021-03-01T19:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://mindtoilet.github.io/posts/a-football-dream/</loc>
@@ -304,5 +312,9 @@
  <url>
   <loc>https://mindtoilet.github.io/posts/today-is-wednesday/</loc>
   <lastmod>2020-12-15T18:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mindtoilet.github.io/posts/ynwa/</loc>
+  <lastmod>2021-03-01T19:57:00Z</lastmod>
  </url>
 </urlset>
