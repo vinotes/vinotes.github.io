@@ -1,0 +1,53 @@
+#+BEGIN_COMMENT
+.. title: You Will Never Walk Alone!
+.. slug: ynwa
+.. date: 2021-03-2 00:20:38 UTC+05:30
+.. tags: football, friend
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+#+END_COMMENT
+
+#+OPTIONS: \n:t
+
+For a lifelong Liverpool F.C fan, this is the perfect gift.
+
+I found a poem inside it. My friend Harish, a proud Chelsea F.C fan wrote this
+poem. He understands football better than anyone else. Football is mostly
+happiness, sometimes sorrow, triumphs and heartbreaks. It is freedom. It is a
+religion without animosity. We all love the game and the game loves us
+back. Football is love!
+
+--------------------------------------------------
+#+CAPTION: My story, Gerrard.
+#+NAME:   fig:SED-HR4049
+[[img-url:/galleries/stevie.jpg]]
+--------------------------------------------------
+
+Do you remember? Is it a blur? Reminisce,
+As you sailed through the highs and the lows,
+Through the soaring peaks and the infinte abyss,
+Darkness, the roll of a dice, chaos, the fall of a domino.
+
+The words of a special anthem echoes
+Softly, just like it did in Turkey and Madrid
+A wave of red, devoured the green meadows
+Millions of souls dreamt, breathless, achieve it they did!
+
+That echo is now a roar, your ears hurt
+Do not resist, for it is a beacon of hope
+Pull up your socks, be ready and be alert
+For even in the face of defeat, you will kop(e)
+
+The walk is now a jog, the road to salvation
+The time to show how much you've grown
+A fallen fear, broken heart, a whisper, o realisation
+For even in lucid dreams, you'll never walk alone.
+
+
+                         by /Harish Ramachandran/
+
+--------------------------------------------------
+YNWA!
+--------------------------------------------------
