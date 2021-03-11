@@ -42,6 +42,10 @@
   <lastmod>2020-12-15T18:46:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://mindtoilet.github.io/categories/communication.xml</loc>
+  <lastmod>2021-03-10T20:55:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://mindtoilet.github.io/categories/cooking.xml</loc>
   <lastmod>2020-12-15T18:46:00Z</lastmod>
  </sitemap>
@@ -71,11 +75,11 @@
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/football.xml</loc>
-  <lastmod>2021-03-01T19:57:00Z</lastmod>
+  <lastmod>2021-03-02T09:59:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/friend.xml</loc>
-  <lastmod>2021-03-01T19:57:00Z</lastmod>
+  <lastmod>2021-03-02T09:59:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/future.xml</loc>
@@ -136,6 +140,10 @@
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/meaning.xml</loc>
   <lastmod>2020-12-15T18:46:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://mindtoilet.github.io/categories/messages.xml</loc>
+  <lastmod>2021-03-10T20:55:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/categories/misogyny.xml</loc>
@@ -214,6 +222,10 @@
   <lastmod>2020-12-15T18:46:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://mindtoilet.github.io/categories/text.xml</loc>
+  <lastmod>2021-03-10T20:55:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://mindtoilet.github.io/categories/thoughts.xml</loc>
   <lastmod>2020-12-15T18:46:00Z</lastmod>
  </sitemap>
@@ -231,10 +243,10 @@
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/rss.xml</loc>
-  <lastmod>2021-03-01T19:57:00Z</lastmod>
+  <lastmod>2021-03-10T20:55:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.github.io/sitemap.xml</loc>
-  <lastmod>2021-03-01T19:57:00Z</lastmod>
+  <lastmod>2021-03-10T20:55:00Z</lastmod>
  </sitemap>
 </sitemapindex>

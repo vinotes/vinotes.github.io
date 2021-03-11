@@ -23,11 +23,11 @@
  </url>
  <url>
   <loc>https://mindtoilet.github.io/archive.html</loc>
-  <lastmod>2021-03-01T19:57:00Z</lastmod>
+  <lastmod>2021-03-10T20:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://mindtoilet.github.io/categories/</loc>
-  <lastmod>2021-03-01T19:57:00Z</lastmod>
+  <lastmod>2021-03-10T20:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://mindtoilet.github.io/categories/animals/</loc>
@@ -64,6 +64,10 @@
  <url>
   <loc>https://mindtoilet.github.io/categories/comedy/</loc>
   <lastmod>2020-12-15T18:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mindtoilet.github.io/categories/communication/</loc>
+  <lastmod>2021-03-10T20:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://mindtoilet.github.io/categories/cooking/</loc>
@@ -162,6 +166,10 @@
   <lastmod>2020-12-15T18:46:00Z</lastmod>
  </url>
  <url>
+  <loc>https://mindtoilet.github.io/categories/messages/</loc>
+  <lastmod>2021-03-10T20:55:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://mindtoilet.github.io/categories/misogyny/</loc>
   <lastmod>2020-12-15T18:46:00Z</lastmod>
  </url>
@@ -238,6 +246,10 @@
   <lastmod>2020-12-15T18:46:00Z</lastmod>
  </url>
  <url>
+  <loc>https://mindtoilet.github.io/categories/text/</loc>
+  <lastmod>2021-03-10T20:55:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://mindtoilet.github.io/categories/thoughts/</loc>
   <lastmod>2020-12-15T18:46:00Z</lastmod>
  </url>
@@ -255,7 +267,7 @@
  </url>
  <url>
   <loc>https://mindtoilet.github.io/index-1.html</loc>
-  <lastmod>2021-03-01T19:57:00Z</lastmod>
+  <lastmod>2021-03-10T20:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://mindtoilet.github.io/posts/a-football-dream/</loc>
@@ -300,6 +312,10 @@
  <url>
   <loc>https://mindtoilet.github.io/posts/nashtam/</loc>
   <lastmod>2020-12-15T18:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mindtoilet.github.io/posts/noreply/</loc>
+  <lastmod>2021-03-10T20:54:00Z</lastmod>
  </url>
  <url>
   <loc>https://mindtoilet.github.io/posts/obituary/</loc>
