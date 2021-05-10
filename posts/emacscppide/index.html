@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>emacscppide | mindtoilet</title>
+<style>
+        @font-face {
+            font-family: "libretto-icons";
+            src:url(../../assets/fonts/libretto-icons.eot);
+            src:url(../../assets/fonts/libretto-icons.eot#iefix) format("embedded-opentype"),
+            url(../../assets/fonts/libretto-icons.woff) format("woff"),
+            url(../../assets/fonts/libretto-icons.ttf) format("truetype"),
+            url(../../assets/fonts/libretto-icons.svg#libretto-icons) format("svg");
+            font-weight: normal;
+            font-style: normal;
+        }
+    </style>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Sans+Mono%7CLibre+Baskerville%7CMontserrat%7CPlayfair+Display">
+<link rel="stylesheet" href="../../assets/css/libretto_styles.css">
+</head>
+<body>
+    <!-- Navigation bar -->
+    <header class="nav-bar"><div class="site-branding">
+            <h1 class="site-title">
+                <a href="https://mindtoilet.github.io/" title="mindtoilet" rel="home">mindtoilet</a>
+            </h1>
+        </div>
+        <nav class="site-navigation" role="navigation"><div class="menu-toggle">
+                <span class="mobile-site-title" onclick="window.location.href='https://mindtoilet.github.io/';">mindtoilet</span>
+            </div>
+            <ul class="menu">
+<li><a href="../../archive.html">Archive</a></li>
+                    <li><a href="../../categories/">Tags</a></li>
+                    <li><a href="../../rss.xml">RSS feed</a></li>
+            </ul></nav></header><!-- Page Header --><div class="title-block post-format-icon-pin">
+        <div class="entry-meta">
+            <span class="posted-on">
+                Posted on <a href="." rel="bookmark">27-4-2021</a>
+            </span>
+        </div>
+        <h1>emacscppide</h1>
+    </div>
+
+        <!-- Page Content -->
+    <div class="site-content" role="main">
+        <article class="format-standard libretto-long-form"><div class="entry-content">
+                <p>
+If you are fortunate, and thus emacs user; this post might help you transform
+vanilla emacs into a proper C++ development IDE.
+</p>
+
+<p>
+By proper, I mean:
+</p>
+<ol class="org-ol">
+<li>Code completion</li>
+<li>Code navigation to definitions/references</li>
+<li>Real-time syntax checking</li>
+</ol>
+<p>
+There are many more features associated with this IDE environment, but I
+think these are the most valuable ones.
+</p>
+
+<p>
+This is tested on a Linux machine. 
+</p>
+
+<p>
+CMake 3.8 or higher.
+A C++ compiler with C++17 support:
+</p>
+<ol class="org-ol">
+<li>Clang 5 or higher</li>
+<li>
+<p>
+GNU GCC 7.2 or higher (optional,string<sub>view</sub> require libstdc++7 or higher)
+</p>
+
+<p>
+Details : <a href="https://github.com/MaskRay/ccls/wiki/Build">https://github.com/MaskRay/ccls/wiki/Build</a>
+</p>
+</li>
+</ol>
+<p>
+Use package manager to install or
+Arch Linux sudo pacman -S ccls
+Debian sudo apt install ccls
+</p>
+
+<p>
+<a href="https://github.com/MaskRay/ccls/wiki">https://github.com/MaskRay/ccls/wiki</a>
+<a href="https://emacs-lsp.github.io/lsp-mode/">https://emacs-lsp.github.io/lsp-mode/</a>
+<a href="https://emacs-lsp.github.io/lsp-mode/tutorials/CPP-guide/">https://emacs-lsp.github.io/lsp-mode/tutorials/CPP-guide/</a>
+<a href="https://sarcasm.github.io/notes/dev/compilation-database.html">https://sarcasm.github.io/notes/dev/compilation-database.html</a>
+<a href="https://company-mode.github.io/">https://company-mode.github.io/</a>
+<a href="https://www.monolune.com/configuring-company-mode-in-emacs/">https://www.monolune.com/configuring-company-mode-in-emacs/</a>
+<a href="https://github.com/MaskRay/emacs-ccls">https://github.com/MaskRay/emacs-ccls</a>
+<a href="https://github.com/MaskRay/ccls/wiki/lsp-mode">https://github.com/MaskRay/ccls/wiki/lsp-mode</a>
+<a href="https://www.reddit.com/r/emacs/comments/9dg13i/cclsnavigate_semantic_navigation_for_cc/">https://www.reddit.com/r/emacs/comments/9dg13i/cclsnavigate_semantic_navigation_for_cc/</a>
+<a href="https://github.com/alexmurray/ivy-xref">https://github.com/alexmurray/ivy-xref</a>
+</p>
+            </div>
+        </article>
+</div>
+
+        <!-- Tag Section -->
+
+        <!-- Post Navigation links -->
+<nav class="site-content navigation-post" role="navigation"><div class="previous">
+            <a href="../../" rel="prev" onclick="return false;">
+                <span class="meta-nav">No More Older Posts</span>            </a>
+        </div>
+</nav><!-- Page Footer --><section class="footer-sidebar clear" role="complementary"><div class="widget-block">
+            <aside class="widget"><h2 class="widget-title">mindtoilet</h2>
+                <div class="widget-text">Mind Blogging</div>
+            </aside>
+</div>
+    </section><!-- Site Attributions --><footer class="site-footer" role="contentinfo"><div class="site-info">
+            <p>Contents © 2021         <a href="mailto:mindtoilet@gmail.com">mind</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         </p>
+            <p>Powered by <a href="https://getnikola.com/">Nikola</a> using the <a href="https://note2self.abraham-v.com/libretto-theme-for-nikola/">Libretto theme</a>.</p>
+        </div>
+        <div class="social">
+            <ul class="menu"></ul>
+</div>
+    </footer>
+</body>
+</html>

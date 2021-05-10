@@ -1,0 +1,54 @@
+#+BEGIN_COMMENT
+.. title: emacscppide
+.. slug: emacscppide
+.. date: 2021-04-27 03:27:04 UTC+05:30
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+.. status: draft
+#+END_COMMENT
+
+
+If you are fortunate, and thus emacs user; this post might help you transform
+vanilla emacs into a proper C++ development IDE.
+
+By proper, I mean:
+1. Code completion
+2. Code navigation to definitions/references
+3. Real-time syntax checking
+
+There are many more features associated with this IDE environment, but I
+think these are the most valuable ones.
+
+This is tested on a Linux machine. 
+
+# CMake
+# Screenshots
+# Company mode
+# Install CCLS on system
+
+CMake 3.8 or higher.
+A C++ compiler with C++17 support:
+1. Clang 5 or higher
+2. GNU GCC 7.2 or higher (optional,string_view require libstdc++7 or higher)
+
+   Details : https://github.com/MaskRay/ccls/wiki/Build
+
+Use package manager to install or
+Arch Linux sudo pacman -S ccls
+Debian sudo apt install ccls
+
+#  
+
+https://github.com/MaskRay/ccls/wiki
+https://emacs-lsp.github.io/lsp-mode/
+https://emacs-lsp.github.io/lsp-mode/tutorials/CPP-guide/
+https://sarcasm.github.io/notes/dev/compilation-database.html
+https://company-mode.github.io/
+https://www.monolune.com/configuring-company-mode-in-emacs/
+https://github.com/MaskRay/emacs-ccls
+https://github.com/MaskRay/ccls/wiki/lsp-mode
+https://www.reddit.com/r/emacs/comments/9dg13i/cclsnavigate_semantic_navigation_for_cc/
+https://github.com/alexmurray/ivy-xref
