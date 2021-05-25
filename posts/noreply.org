@@ -2,8 +2,8 @@
 .. title: No reply
 .. slug: noreply
 .. date: 2021-03-11 06:45:38 UTC+05:30
-.. tags: text, messages, communication
-.. category: 
+.. tags: satire
+.. category: English
 .. link: 
 .. description: 
 .. type: text

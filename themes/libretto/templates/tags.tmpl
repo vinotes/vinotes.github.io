@@ -5,11 +5,34 @@
         <div class="entry-meta">
             <span class="posted-on">Collected from Every Post</span>
         </div>
-        <h1>Tags</h1>
+        <h1>Categories</h1>
     </div>
 {% endblock %}
 
 {% block content_post %}
+    <div class="site-content" role="main">
+        <article class="format-standard libretto-long-form">
+            <div class="entry-content">
+                {% if cat_items %}
+                    <table>
+                        {% for text, link in cat_items %}
+                            <tr>
+                                <td style="text-align:center"><a href="{{ link }}">{{ text|e }}</a></td>
+                            </tr>
+                        {% endfor %}
+                    </table>
+                {% else %}
+                    <p>There's nothing to show here.</p>
+                {% endif %}
+            </div>
+        </article>
+    </div>
+
+
+    <div class="title-block post-format-icon-lock">
+        <h1>Tags</h1>
+    </div>
+    
     <div class="site-content" role="main">
         <article class="format-standard libretto-long-form">
             <div class="entry-content">

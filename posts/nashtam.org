@@ -2,8 +2,8 @@
 .. title: നഷ്ടം
 .. slug: nashtam
 .. date: 2020-04-03 05:02:52 UTC+05:30
-.. tags: Malayalam, Kerala
-.. category: 
+.. tags: serious
+.. category: Malayalam
 .. link: 
 .. description: 
 .. type: text

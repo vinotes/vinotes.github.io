@@ -2,8 +2,8 @@
 .. title: emacscppide
 .. slug: emacscppide
 .. date: 2021-04-27 03:27:04 UTC+05:30
-.. tags: 
-.. category: 
+.. tags: tech
+.. category: English
 .. link: 
 .. description: 
 .. type: text

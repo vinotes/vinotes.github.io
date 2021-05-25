@@ -2,8 +2,8 @@
 .. title: Mighty mountains
 .. slug: mighty-mountains
 .. date: 2020-01-27 01:57:15 UTC+05:30
-.. tags: mountains, Himalayas, river, sea, sky, night, nature, trek
-.. category: 
+.. tags: poem
+.. category: English
 .. link: 
 .. description: 
 .. type: text

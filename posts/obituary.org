@@ -2,8 +2,8 @@
 .. title: ചരമവാർത്ത
 .. slug: obituary
 .. date: 2020-12-16 01:09:10 UTC+05:30
-.. tags: obituary news satire
-.. category: satire
+.. tags: satire
+.. category: Malayalam
 .. link: 
 .. description: 
 .. type: text

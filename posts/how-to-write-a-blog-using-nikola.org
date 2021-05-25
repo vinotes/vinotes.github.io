@@ -2,8 +2,8 @@
 .. title: Blogging using nikola, github, emacs, orgmode
 .. slug: how-to-write-a-blog-using-nikola
 .. date: 2018-02-09 01:38:14 UTC+05:30
-.. tags: nikola, emacs, github, orgmode, linux, python, blogging
-.. category: technology 
+.. tags: tech
+.. category: English
 .. link: 
 .. description: 
 .. type: text

@@ -2,8 +2,8 @@
 .. title: Crime scene
 .. slug: crime-scene
 .. date: 2018-10-22 23:00:56 UTC+05:30
-.. tags: crime, cooking, dosa, food
-.. category: writing, serious comedy
+.. tags: comedy
+.. category: English
 .. link: 
 .. description: 
 .. type: text

@@ -2,8 +2,8 @@
 .. title: City Rain
 .. slug: cityrain
 .. date: 2021-04-15 21:29:20 UTC+05:30
-.. tags: 
-.. category: 
+.. tags: poem
+.. category: English
 .. link: 
 .. description: 
 .. type: text

@@ -2,10 +2,8 @@
 .. title: Make us dream!
 .. slug: a-football-dream
 .. date: 2020-04-02 02:45:38 UTC+05:30
-.. tags: football, liverpoolfc, Palakkad, Kerala,
-India, dream, sadio, mane, jurgen, klopp, lfc, ynwa, firmino
-salah melwood
-.. category: 
+.. tags: football, fantasy
+.. category: English
 .. link: 
 .. description: 
 .. type: text
