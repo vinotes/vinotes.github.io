@@ -2,8 +2,8 @@
 .. title: Mammae
 .. slug: mammae
 .. date: 2020-08-27 00:35:33 UTC+05:30
-.. tags: evolution, mammary glands, animals, breast tax
-.. category: 
+.. tags: history
+.. category: English
 .. link: 
 .. description: 
 .. type: text

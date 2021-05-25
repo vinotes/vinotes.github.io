@@ -2,8 +2,8 @@
 .. title: ഒരു പയ്യൻ കഥ 
 .. slug: orupayyankatha
 .. date: 2020-09-20 10:46:45 UTC+05:30
-.. tags: malayalam payyanstories vkn 
-.. category: shortstory
+.. tags: satire, comedy
+.. category: Malayalam
 .. link: 
 .. description: 
 .. type: text
