@@ -1,4 +1,4 @@
-Sitemap: https://mindtoilet.github.io/sitemapindex.xml
+Sitemap: https://vinotes.github.io/sitemapindex.xml
 
 User-Agent: *
-Host: mindtoilet.github.io
+Host: vinotes.github.io
