@@ -17,15 +17,15 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "mind"  # (translatable)
-BLOG_TITLE = "mindtoilet"  # (translatable)
+BLOG_AUTHOR = "Vinodh MJ Human"  # (translatable)
+BLOG_TITLE = "VINODH's NOTES"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://mindtoilet.github.io/"
+SITE_URL = "https://vinotes.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://mindtoilet.github.io/"
-BLOG_EMAIL = "mindtoilet@gmail.com"
+# BASE_URL = "https://vinotes.github.io/"
+BLOG_EMAIL = "vinotes@gmail.com"
 BLOG_DESCRIPTION = "Mind Blogging"  # (translatable)
 
 # Nikola is multilingual!
@@ -986,7 +986,7 @@ RSS_COPYRIGHT_FORMATS = CONTENT_FOOTER_FORMATS
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information
 # is in the manual.
-#COMMENT_SYSTEM_ID = "https-mindtoilet-github-io"
+#COMMENT_SYSTEM_ID = "https-vinotes-github-io"
 
 # Enable annotations using annotateit.org?
 # If set to False, you can still enable them for individual posts and pages
