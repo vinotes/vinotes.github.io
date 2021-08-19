@@ -1,5 +1,5 @@
 #+BEGIN_COMMENT
-.. title: Mighty mountains
+.. title: Mighty Mountains
 .. slug: mighty-mountains
 .. date: 2020-01-27 01:57:15 UTC+05:30
 .. tags: poem
