@@ -270,9 +270,3 @@ For detailed information :
 5. [[http://cestlaz.github.io/stories/emacs/][using emacs]]
 6. [[https://www.youtube.com/watch?v=SzA2YODtgK4][Getting started with org mode]]
 7. [[https://www.youtube.com/watch?v=oJTwQvgfgMM][org mode : by its creator]]
-
-
-* Comments
-----------------------------------
-/Kindly leave your feedback [[https://twitter.com/mind_toilet/status/1308329235543552003?s=20][here]]./
-----------------------------------
