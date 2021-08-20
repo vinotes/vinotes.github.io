@@ -18,14 +18,14 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Vinodh MJ Human"  # (translatable)
-BLOG_TITLE = "VINODH's NOTES"  # (translatable)
+BLOG_TITLE = "VINODH'S NOTES"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://vinotes.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://vinotes.github.io/"
-BLOG_EMAIL = "vinotes@gmail.com"
+BLOG_EMAIL = "mindtoilet@gmail.com"
 BLOG_DESCRIPTION = "Mind Blogging"  # (translatable)
 
 # Nikola is multilingual!
