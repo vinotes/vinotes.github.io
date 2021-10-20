@@ -23,7 +23,7 @@
  </url>
  <url>
   <loc>https://vinotes.github.io/archive.html</loc>
-  <lastmod>2021-10-10T10:54:00Z</lastmod>
+  <lastmod>2021-10-20T00:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://vinotes.github.io/categories/</loc>
@@ -75,11 +75,11 @@
  </url>
  <url>
   <loc>https://vinotes.github.io/galleries/</loc>
-  <lastmod>2021-08-18T20:07:00Z</lastmod>
+  <lastmod>2021-10-20T00:19:00Z</lastmod>
  </url>
  <url>
   <loc>https://vinotes.github.io/index-1.html</loc>
-  <lastmod>2021-10-10T10:54:00Z</lastmod>
+  <lastmod>2021-10-20T00:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://vinotes.github.io/posts/a-football-dream/</loc>
@@ -108,6 +108,10 @@
  <url>
   <loc>https://vinotes.github.io/posts/leftoverkindness/</loc>
   <lastmod>2021-08-18T20:07:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://vinotes.github.io/posts/leprechaun/</loc>
+  <lastmod>2021-10-10T10:50:00Z</lastmod>
  </url>
  <url>
   <loc>https://vinotes.github.io/posts/mammae/</loc>
@@ -146,10 +150,6 @@
   <lastmod>2021-08-18T20:07:00Z</lastmod>
  </url>
  <url>
-  <loc>https://vinotes.github.io/posts/police-chase/</loc>
-  <lastmod>2021-10-10T10:50:00Z</lastmod>
- </url>
- <url>
   <loc>https://vinotes.github.io/posts/policechase/</loc>
   <lastmod>2021-10-10T10:51:00Z</lastmod>
  </url>
@@ -160,9 +160,5 @@
  <url>
   <loc>https://vinotes.github.io/posts/ynwa/</loc>
   <lastmod>2021-08-18T20:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://vinotes.github.io/subscribe/</loc>
-  <lastmod>2021-09-09T16:33:00Z</lastmod>
  </url>
 </urlset>

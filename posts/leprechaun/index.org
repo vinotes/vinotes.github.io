@@ -1,14 +1,53 @@
 #+BEGIN_COMMENT
 .. title: Leprechaun
 .. slug: leprechaun
-.. date: 2021-10-05 19:58:16 UTC+00:00
+.. date: 2021-10-20 00:58:16
 .. tags: 
 .. category: 
 .. link: 
 .. description: 
 .. type: text
-.. status: draft
+.. status:
 #+END_COMMENT
 
+#+BEGIN_CENTER
+[[img-url:/galleries/rainbow.JPG]]
+#+END_CENTER
 
-Write your post here.
+He said, "Ooh, maybe we should look for the pot of gold at the end of it".
+
+What?
+
+Oh my god! Have you not heard about Leprechauns?
+
+Of course not.
+
+Well, in Irish folklore, Leprechauns are mentioned as cunning supernatural
+creatures sporting a red beard, green coat and a hat. They are cobblers and
+part time pranksters, notorious for their practical jokes on the gullible.
+
+Once upon a time, there lived a poor farmer with his wife. One day, when they
+pulled the very last carrot from their farm, found a Leprechaun dangling at
+the end of it. In exchange for its release, the Leprechaun granted them one
+wish. The couple took a while to decide on the wish, and started to list out all
+the things they wanted in life. Leprechaun identified this as a symptom of greed,
+and played a cruel prank on the poor farmers. It said, maybe the pot of gold at
+the end of the rainbow will solve all your problems. The couple went searching
+after the elusive pot of gold. Moral(s) of the story: Be careful what you wish
+for, You only get what you deserve, Success through shortcuts will not last
+longer, etc.
+
+Oh, wait. In Harry Potter and the Goblet of Fire, the Irish National Quidditch
+team's mascots were Leprechauns, weren't they?
+
+Yes, indeed they were.
+
+Bloody hell.
+
+Would you like to hear about St. Patrick's day celebrations in Ireland?
+
+No, thank you, I need to re-read the fourth book, cheers!
+
+#+BEGIN_CENTER
+[[img-url:/galleries/leprechaun.png]]
+#+END_CENTER
