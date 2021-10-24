@@ -10,13 +10,7 @@
 #+END_COMMENT
 
 #+OPTIONS: \n:t
-
-#+BEGIN_QUOTE
-
 How can it be put into words?
 For love itself is a word, borrowed.
-
-#+END_QUOTE
-
 --------------------------------------------------
 
