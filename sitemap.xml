@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://vinotes.github.io/</loc>
-  <lastmod>2021-12-26T00:04:00Z</lastmod>
+  <lastmod>2022-07-15T00:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://vinotes.github.io/2018/</loc>
@@ -22,12 +22,16 @@
   <lastmod>2021-12-26T00:04:00Z</lastmod>
  </url>
  <url>
+  <loc>https://vinotes.github.io/2022/</loc>
+  <lastmod>2022-07-15T00:13:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://vinotes.github.io/archive.html</loc>
-  <lastmod>2021-12-29T12:44:00Z</lastmod>
+  <lastmod>2022-07-15T00:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://vinotes.github.io/categories/</loc>
-  <lastmod>2021-12-26T00:04:00Z</lastmod>
+  <lastmod>2022-07-15T00:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://vinotes.github.io/categories/cat_english/</loc>
@@ -54,12 +58,20 @@
   <lastmod>2021-12-26T00:04:00Z</lastmod>
  </url>
  <url>
+  <loc>https://vinotes.github.io/categories/payyan/</loc>
+  <lastmod>2022-07-15T00:11:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://vinotes.github.io/categories/play/</loc>
   <lastmod>2021-12-26T00:04:00Z</lastmod>
  </url>
  <url>
   <loc>https://vinotes.github.io/categories/poem/</loc>
   <lastmod>2021-12-26T00:04:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://vinotes.github.io/categories/pyy/</loc>
+  <lastmod>2022-07-15T00:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://vinotes.github.io/categories/satire/</loc>
@@ -79,11 +91,11 @@
  </url>
  <url>
   <loc>https://vinotes.github.io/index-1.html</loc>
-  <lastmod>2021-12-29T12:44:00Z</lastmod>
+  <lastmod>2022-07-15T00:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://vinotes.github.io/index-2.html</loc>
-  <lastmod>2021-12-29T12:44:00Z</lastmod>
+  <lastmod>2022-07-15T00:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://vinotes.github.io/posts/a-football-dream/</loc>
@@ -160,6 +172,10 @@
  <url>
   <loc>https://vinotes.github.io/posts/pathra-vayana/</loc>
   <lastmod>2021-12-26T00:04:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://vinotes.github.io/posts/payyanchinthamagnanayi/</loc>
+  <lastmod>2022-07-15T00:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://vinotes.github.io/posts/policechase/</loc>
