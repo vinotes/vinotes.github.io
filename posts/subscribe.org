@@ -1,0 +1,17 @@
+#+BEGIN_COMMENT
+.. title: Subscribe
+.. slug: subscribe
+.. date: 2022-07-26 18:00:38 UTC+0:00
+.. tags: 
+.. category:
+.. link: 
+.. description: 
+.. type: text
+#+END_COMMENT
+
+
+വിനോട്ടിസിന്റെ വരിക്കാരാകുവാൻ [[mailto:mindtoilet@gmail.com?subject=Subscribe%20to%20Vinotes&body=Cheers][ഇവിടെ]] ഞെക്കുക. അത് നിങ്ങളുടെ ഇമെയിൽ ആപ്പ് തുറക്കും, അതിൽ
+സെൻട് അമർത്തുക. നന്ദി.
+
+Please click [[mailto:mindtoilet@gmail.com?subject=Subscribe%20to%20Vinotes&body=Cheers][HERE]] to subscribe to Vinotes. Clicking on the link will open your default
+mail application. On the pre-filled mail, please click send. Thanks.

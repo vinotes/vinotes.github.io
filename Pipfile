@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+nikola = {extras = ["extras"], version = "*"}
+markdown = "==3.3"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
