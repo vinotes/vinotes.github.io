@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://vinotes.github.io/</loc>
-  <lastmod>2023-02-02T02:34:00Z</lastmod>
+  <lastmod>2024-03-03T01:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://vinotes.github.io/2018/</loc>
@@ -30,12 +30,16 @@
   <lastmod>2023-02-02T02:34:00Z</lastmod>
  </url>
  <url>
+  <loc>https://vinotes.github.io/2024/</loc>
+  <lastmod>2024-03-03T01:10:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://vinotes.github.io/archive.html</loc>
-  <lastmod>2023-02-02T02:34:00Z</lastmod>
+  <lastmod>2024-03-03T01:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://vinotes.github.io/categories/</loc>
-  <lastmod>2022-07-27T00:20:00Z</lastmod>
+  <lastmod>2024-03-03T01:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://vinotes.github.io/categories/cat_english/</loc>
@@ -62,6 +66,10 @@
   <lastmod>2022-07-26T23:25:00Z</lastmod>
  </url>
  <url>
+  <loc>https://vinotes.github.io/categories/language/</loc>
+  <lastmod>2024-03-03T01:10:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://vinotes.github.io/categories/payyan/</loc>
   <lastmod>2022-07-26T23:25:00Z</lastmod>
  </url>
@@ -72,6 +80,10 @@
  <url>
   <loc>https://vinotes.github.io/categories/poem/</loc>
   <lastmod>2022-07-26T23:25:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://vinotes.github.io/categories/politics/</loc>
+  <lastmod>2024-03-03T01:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://vinotes.github.io/categories/pyy/</loc>
@@ -86,6 +98,10 @@
   <lastmod>2022-07-26T23:25:00Z</lastmod>
  </url>
  <url>
+  <loc>https://vinotes.github.io/categories/society/</loc>
+  <lastmod>2024-03-03T01:10:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://vinotes.github.io/categories/tech/</loc>
   <lastmod>2022-07-26T23:25:00Z</lastmod>
  </url>
@@ -95,11 +111,11 @@
  </url>
  <url>
   <loc>https://vinotes.github.io/index-1.html</loc>
-  <lastmod>2023-02-02T02:34:00Z</lastmod>
+  <lastmod>2024-03-03T01:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://vinotes.github.io/index-2.html</loc>
-  <lastmod>2023-02-02T02:34:00Z</lastmod>
+  <lastmod>2024-03-03T01:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://vinotes.github.io/posts/a-football-dream/</loc>
@@ -194,12 +210,20 @@
   <lastmod>2022-07-26T23:25:00Z</lastmod>
  </url>
  <url>
+  <loc>https://vinotes.github.io/posts/payyantemanasiranioodi/</loc>
+  <lastmod>2024-03-03T01:10:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://vinotes.github.io/posts/policechase/</loc>
   <lastmod>2022-07-26T23:25:00Z</lastmod>
  </url>
  <url>
   <loc>https://vinotes.github.io/posts/subscribe/</loc>
   <lastmod>2022-07-26T23:50:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://vinotes.github.io/posts/theythem/</loc>
+  <lastmod>2024-03-03T01:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://vinotes.github.io/posts/yellow-balloon/</loc>
