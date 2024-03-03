@@ -4,8 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-nikola = {extras = ["extras"], version = "*"}
 markdown = "==3.3"
+nikola = {extras = ["extras"], version = "*"}
 
 [dev-packages]
 

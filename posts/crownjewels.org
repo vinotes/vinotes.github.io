@@ -1,0 +1,12 @@
+#+BEGIN_COMMENT
+.. title: Crown Jewels
+.. slug: crownjewels
+.. date: 2023-02-20 18:00:38 UTC+0:00
+.. tags: draft
+.. category: English
+.. link: 
+.. description: 
+.. type: text
+#+END_COMMENT
+
+Yesterday, I was quite
