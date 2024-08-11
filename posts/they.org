@@ -7,7 +7,7 @@
 .. link: 
 .. description: 
 .. type: text
-.. status: 
+.. status: draft
 #+END_COMMENT
 
 Pronouns replace a person's name in a sentence. They/Them are pronouns attached
