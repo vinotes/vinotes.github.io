@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://vinotes.github.io/categories/cat_english.xml</loc>
-  <lastmod>2024-11-03T19:39:00Z</lastmod>
+  <lastmod>2024-11-04T08:49:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://vinotes.github.io/categories/cat_malayalam.xml</loc>
@@ -39,7 +39,7 @@
  </sitemap>
  <sitemap>
   <loc>https://vinotes.github.io/categories/poem.xml</loc>
-  <lastmod>2024-11-03T19:39:00Z</lastmod>
+  <lastmod>2024-11-04T08:49:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://vinotes.github.io/categories/pyy.xml</loc>
@@ -63,10 +63,10 @@
  </sitemap>
  <sitemap>
   <loc>https://vinotes.github.io/rss.xml</loc>
-  <lastmod>2024-11-03T19:39:00Z</lastmod>
+  <lastmod>2024-11-04T08:49:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://vinotes.github.io/sitemap.xml</loc>
-  <lastmod>2024-11-03T19:39:00Z</lastmod>
+  <lastmod>2024-11-04T08:49:00Z</lastmod>
  </sitemap>
 </sitemapindex>
