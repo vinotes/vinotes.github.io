@@ -11,6 +11,6 @@
 
 #+OPTIONS: \n:t
 How can it be put into words?
-For love itself is a word, borrowed.
+For love itself is just a word, borrowed.
 --------------------------------------------------
 
