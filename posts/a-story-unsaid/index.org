@@ -1,6 +1,6 @@
 #+BEGIN_COMMENT
 .. title: A story unsaid
-.. slug: orange-balloon
+.. slug: a-story-unsaid
 .. date: 2021-08-19 11:30:15 UTC+05:30
 .. tags: poem
 .. category: English
@@ -13,12 +13,12 @@
 
 The night, soothingly quiet, our poet awoke in her bed.
 Eyes wide, a story unsaid, raging in her head.
-She leapt to the desk and started scribbling away,
+She opened her book and started scribbling away,
 Hoping that the memory of her dream would stay.
 
 Lying on a hammock she thought,
 About a piquant dream she caught. 
-An unsaid story that she must tell,
+A story unsaid that she must tell,
 Out of her mind, before it fell.
 
 There was the familiar little girl,
@@ -34,7 +34,7 @@ Popular songs they played were all banned.
 The orange balloon hovered over his head like a halo,
 Her eyes twinkled as she went to say hello.
 Will you give me that orange balloon I crave?
-Quid pro quo, young lady, what shall I have?
+Quid pro quo, young lady, he said with a smile, suave.
 
 Shake hands with me for it, little doll?
 No, you'll squeeze my fingers like a troll.
@@ -43,12 +43,12 @@ Its impossible! How dare you demand such a deed?
 The pearl necklace then, yes?
 Oh, no, villains can't have necklaces.
 
-Right you are! here, take it my friend.
+How right you are, here, take it my friend.
 Ha-ha, I know, villains always lose in the end.
 As she reached out for the balloon, he let it fly,
-Ha-ha! where's the fun in not letting it touch the sky.
+Ha-ha, where's the fun in not letting it touch the sky?
 
-She woke up with a start, still lying on a hammock,
+She woke up with a start, still lying on the hammock,
 The pearl necklace was planted safely on her neck.
 She opened her book and started scribbling away,
 Hoping that the memory of her dream would stay.
@@ -56,6 +56,6 @@ Hoping that the memory of her dream would stay.
 The night, soothingly quiet, is coming to its end,
 The poet stood in the balcony facing a sea and beyond.
 Words on her book rhymed, pearls on her neck shined,
-An orange balloon dawned up in the sky, and she smiled.
+An orange balloon dawned up in the sky and she smiled.
 
 --------------------------------------------------
