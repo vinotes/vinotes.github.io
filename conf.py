@@ -17,11 +17,11 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Vinodh MJ Human"  # (translatable)
-BLOG_TITLE = "VINODH'S NOTES"  # (translatable)
+BLOG_AUTHOR = "mindtoilet"  # (translatable)
+BLOG_TITLE = "mindtoilet"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://vinotes.github.io/"
+SITE_URL = "https://mindtoilet.com/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://vinotes.github.io/"
@@ -136,10 +136,10 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/categories/cat_malayalam/", "മലയാളം"),
         ("/categories/cat_english/", "English"),
-        ("/archive.html", "Archive"),
+#        ("/archive.html", "Archive"),
         ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
-        ("/posts/subscribe/", "Subscribe"),
+        ("/rss.xml", "RSS"),
+#        ("/posts/about/", "About"),
     ),
 }
 
@@ -497,12 +497,12 @@ CATEGORY_OUTPUT_FLAT_HIERARCHY = False
 # }
 
 # Set special titles for category pages. The default is "Posts about CATEGORY".
-# CATEGORY_PAGES_TITLES = {
-#    DEFAULT_LANG: {
-#        "blogging": "Meta-posts about blogging",
-#        "open source": "Posts about open source software"
-#    },
-# }
+CATEGORY_TITLES = {
+   DEFAULT_LANG: {
+       "English": "Posts in English language",
+       "Malayalam": "മലയാളം, മലയാളം!"
+   },
+}
 
 # If you do not want to display a category publicly, you can mark it as hidden.
 # The category will not be displayed on the category list page.

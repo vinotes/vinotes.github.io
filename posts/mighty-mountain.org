@@ -11,13 +11,6 @@
 
 #+OPTIONS: \n:t
 
-#+CAPTION: This is the caption for the next figure link (or table)
-#+NAME:   fig:SED-HR4049
-[[img-url:/galleries/dhanteras.JPG]]
-
-
---------------------------------------------------
-
 Mighty mountains,
 I saw its curves and peaks yonder,
 White clouds and blue skies surrounded.
