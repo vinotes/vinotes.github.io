@@ -1,69 +1,24 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>mindtoilet</title>
-<style>
-        @font-face {
-            font-family: "libretto-icons";
-            src:url(assets/fonts/libretto-icons.eot);
-            src:url(assets/fonts/libretto-icons.eot#iefix) format("embedded-opentype"),
-            url(assets/fonts/libretto-icons.woff) format("woff"),
-            url(assets/fonts/libretto-icons.ttf) format("truetype"),
-            url(assets/fonts/libretto-icons.svg#libretto-icons) format("svg");
-            font-weight: normal;
-            font-style: normal;
-        }
-    </style>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Sans+Mono|Libre+Baskerville|Montserrat|Playfair+Display">
-<link rel="stylesheet" href="assets/css/libretto_styles.css">
-</head>
-<body>
-    <!-- Navigation bar -->
-    <header class="nav-bar"><div class="site-branding">
-            <h1 class="site-title">
-                <a href="https://mindtoilet.com/" title="mindtoilet" rel="home">mindtoilet</a>
-            </h1>
-        </div>
-        <nav class="site-navigation" role="navigation"><div class="menu-toggle">
-                <span class="mobile-site-title" onclick="window.location.href='https://mindtoilet.com/';">mindtoilet</span>
-            </div>
-            <ul class="menu">
-<li><a href="categories/cat_malayalam/">മലയാളം</a></li>
-                    <li><a href="categories/cat_english/">English</a></li>
-                    <li><a href="https://podcasters.spotify.com/pod/show/hitchensrazor/">Podcast</a></li>
-                    <li><a href="rss.xml">RSS</a></li>
-            </ul></nav></header><div class="site-content">
-            <article class="format-standard libretto-long-form"><div class="title-block post-format-icon-pin">
-                    <div class="entry-meta">
-                        <span class="posted-on">
-                            Posted on <a href="posts/pi_four/" rel="bookmark">26-10-2024</a>
-                        </span>
-                    </div>
-                    <h1><a href="posts/pi_four/">Political Ideologies - Edmund Burke vs Thomas Paine</a></h1>
-                </div>
-                <div class="entry-content">
-                        <p>
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>mindtoilet (Posts about podcast)</title><link>https://mindtoilet.com/</link><description></description><atom:link href="https://mindtoilet.com/categories/podcast.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2024 &lt;a href="mailto:mindtoilet@gmail.com"&gt;mindtoilet&lt;/a&gt; </copyright><lastBuildDate>Wed, 20 Nov 2024 21:54:11 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Political Ideologies - Edmund Burke vs Thomas Paine</title><link>https://mindtoilet.com/posts/pi_four/</link><dc:creator>mindtoilet</dc:creator><description>&lt;p&gt;
 Welcome to Hitchens' Razor.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Let's jump straight into it. I will thank our sources in the end.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Simply put, "Liberalism was the ideology of the rising middle class,
 Conservatism was the ideology of the aristocracy or nobility, and Socialism was
 the ideology of the growing working class." writes Andrew Heywood.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 In other words, the origins of these three ideologies were associated with the
 plight of the working class, aristocracy, and middle class; in different ways.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Let's begin with an anecdote about the origin of the terms 'left', and 'right'.
 Do you remember the rendezvous of the Estates-General at the start of French
 Revolution? When they gathered, the representatives who sought fundamental
@@ -71,9 +26,9 @@ changes to the functioning of the country sat on the left side of the presiding
 officer, and the representatives who wanted to preserve the status quo sat on
 the right side. In simple terms - on the left were those who wanted change, and
 on right were those who resisted it.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 The following centuries after the revolution saw this left-right divide
 traversing far and wide in space; and it still continues to divide the room. An
 ideological watermark has been ever since impressed on all macro global events
@@ -83,20 +38,20 @@ extreme ideas and actions. It is now best visualised as a horse-shoe spectrum of
 ideologies.  The extreme right and extreme left ideologies are reflected on a
 convex mirror where their motives and actions seem closer than they appear. They
 are hence within a within a kissing distance, and is dangerous.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 So, how do we begin to fathom this theory?
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Perhaps with the earliest political and ideological duel between Edmund Burke
 and Thomas Paine!
-</p>
-<div id="outline-container-org7158202" class="outline-2">
-<h2 id="org7158202">Burke vs Paine - The beginning</h2>
-<div class="outline-text-2" id="text-org7158202">
-<p>
+&lt;/p&gt;
+&lt;div id="outline-container-org7158202" class="outline-2"&gt;
+&lt;h2 id="org7158202"&gt;Burke vs Paine - The beginning&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org7158202"&gt;
+&lt;p&gt;
 Burke was born in 1729 CE, and Paine was born in 1737 CE. Burke was Irish, Paine
 was English. They both supported the American Revolution; that is to say opposed
 the English parliament and its monarch on the matter. If you remember our early
@@ -104,49 +59,49 @@ episodes in this series, one of the root causes for the American revolution was
 Britain demanding more money from its American colonies to make up for the
 losses incurred in its involvement in the Seven Years war. Burke and Paine was
 against this new taxation on the colonies. Well, then they were friends!
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 The French also supported the American revolution, you see. They had lost dearly
 in the Seven Years war, and sought revenge against their arch rivals, the
 British. The bitter resentment was carried on until they helped the American
 colonies defeat the British in the revolution. But the moral victory defeated
 them materially. The war drove the French Kingdom to bankruptcy. One of the root
-causes for the French revolution was the Monarch and his <i>ancien regime</i> trying
+causes for the French revolution was the Monarch and his &lt;i&gt;ancien regime&lt;/i&gt; trying
 to recover the losses by taxing its populace further.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Thomas Paine fully supported the French Revolution. In fact, he was an advisor
 to the French National Assembly when they were drafting the new Constitution.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Edmund Burke did not know how to react initially to the revolution. In August
 1789, Burke wrote:
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 "England gazing with astonishment at a French struggle for liberty and not
 knowing whether to blame or applaud! The thing indeed, thought I thought I saw
 something like it in progress for several years, has still something in it
 paradoxical and mysterious. The spirit it is impossible not to admire; but the
 old Parisian ferocity has broken out in a shocking manner"
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 But, in October 1789, when a crowd of Parisian women marched on Versailles to
 compel King Louis XVI to return to Paris, Burke lost it. That event took him to
 his boiling point. Burke began to abhor the revolution. So he voiced and printed
 words against the revolution and its principles, to which Paine replied
 vehemently. And they became bitter rivals.
-</p>
-</div>
-</div>
-<div id="outline-container-orgbce1da9" class="outline-2">
-<h2 id="orgbce1da9">Burke</h2>
-<div class="outline-text-2" id="text-orgbce1da9">
-<p>
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="outline-container-orgbce1da9" class="outline-2"&gt;
+&lt;h2 id="orgbce1da9"&gt;Burke&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgbce1da9"&gt;
+&lt;p&gt;
 Edmund Burke is considered as the founder or father of conservatism, especially
 in Britain. In 1790, he registered his reaction to the revolution in France by
 publishing a pamphlet titled, “Reflections on the Revolution in France, and on
@@ -154,9 +109,9 @@ the Proceedings in Certain Societies in London Relative to That Event: In a
 Letter Intended to Have Been Sent to a Gentleman in Paris.” The rather long
 title was then trimmed to the now popular "Reflections on the Revolution in
 France".
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 The 'Certain societies' mentioned in the original title was referring to a
 revolutionary society in England which supported Protestantism as the state
 religion. This was a peaceful society, not as revolutionary as its name
@@ -171,15 +126,15 @@ revolutionary society in England, the French National Assembly, and the
 enlightenment ideas of liberty, natural rights and Constitution. Plus, the wound
 left by the Gordon riots in London in 1780, an attack on the Catholics, must have
 still been fresh in Burke's mind.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 I present a few passages from Burke's reflection on the "Liberty, Equality,
 Fraternity" movement in France, and the forming of a constitution by the
 National Assembly, nullifying the monarch and his divine authority, He wrote:
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 "It is known; that armies have hitherto yielded a very precarious and uncertain
 obedience to any senate, or popular authority; and they will least of all yield
 it to an assembly which is only to have a continuance of two years. The officers
@@ -190,29 +145,29 @@ those pleaders; whose military policy, and the genius of whose command, (if they
 should have any,) must be as uncertain as their duration is transient. In the
 weakness of one kind of authority, and in the fluctuation of all, the officers
 of an army will remain for some time mutinous and full of faction, until some
-<span class="underline">popular general</span>, who understands the art of conciliating the soldiery, and who
+&lt;span class="underline"&gt;popular general&lt;/span&gt;, who understands the art of conciliating the soldiery, and who
 possesses the true spirit of command, shall draw the eyes of all men upon
 himself. Armies will obey him on his personal account.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 A few years later, enter Napoleon Bonaparte!
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 There is only one comparably Cassandra-like prediction, writes Christopher
 Hitchens, "that I can call to mind, and that is Rosa Luxemburg’s warning to
 Lenin that revolution can move swiftly from the dictatorship of a class to the
 dictatorship of a party, to be followed by the dictatorship of a committee of
 that party and eventually by the rule of a single man who will soon enough
 dispense with that committee."
-</p>
+&lt;/p&gt;
 
-<p>
-Next passage. <span class="underline">Of the then French queen, Burke wrote:</span>
-</p>
+&lt;p&gt;
+Next passage. &lt;span class="underline"&gt;Of the then French queen, Burke wrote:&lt;/span&gt;
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 "It is now sixteen or seventeen years since I saw the queen of France, then the
 dauphiness, at Versailles; and surely never lighted on this orb, which she
 hardly seemed to touch, a more delightful vision. I saw her just above the
@@ -225,13 +180,13 @@ is extinguished for ever. Never, never more shall we behold that generous
 loyalty to rank and sex, that proud submission, that dignified obedience, that
 subordination of the heart, which kept alive, even in servitude itself, the
 spirit of an exalted freedom."
-</p>
+&lt;/p&gt;
 
-<p>
-<span class="underline">Of the National Assembly and the constitution, Burke wrote:</span>
-</p>
+&lt;p&gt;
+&lt;span class="underline"&gt;Of the National Assembly and the constitution, Burke wrote:&lt;/span&gt;
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 "If this monster of a constitution can continue, France will be wholly governed
 by the agitators in corporations, by societies in the towns formed of directors
 of assignats and trustees for the sale of church lands, attornies, agents,
@@ -239,13 +194,13 @@ money-jobbers, speculators, and adventurers, composing an ignoble oligarchy,
 founded on the destruction of the crown, the church, the nobility, and the
 people. Here end all the deceitful dreams and visions of the equality and rights
 of men."
-</p>
+&lt;/p&gt;
 
-<p>
-<span class="underline">Of the social contract. Burke wrote:</span>
-</p>
+&lt;p&gt;
+&lt;span class="underline"&gt;Of the social contract. Burke wrote:&lt;/span&gt;
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 "It becomes a partnership not only between those who are living, but between
 those who are living, those who are dead, and those who are to be born. Each
 contract of each particular state is but a clause in the great primeval contract
@@ -253,22 +208,22 @@ of eternal society, linking the lower with the higher natures, connecting the
 visible and invisible world, according to a fixed compact sanctioned by the
 inviolable oath which holds all physical and all moral natures, each in their
 appointed place."
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Now let's listen to Paine's reply.
-</p>
-</div>
-</div>
-<div id="outline-container-orgb40d78d" class="outline-2">
-<h2 id="orgb40d78d">Paine</h2>
-<div class="outline-text-2" id="text-orgb40d78d">
-<p>
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="outline-container-orgb40d78d" class="outline-2"&gt;
+&lt;h2 id="orgb40d78d"&gt;Paine&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgb40d78d"&gt;
+&lt;p&gt;
 Thomas Paine's reply to Burke's pamphlet is equally emphatic. The general tone
 could be sampled in the paragraph below:
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 "As to the tragic paintings by which Mr. Burke has outraged his own imagination,
 and seeks to work upon that of his readers, they are very well calculated for
 theatrical representation, where facts are manufactured for the sake of show,
@@ -276,13 +231,13 @@ and accommodated to produce, through the weakness of sympathy, a weeping
 effect. But Mr. Burke should recollect that he is writing history, and not
 plays, and that his readers will expect truth, and not the spouting rant of
 high-toned exclamation."
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 and in the following paragraph as well:
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 "There is scarcely an epithet of abuse to be found in the English language, with
 which Mr. Burke has not loaded the French Nation and the National
 Assembly. Everything which rancour, prejudice, ignorance or knowledge could
@@ -290,17 +245,17 @@ suggest, is poured forth in the copious fury of near four hundred pages. In the
 strain and on the plan Mr. Burke was writing, he might have written on to as
 many thousands. When the tongue or the pen is let loose in a frenzy of passion,
 it is the man, and not the subject, that becomes exhausted."
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 I include these to show how vicious ideological battles in writing was back
 then. Apart from these, most other parts of Paine's reply are rather technical,
 and it counters almost every major accusation made by Burke. He has defended the
 revolutionary society of England, and the idea of natural and civil rights which
 was then zeitgeist. Paine wrote:
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 "Mr. Burke, on the contrary, denies that such a right exists in the nation,
 either in whole or in part, or that it exists anywhere; and, what is still more
 strange and marvellous, he says: "that the people of England utterly disclaim
@@ -309,14 +264,14 @@ lives and fortunes." That men should take up arms and spend their lives and
 fortunes, not to maintain their rights, but to maintain they have not rights, is
 an entirely new species of discovery, and suited to the paradoxical genius of
 Mr. Burke."
-</p>
+&lt;/p&gt;
 
-<p>
-<span class="underline">About Burke's admiration of the queen, and the disappointment in the lost
-chivalry, Paine replied:</span>
-</p>
+&lt;p&gt;
+&lt;span class="underline"&gt;About Burke's admiration of the queen, and the disappointment in the lost
+chivalry, Paine replied:&lt;/span&gt;
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 "When we see a man dramatically lamenting in a publication intended to be
 believed that "The age of chivalry is gone! that The glory of Europe is
 extinguished for ever! that The unbought grace of life (if anyone knows what it
@@ -325,14 +280,14 @@ enterprise is gone!" and all this because the Quixot age of chivalry nonsense is
 gone, what opinion can we form of his judgement, or what regard can we pay to his
 facts? In the rhapsody of his imagination he has discovered a world of wind
 mills, and his sorrows are that there are no Quixots to attack them."
-</p>
+&lt;/p&gt;
 
-<p>
-<span class="underline">About Burke's notion of a social contract needing to be between the living,
-dead and the unborn, Paine wrote:</span>
-</p>
+&lt;p&gt;
+&lt;span class="underline"&gt;About Burke's notion of a social contract needing to be between the living,
+dead and the unborn, Paine wrote:&lt;/span&gt;
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 "Every age and generation must be as free to act for itself in all cases as the
 age and generations which preceded it. The vanity and presumption of governing
 beyond the grave is the most ridiculous and insolent of all tyrannies. Man has
@@ -347,13 +302,13 @@ dead, that are to be accommodated. When man ceases to be, his power and his
 wants cease with him; and having no longer any participation in the concerns of
 this world, he has no longer any authority in directing who shall be its
 governors, or how its government shall be organised, or how administered."
-</p>
+&lt;/p&gt;
 
-<p>
-<span class="underline">About society, contract and the Constitution, Paine replied:</span>
-</p>
+&lt;p&gt;
+&lt;span class="underline"&gt;About society, contract and the Constitution, Paine replied:&lt;/span&gt;
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 "In casting our eyes over the world, it is extremely easy to distinguish the
 governments which have arisen out of society, or out of the social compact, from
 those which have not; but to place this in a clearer light than what a single
@@ -363,417 +318,77 @@ be all comprehended under three heads. First, Superstition. Secondly,
 Power. Thirdly, The common interest of society and the common rights of man. The
 first was a government of priestcraft, the second of conquerors, and the third
 of reason."
-</p>
-</div>
-</div>
-<div id="outline-container-org879ba23" class="outline-2">
-<h2 id="org879ba23">Burke vs Paine - The conclusion</h2>
-<div class="outline-text-2" id="text-org879ba23">
-<p>
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="outline-container-org879ba23" class="outline-2"&gt;
+&lt;h2 id="org879ba23"&gt;Burke vs Paine - The conclusion&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org879ba23"&gt;
+&lt;p&gt;
 Well, if nothing has had been concluded in over 200 years, it would be hard to
 conclude anything now. That is the tragedy of social sciences. At any rate, few
 observations must be made.
-</p>
-<ol class="org-ol">
-<li>First, this exchange of words must have unveiled the general political
+&lt;/p&gt;
+&lt;ol class="org-ol"&gt;
+&lt;li&gt;First, this exchange of words must have unveiled the general political
 situation of the late 18th century you. Both of them had supporters and
-followers. It certainly has affected our modern world in many ways</li>
-<li>Edmund Burke is considered as the founder of conservatism now. Whether he
-knew it is arguable. I suppose his writings, especially the <i>Reflections on
-Revolutions</i> has acted as an inspiration in autopsy for the conservatives. It
+followers. It certainly has affected our modern world in many ways&lt;/li&gt;
+&lt;li&gt;Edmund Burke is considered as the founder of conservatism now. Whether he
+knew it is arguable. I suppose his writings, especially the &lt;i&gt;Reflections on
+Revolutions&lt;/i&gt; has acted as an inspiration in autopsy for the conservatives. It
 doesn't really help us, in this podcast episode to define Conservatism
 really. Nevertheless, it is imperative to be aware of his views with all its
-frailties</li>
-<li>Burke passage about the French queen might not be palatable for a reader of
+frailties&lt;/li&gt;
+&lt;li&gt;Burke passage about the French queen might not be palatable for a reader of
 21st century, but if you look around to find similarities, find it you might
-quicker than you would think it might be. Hero worship is still pervasive</li>
-<li>The most curious comment made by Burke, according to me, the hardest to
+quicker than you would think it might be. Hero worship is still pervasive&lt;/li&gt;
+&lt;li&gt;The most curious comment made by Burke, according to me, the hardest to
 comprehend is regarding the social contract needing to include the living,
 dead and the unborn. Perhaps, we are reading it in an entirely different
-circumstances</li>
-<li>Burke's triumph is in the Cassandra like prediction of the a powerful
-military general. That was eerily exact!</li>
-<li>
-<p>
+circumstances&lt;/li&gt;
+&lt;li&gt;Burke's triumph is in the Cassandra like prediction of the a powerful
+military general. That was eerily exact!&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;
 Thomas Paine is not considered the father of liberalism, but it is impossible
 to study or analyse the idea of liberty without Paine. It is as simple as
 that.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 With that, let's move on to the 19th century, where Classical Liberalism and
 Conservatism took its real shape.
-</p>
-</li>
-</ol>
-</div>
-</div>
-<div id="outline-container-orga30e02c" class="outline-2">
-<h2 id="orga30e02c">Sources</h2>
-<div class="outline-text-2" id="text-orga30e02c">
-<ol class="org-ol">
-<li>Arguably, Christopher Hitchens</li>
-<li>Reflections on Revolution in France, Edmund Burke</li>
-<li>Rights of Man, Thomas Paine</li>
-<li>Common Sense, Thomas Paine.</li>
-<li>Political Ideologies : An Introduction, Andrew Heywood</li>
-<li>The French Revolution, William Doyle</li>
-</ol>
-</div>
-</div>
-                </div>
-            </article>
-</div>
-        <div class="site-content">
-            <article class="format-standard libretto-long-form"><div class="title-block post-format-icon-pin">
-                    <div class="entry-meta">
-                        <span class="posted-on">
-                            Posted on <a href="posts/payyanubaddiekitti/" rel="bookmark">11-8-2024</a>
-                        </span>
-                    </div>
-                    <h1><a href="posts/payyanubaddiekitti/">പയ്യന് ബ്യാടിയെ കിട്ടി</a></h1>
-                </div>
-                <div class="entry-content">
-                        <p>
-ആ… വല്യമ്മേ!
-</p>
-
-<p>
-ആരാ?
-</p>
-
-<p>
-ഞാനാ പയ്യൻ.
-</p>
-
-<p>
-ഏത് പയ്യൻ?
-</p>
-
-<p>
-എൻ ആർ ഐ പയ്യൻ 
-</p>
-
-<p>
-അതാരാ?
-</p>
-
-<p>
-ഞാനാ വല്യമ്മേ, ഡെസ്സിക്കേറ്റഡ് കോകോനട്ട്.
-</p>
-
-<p>
-ആഹ്… പറ മോനേ, എന്തൊക്കെയുണ്ട് വിശേഷം?
-</p>
-
-<p>
-അല്ല, ഒരു ചെറിയ അപ്ഡേറ്റ് ഉണ്ട്.
-</p>
-
-<p>
-എന്താത് ?
-</p>
-
-<p>
-എനിക്ക് ബ്യാടി സെറ്റായി.
-</p>
-
-<p>
-ബാടിയോ, നിനക്കോ?
-</p>
-
-<p>
-ബാടിയല്ല വല്യമ്മേ. ബ്യാടി. ചിക്ക്. കാമുകി. പ്രേമഭാജനം.
-</p>
-
-<p>
-അതുശരി, കൊടുകൈ! 
-</p>
-
-<p>
-താൻഗ്യു വല്യമ്മേ.
-</p>
-
-<p>
-സെർട്ടിഫൈഡ് ആണോ?
-</p>
-
-<p>
-അതെ വല്യമ്മേ. 9/10.
-</p>
-
-<p>
-പത്തുശതമാനം മാഗ്പൈക്കോ.
-</p>
-
-<p>
-ബർമിംഗ്ഹമിലാണ് പഠിച്ചത് 
-</p>
-
-
-<p>
-വേറെ കുഴപ്പങ്ങളെന്തെങ്കിലും ?
-</p>
-
-<p>
-ഇല്ല്യ, തനി മദിരാക്ഷി.
-</p>
-
-<p>
-അപ്പോൾ മലയാളം ?
-</p>
-
-<p>
-മദിരാസിയല്ല വല്യമ്മേ. <br>
-മതിമോഹനശുഭനർത്തനമാടുന്നയീ മഹിത <br>
-മമ മുന്നിൽ നിന്ന മലയാള കവിത.
-</p>
-
-<p>
-കാഞ്ചനകാഞ്ചി കുലുക്കിക്കുലുക്കിയാണോ മുന്നിൽ വന്നത്?
-</p>
-
-<p>
-അതെ വല്യമ്മേ! വന്നപാടെ ഒരു ചോദ്യം.
-</p>
-
-<p>
-എന്താരാഞ്ഞു?
-</p>
-
-<p>
-(<i>നിശബ്ദത</i>, <i>പരമാവധി നിശബ്ദത</i>) <br>
-.<br>
-.<br>
-.<br><b>നിങ്ങൾ മലയാളിയാണോ?</b> <br>
-.<br>
-.<br>
-.<br>
-(<i>നിശബ്ദത</i>, <i>പരമാവധി നിശബ്ദത</i>) <br></p>
-
-<p>
-സ്വസ്തി. നിന്റെ കണ്ണുകളിലെ അപ്പോഴത്തെ വെള്ളപൊക്കം ഞാനൊന്നൂഹിച്ചോട്ടെ? അനശ്വര പ്രേമകഥകൾ
-നമ്മളിതിനുമുൻപും കേട്ടിട്ടില്ലേ?  മൈത്രേയി യജ്ഞവൽക്കനോടും, ജാനകി രമണനോടും, സത്യഭാമ സൂത്രധാരനോടും,
-സാറാമ്മ കേശവൻനായരോടും ചോദിച്ചത് '<i>നിങ്ങൾ മലയാളിയാണോ</i>' എന്നല്ലേ?. ചരിത്രാവർത്തനത്തിൽ
-വിരസതകണ്ടെത്താനാവില്ല പയ്യൻ.
-</p>
-
-<p>
-പരമാർത്ഥത്തിന്റെ താരാട്ട് വല്യമ്മേ, പക്ഷെ എനിക്കുറക്കം വരുന്നില്ല.
-</p>
-
-<p>
-എന്നിട്ട് നീ എന്ത് പറഞ്ഞു?
-</p>
-
-<p>
-അതെ, ഞാൻ തന്നെ മലയാളി, എന്ന് പറയുന്നതിൽ ശകലം ശുംഭത്തരം കളിയാടുന്നല്ലോ വല്യമ്മേ. അവൾ അത്
-എങ്ങനെയോ തിരിച്ചറിഞ്ഞുകഴിഞ്ഞിരിക്കുന്നു. അവളുടെ ഞരമ്പുകളിൽ ഉടനെ ചോര തിളപ്പിക്കേണ്ടത്
-നിമിഷധർമ്മാണ്ണെന്ന് എന്റെ ഷഷ്ഠേന്ദ്രിയം വിശദീകരിച്ചു. ഉൾകീശയിൽ നിന്നും ഞാൻ കരുതിവച്ചിരുന്ന
-'റിസ്സ്' പുറത്തെടുത്ത് നാലായിതുറന്നു. എന്നിട്ടിങ്ങനെ മൊഴിഞ്ഞു.
-</p>
-
-<p>
-തനികൈരളീരക്തമാംസനിബദ്ധവിഗ്രഹസാക്ഷാത്കാരം
-</p>
-
-<p>
-ബ്യാടിയുടെ കാലൊന്ന് പതറി. എന്റെ കണ്ണുകളിലെ വെള്ളപൊക്കം അവൾ തെല്ലുനേരത്തേക്ക്
-കടമെടുത്തു. ജീവിതത്തിൽ സുഖദുഃഖങ്ങളുടെ ജക്സ്റ്റപൊസിഷൻ എന്താണെന്നറിയാൻ നാലർദ്ധനിമീലിതാക്ഷികൾ
-തലങ്ങും വിലങ്ങും തിരഞ്ഞു. തമ്മിലെ അന്തരം അജഗജാന്തരമല്ലെന്ന് മനസ്സിലാക്കിത്തുടങ്ങിയ ഞങ്ങളുടെ ഹൃദയങ്ങൾ
-ഝംഝനനാദത്തോടെ മിടിച്ചുതുടങ്ങി. ചുണ്ടുകൾ മിണ്ടിത്തുടങ്ങി. പദങ്ങൾ ഉണർന്നു. പാദങ്ങൾ ചലിച്ചു.
-</p>
-
-<p>
-ഏതായിരുന്നു ക്ലബ് ?
-</p>
-
-<p>
-സ്ത്രമാഷ്, വല്യമ്മേ.
-</p>
-
-<p>
-സബാഷ് 
-</p>
-
-<p>
-കുട്ടിയുടെ ഗോ-ട്ടു?
-</p>
-
-<p>
-ഇനിസ്സ് ആൻഡ് ഗൺ ലാഗാ
-</p>
-
-<p>
-അവസാനം വരെയും?
-</p>
-
-<p>
-അല്ല വല്യമ്മേ. ഇടയ്ക്കെവിടെയോ വച്ച് സ്‌പൈസ്‌ഡ്‌ റം വിത്ത് ജിഞ്ചർ യേലിലേക്ക് മാറുന്നു.
-</p>
-
-<p>
-ക്യൂറിയോസേർ, കണ്ടമാനം ക്യൂറിയോസേർ. <br>
-നീ ഇപ്പോഴും ഗിന്നസ്സ് തന്നെ?
-</p>
-
-<p>
-ഹിഹി 
-</p>
-
-<p>
-ങ്ഹാ, എന്നിട്ട് ?
-</p>
-
-<p>
-നൃത്തസർഗ്ഗപ്രക്രിയയിൽ ഞങ്ങൾ തകർത്താടി. വീ വിൽ റോക്ക് യൂവിൽ തുടങ്ങി, ലോ ലോ ലോ ലോ ലോ വരയ്ക്കും
-ഞങ്ങൾ അനർഗ്ഗളം ഒഴുകിയാടിത്തിമിർത്തു. അവസാനം, വൺ കിസ്സ് ഈസ് ഓൾ ഇറ്റ് ടേയ്ക്സിൽ ഞങ്ങളുടെ തലയൊന്ന്
-കൂട്ടിമുട്ടി. പിന്നെ…, ഓർമ്മകൾ തീവണ്ടിയിൽ പച്ചക്കൊടി കാണിക്കുന്ന വെള്ളവസ്ത്രധാരിയെപ്പോലെ ദൂരെ
-മറഞ്ഞു. X എന്ന ചിഹ്നവും. രാവിലെ അവളുടെ ഫോണിൽ കുക്കുടം കൊഞ്ചുന്നത് കേട്ടാണുണർന്നത്. എന്റെ ഫോൺ ഇന്നലെ
-രാത്രിതന്നെ ചത്തിരുന്നു വല്യമ്മേ.
-</p>
-
-<p>
-നിന്റെ പരാജയങ്ങളെ ഇങ്ങനെ നഗ്നസത്യങ്ങളായി വിളിച്ചുപറയാതിരിക്കൂ പയ്യൻ. നിലനിൽപ്പ് തന്നെ പഴയകാല
-വ്യക്തിത്വത്തിന്റെ അവശിഷ്ടങ്ങളല്ലേ? റീചാർജ് ചെയ്താൽ വീണ്ടും ഉപയോഗിക്കാവുന്നതല്ലേ ഉള്ളൂ?
-</p>
-
-<p>
-ആട്ടെ, കുട്ടിയേതാ മതം ?
-</p>
-
-<p>
-സയൻസ്സ്, വല്യമ്മേ.
-</p>
-
-<p>
-നമ്മുടെ ജാതിയാണോ ?
-</p>
-
-<p>
-അല്ല, വല്യമ്മേ, നാച്ചുറൽ സയൻസ്സാണ്. ഭൗതികശാസ്ത്രം.
-</p>
-
-<p>
-ഓഹോ, ഭേഷ്!
-</p>
-
-<p>
-ശേഷം കണ്ടിരുന്നോ ?
-</p>
-
-<p>
-നാളെ വീണ്ടും വല്യമ്മേ.
-</p>
-
-<p>
-എന്താ സ്പെഷ്യൽ ?
-</p>
-
-<p>
-വോൾട്ടർ ലൂയിൻന്റെ "ഫോർ ദി ലവ് ഓഫ് ഫിസിക്സ്" ലെക്ചർ, ആൻഡ് ചിൽ 
-</p>
-
-<p>
-അവളുടെ പ്രേരണ?
-</p>
-
-<p>
-ഓ.
-</p>
-
-<p>
-എന്താ നിന്റെ?
-</p>
-
-<p>
-മുരിങ്ങക്കായ സാമ്പാർ, കാരറ്റ്-ബീൻസ് ഉപ്പേരി, പരിപ്പും നെയ്യും, പപ്പടം, ചോറ്.
-</p>
-
-<p>
-തേങ്ങ അരച്ചുചേർത്താണോ ?
-</p>
-
-<p>
-അല്ല വല്യമ്മേ, ഡെസ്സിക്കേറ്റഡ് കോകോനട്ട്.
-</p>
-
-<p>
-ഹഹഹഹ്ഹഹ്ഹ. എന്നാ ശെരി, സീരിയൽ സമയമായി.
-</p>
-
-<p>
-സീരിയലേതാ വല്യമ്മേ ?
-</p>
-
-<p>
-അറ്റൻബറോന്റെ "ആർ പ്ലാനറ്റ്". സീസൺ 2, എപ്പിസോഡ് 3.
-</p>
-
-<p>
-നൈസ്. വല്യച്ഛൻ ?
-</p>
-
-<p>
-ചായ ഉണ്ടാക്കാൻ പോയതാണ്, ദാ വരുന്നുണ്ട്. സെ നമസ്‌തെ.
-</p>
-
-<p>
-ഹലോ മിസ്റ്റർ വല്യച്ഛൻ.
-</p>
-
-<p>
-(<i>പിന്നണിയിൽ വല്യച്ഛൻ വല്യമ്മയോട്‌ ആരാണെന്ന് ചോദിക്കുന്നു. ഡെസ്സിക്കേറ്റഡ് കോകോനട്ട് പയ്യനാണെന്ന് വല്യമ്മ വാക്ക് നൽകുന്നു</i>)
-</p>
-
-<p>
-ഹലോ പയ്യൻ, എന്താണ് വിശേഷം?
-</p>
-
-<p>
-എനിക്ക് ബ്യാടി സെറ്റായി വല്യച്ഛൻ.
-</p>
-
-<p>
-ബാടിയോ, നിനക്കോ?
-</p>
-
-<p>
-ബാടിയല്ല. ബ്യാടി. ചിക്ക്. കാമുകി. പ്രേമഭാജനം.
-</p>
-
-<p>
-ശുഭം 
-</p>
-                </div>
-            </article>
-</div>
-        <div class="site-content">
-            <article class="format-standard libretto-long-form"><div class="title-block post-format-icon-pin">
-                    <div class="entry-meta">
-                        <span class="posted-on">
-                            Posted on <a href="posts/pi_three/" rel="bookmark">20-7-2024</a>
-                        </span>
-                    </div>
-                    <h1><a href="posts/pi_three/">Political Ideologies - Age of Enlightenment</a></h1>
-                </div>
-                <div class="entry-content">
-                        <p>
+&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="outline-container-orga30e02c" class="outline-2"&gt;
+&lt;h2 id="orga30e02c"&gt;Sources&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orga30e02c"&gt;
+&lt;ol class="org-ol"&gt;
+&lt;li&gt;Arguably, Christopher Hitchens&lt;/li&gt;
+&lt;li&gt;Reflections on Revolution in France, Edmund Burke&lt;/li&gt;
+&lt;li&gt;Rights of Man, Thomas Paine&lt;/li&gt;
+&lt;li&gt;Common Sense, Thomas Paine.&lt;/li&gt;
+&lt;li&gt;Political Ideologies : An Introduction, Andrew Heywood&lt;/li&gt;
+&lt;li&gt;The French Revolution, William Doyle&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><category>podcast</category><category>politics</category><guid>https://mindtoilet.com/posts/pi_four/</guid><pubDate>Sat, 26 Oct 2024 06:00:15 GMT</pubDate></item><item><title>Political Ideologies - Age of Enlightenment</title><link>https://mindtoilet.com/posts/pi_three/</link><dc:creator>mindtoilet</dc:creator><description>&lt;p&gt;
 "Man was born" free, and he is everywhere in chains", Rousseau, wrote in his book, 'The social contract'
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 We stopped our previous episode with a promise to find links between the French
 Revolution and Political Ideologies. That's exactly what we are craving
 today. To answer the gargantuan three letter question, 'Why'? To see if there
 had been a change in western thought prior to the French revolution.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Welcome to Hitchens' Razor!
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 In the first episode of this series, we performed a somersault recap of world
 history to arrive at the main event - the social big bang as I like to call it;
 the French Revolution of the 18th century CE.  In the second episode, we tried
@@ -786,32 +401,33 @@ divine right to rule. Then suddenly the status quo vanished, the heads of
 monarchy and royalty started rolling on the floor. Well, 'suddenly' is a word
 best used in hindsight. In reality, it was not all that sudden, was it?  It
 takes many years to brew revolutions.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Before we dive in to the topic, I would like cite our thanks:
-</p>
-<ol class="org-ol">
-<li>An introduction to political philosophy, by Jonathan Wolff</li>
-<li>Lecture videos by Professor Arthur Holmes, Wheaton College.</li>
-<li>The myth of the state by Ernst Cassirer</li>
-<li>The French Revolution by George Lefebvre</li>
-<li>Philosophy of science by Samir Okasha</li>
-<li>Liberalism by Michael Freeden</li>
-<li>Democracy by Bernard Crick</li>
-<li>The social contract by Jean-Jacques Rousseau</li>
-</ol>
-<p>
+&lt;/p&gt;
+&lt;ol class="org-ol"&gt;
+&lt;li&gt;An introduction to political philosophy, by Jonathan Wolff&lt;/li&gt;
+&lt;li&gt;Lecture videos by Professor Arthur Holmes, Wheaton College.&lt;/li&gt;
+&lt;li&gt;The myth of the state by Ernst Cassirer&lt;/li&gt;
+&lt;li&gt;The French Revolution by George Lefebvre&lt;/li&gt;
+&lt;li&gt;Philosophy of science by Samir Okasha&lt;/li&gt;
+&lt;li&gt;Liberalism by Michael Freeden&lt;/li&gt;
+&lt;li&gt;Democracy by Bernard Crick&lt;/li&gt;
+&lt;li&gt;The social contract by Jean-Jacques Rousseau&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;
 So, what causes revolutions? In other words, what fails to keep societies stable
-and resilient? &lt;beat&gt; In a stable society, the economic cycle turns smoothly,
+and resilient? &amp;lt;beat&amp;gt; In a stable society, the economic cycle turns smoothly,
 people produce, earn, pay taxes, and still have sufficient income left to
 support themselves and their families. The taxes paid by the populace reach the
 ruler, who distributes it for various purposes. One of them being the protection
 of its people. This equilibrium is maintained by the institutions of the land -
 the bureaucracy, military, religion etc. What causes in-equilibrium then?
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Poverty is the simplest explanation, but in truth that alone isn't the
 reason. It is rather curious an observation that revolutions occur more often in
 middle-income countries than in the very poorest nations. French revolution
@@ -821,42 +437,43 @@ had three parts to it: the aristocratic, the bourgeoisie, and the popular
 revolutions. It seems that revolutions happen when significant portions of the
 elites, and the military defect or stand aside instead of defending the old
 regime. Apart from this, here are some reasons according to Goldstone:
-</p>
-<ol class="org-ol">
-<li>Demographic changes</li>
-<li>International relations</li>
-<li>Flatlining of economy</li>
-<li>Inequality, discrimination</li>
-<li>Personalist regimes</li>
-</ol>
-<p>
+&lt;/p&gt;
+&lt;ol class="org-ol"&gt;
+&lt;li&gt;Demographic changes&lt;/li&gt;
+&lt;li&gt;International relations&lt;/li&gt;
+&lt;li&gt;Flatlining of economy&lt;/li&gt;
+&lt;li&gt;Inequality, discrimination&lt;/li&gt;
+&lt;li&gt;Personalist regimes&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;
 So why did the Kingdom of France fail? That is a bait we wouldn't dare to take
 today. Instead we would try to generalise the causes of revolutions, not just in
 France, but other countries of the west as well. Though the consensus is rather
 stable at the inexplicable nature of the causation of revolutions, there was a
 point in one of our previous episodes where I tried to empathise with the common
-people of Europe in the middle ages. I invite you to join me in thinking… &lt;beat&gt;
-</p>
+people of Europe in the middle ages. I invite you to join me in thinking… &amp;lt;beat&amp;gt;
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 "Think about a generation which had witnessed their mothers, sisters and grand
 mothers burnt at stake; their brothers and fathers hanged, drawn and
 quartered. A generation that was forced into becoming professional beggars. And
 the only explanation available for all these misery was religion; of their
 present sufferings being rewarded in another world, in another life. But aren't
 we pattern seeking animals? and when we identify patterns don't we have the
-tendency to act on it?  &lt;beat&gt; I think it was inevitable, the rulers of the
+tendency to act on it?  &amp;lt;beat&amp;gt; I think it was inevitable, the rulers of the
 western world was begging for a change, for a revolution."
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 That's our empathy, but the bigger question is, 'Did the western thought change
-at some point'? &lt;beat&gt; How?
-</p>
-<div id="outline-container-orgf7bfbd6" class="outline-2">
-<h2 id="orgf7bfbd6">Land</h2>
-<div class="outline-text-2" id="text-orgf7bfbd6">
-<p>
+at some point'? &amp;lt;beat&amp;gt; How?
+&lt;/p&gt;
+&lt;div id="outline-container-orgf7bfbd6" class="outline-2"&gt;
+&lt;h2 id="orgf7bfbd6"&gt;Land&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgf7bfbd6"&gt;
+&lt;p&gt;
 Perhaps we could use the classification of society in the middle ages to explain
 the transition in thought process at each level. We start with land. Lefebvre
 writes, "Land was virtually the only source of income in an aristocratic world
@@ -872,52 +489,53 @@ approach them, and so they sold very little for high prices. Taxes, hierarchy,
 and authority remained in the society. Along with this the lower classes
 continued to hold superstitious beliefs in magic, sorcery, astrology, and
 alchemy."
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 The bourgeoisie didn't see much hope in this static society. So, they ventured
 beyond their land.
-</p>
-</div>
-</div>
-<div id="outline-container-orgae905ba" class="outline-2">
-<h2 id="orgae905ba">Beyond Land</h2>
-<div class="outline-text-2" id="text-orgae905ba">
-<p>
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="outline-container-orgae905ba" class="outline-2"&gt;
+&lt;h2 id="orgae905ba"&gt;Beyond Land&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgae905ba"&gt;
+&lt;p&gt;
 After the barbarian conquests, Europeans forayed into invasion mode. They
 travelled far and wide to different continents and brought back all kinds of
 treasures. The contagious example of material success encouraged all those who
 judged themselves capable of enjoying rewards offered during this life
 itself. They returned home rich. Money bought them privileges, and eventually
 power, and changes followed.
-</p>
-<ul class="org-ul">
-<li>Each child started to demand their rightful inheritance</li>
-<li>Disintegration of family and traditional groups</li>
-<li>life in a city started sprouting</li>
-<li>members classified based on their residence</li>
-<li>personal mobility</li>
-<li>expanding industry</li>
-<li>improved communication</li>
-<li>adventure, risk and rewards</li>
-<li>A dynamic and unstable society in which power was based on money</li>
-</ul>
-<p>
+&lt;/p&gt;
+&lt;ul class="org-ul"&gt;
+&lt;li&gt;Each child started to demand their rightful inheritance&lt;/li&gt;
+&lt;li&gt;Disintegration of family and traditional groups&lt;/li&gt;
+&lt;li&gt;life in a city started sprouting&lt;/li&gt;
+&lt;li&gt;members classified based on their residence&lt;/li&gt;
+&lt;li&gt;personal mobility&lt;/li&gt;
+&lt;li&gt;expanding industry&lt;/li&gt;
+&lt;li&gt;improved communication&lt;/li&gt;
+&lt;li&gt;adventure, risk and rewards&lt;/li&gt;
+&lt;li&gt;A dynamic and unstable society in which power was based on money&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;
 It added glamour to this life and obscured the after life.
-</p>
-</div>
-</div>
-<div id="outline-container-org737b7e9" class="outline-2">
-<h2 id="org737b7e9">Scientific Revolution</h2>
-<div class="outline-text-2" id="text-org737b7e9">
-<p>
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="outline-container-org737b7e9" class="outline-2"&gt;
+&lt;h2 id="org737b7e9"&gt;Scientific Revolution&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org737b7e9"&gt;
+&lt;p&gt;
 When science arrived at the scene, the hitherto magical explanation of the
 universe started to wane, for science's intention was to condense the whole
 universe to a series of equations, and scientists were becoming increasingly
 successful at this.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 "One of the important innovations in this era" writes Lefebvre, "was the ability
 to fix positions geographically, which was essential for navigation as well as
 to the measurement of globe and cartography(that is the art of making maps or
@@ -927,9 +545,9 @@ chronometer and maritime clocks and basic establishment of astronomical charts
 meant that longitudes could be calculated rather than simply estimated. These
 were revolutionary advances."  Science enabled the discovery and control of
 natural forces.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 The scientific worldview drastically changed when the Polish astronomer Nicolas
 Copernicus claimed that is sun is the centre of the universe, not
 earth. Johannes Kepler and Galileo Galilei carried the baton forward. Kepler
@@ -951,13 +569,13 @@ called Calculus to explain the theory. He was able to prove Kepler's laws of
 planetary motion, and Galileo's law of free fall using his theory. Differential
 and integral Calculus was developed by Gottfried Wilhelm Leibniz in parallel to
 Newton.
-</p>
-</div>
-</div>
-<div id="outline-container-org6992437" class="outline-2">
-<h2 id="org6992437">Age of Enlightenment</h2>
-<div class="outline-text-2" id="text-org6992437">
-<p>
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="outline-container-org6992437" class="outline-2"&gt;
+&lt;h2 id="org6992437"&gt;Age of Enlightenment&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org6992437"&gt;
+&lt;p&gt;
 We cannot escape the topic of philosophy when we are trying to answer the
 question, 'Why'.  With Philosophy comes its philosophers, and we are going to
 have a tryst with some of the philosophers of the age of enlightenment, and
@@ -973,80 +591,80 @@ head that had to be filled, which they did, with god, with questions about body
 and mind, liberty, equality, justice, morality, ethics, social contract, natural
 rights, happiness, scientific rationalism, physics, metaphysics, economic
 prosperity, free markets and so on and so forth.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 We had a brief brushing with physics in the previous section, and now, to
-metaphysics. It seems <i>meta</i> in ancient Greek meant ‘after’. So ‘metaphysics’,
+metaphysics. It seems &lt;i&gt;meta&lt;/i&gt; in ancient Greek meant ‘after’. So ‘metaphysics’,
 yes…, after physics. Physics is about things that change; the metaphysics is
 about things that don’t change. So, natural science investigates things in this
 world or universe which tend to change or move or transform, which can be
 sensed, observed, experimented upon, or experienced, whereas, metaphysics
 transcends experience. It concerns mind where physics is concerned with
 body. And that is philosophy.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 The two dominant branches of western philosophy during the age of enlightenment
 are called the Empiricism and Rationalism. Interestingly, there is an
 intersection of these two schools of thought and further advancement of western
-philosophy from that point. Empiricism comes from <i>empeiria</i> meaning
+philosophy from that point. Empiricism comes from &lt;i&gt;empeiria&lt;/i&gt; meaning
 "experience; mere experience or practice without knowledge. Rationalism, on the
-other hand comes from <i>reason</i>. Either way, the two questions that really
+other hand comes from &lt;i&gt;reason&lt;/i&gt;. Either way, the two questions that really
 matters in political philosophy are: 'Who gets what', and 'says who'? The first
 is about the distribution of goods, and of rights and liberties. The second
 question concerns the distribution of Political power. One task for the
 political philosopher is to determine the correct balance between autonomy and
 authority.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Of the two major factions or western philosophy, Empiricism began with Francis
-Bacon(1561-1626). <i>'Knowledge is power'</i>, is his famous dictum. He emphasised on
+Bacon(1561-1626). &lt;i&gt;'Knowledge is power'&lt;/i&gt;, is his famous dictum. He emphasised on
 the need for seeking evidence to prove things. A methodical approach to the
 investigation of the nature and limits of human mind and then to draw
 consequences for how we should regulate our beliefs and actions. Empiricists
 believed that an idea in the mind that can be traced back to some particular
 experience. Ideas come from senses or sense-impressions of the past.
-</p>
+&lt;/p&gt;
 
-<p>
-Rene Descartes(1596-1650), is believed to be the originator of rationalism. <i>'I
-think, therefore I am'</i>, is his famous dictum. Rationalists believed that ideas
+&lt;p&gt;
+Rene Descartes(1596-1650), is believed to be the originator of rationalism. &lt;i&gt;'I
+think, therefore I am'&lt;/i&gt;, is his famous dictum. Rationalists believed that ideas
 are innate, it came from within. They used deductive reasoning to explain things
 using axioms as the premise, and deduction as the method to derive conclusions.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Before we go any further, a friendly reminder on why people had to think about
 these things. We have already touched upon the way of life in the ancien regime,
 of religious dogmas, of superstitious beliefs in magic, sorcery, astrology, and
 alchemy. The intellectual exercises of the age of enlightenment were not merely
 a departure from the status quo, but a discontinuity in the way of life
 itself. There was a break in the continuity of thoughts and debates from the
-medieval ages. Ernst Cassirer has some interesting observations in his book <i>'The
-myth of the state'</i> where he says "All the progress made by the Renaissance and
+medieval ages. Ernst Cassirer has some interesting observations in his book &lt;i&gt;'The
+myth of the state'&lt;/i&gt; where he says "All the progress made by the Renaissance and
 the Reformation were counterbalanced by the loss of unity and inner harmony of
 the medieval culture, especially ethical foundation of the medieval civilization
 was seriously affected. The heliocentric system deprived man of his privileged
 condition. He became, as it were, an exile in the infinite universe. The cracks
 formed in Christianity were irreparable. Only Reason, which is autonomous and
 self-dependent could bring back the ethics and harmony."
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Cassirer also writes that political theories of the age of enlightenment was a
 rejuvenation of Stoic ideas. Stoicism is from the Greek and Roman period which
-is capsuled in the phrase <i>'Virtue is its own reward'</i>. Morality and happiness is
+is capsuled in the phrase &lt;i&gt;'Virtue is its own reward'&lt;/i&gt;. Morality and happiness is
 derived from following virtues like wisdom, courage, controlling emotions,
 justice, and living in accordance with nature. All these political theories have
 a common metaphysical background than a theological one. This is backed by
 mathematics and reasoning.
-</p>
+&lt;/p&gt;
 
-<p>
-In a way, writes Milan Zafirovski in his book <i>The Enlightenment and Its Effects
-on Modern Society</i>, "the Enlightenment operates as the composite process of
+&lt;p&gt;
+In a way, writes Milan Zafirovski in his book &lt;i&gt;The Enlightenment and Its Effects
+on Modern Society&lt;/i&gt;, "the Enlightenment operates as the composite process of
 intellectual destruction and deconstruction of the values and institutions of
 the ancien regime as a total social system and of creation or projection of
 those of a new society. The inner logic, essential process, and ultimate outcome
@@ -1054,9 +672,9 @@ of the Enlightenment are the destruction of old oppressive, theocratic,
 irrational, and inhumane social values and institutions, and the creation of
 new democratic, secular, rational, and humane ones through human reason or, as
 Immanuel Kant put it, “dare to think.”
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 The famous words from American Declaration of Independence: "All men are created
 equal with certain unalienable rights to life, liberty and pursuit of
 happiness". To secure these rights, governments are instituted among men,
@@ -1069,9 +687,9 @@ Most of these ideas were repeated from the past, but now these ideas were forged
 into weapons. The attack became direct. Their is no veiled disguise or use of
 abstract terms anymore. Straight to the point. Ecrasez l'infâme, said Voltaire,
 "Crush the loathsome thing", and he was referring to the Roman Catholic Church.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 With that we move on to Hobbes, Locke and Rousseau. Thomas Hobbes(1588-1679) is
 most famous for his book Leviathan, in which he invites the reader to travel to
 a hypothetical world where there is no civilisation or societies. It is called
@@ -1079,9 +697,9 @@ the state of nature. In the state of nature there are no rules, or morals, or
 ethics attached to the people. The question is then to ask how and why did that
 change? It is a thought experiment similar to parents reprimanding children for
 wasting food by saying, 'you will understand the value of it in its absence'.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Hobbes was rather pessimistic about life of human in the state of nature. He was
 inspired by Galileo's principle of conservation of motion, that is things will
 remain in motion unless acted upon by a force. Hobbes used this premise in a
@@ -1102,13 +720,13 @@ unjust, every person has the liberty to act as they think fit to preserve their
 'right of nature', so there is no place or reason for morality. Hobbes's
 solution is to have a sovereign who would put laws in place and punish people
 who wouldn't obey those.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Paraphrasing his famous paragraph from Leviathan,
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 "Whatsoever therefore is consequent to a time of war, where every man is Enemy
 to every man; the same is consequent to the time, wherein men live without other
 security, than what their own strength, and their own invention shall furnish
@@ -1120,9 +738,9 @@ require much force; no Knowledge of the face of the Earth; no account of Time;
 no Arts; no Letters; no Society; and which is worst of all, continue all in
 fear, and danger of violent death; And the life of man…, solitary, poor,
 nasty, brutish, and short.”
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 John Locke(1632-1704) disagreed with Hobbes's idea in many parts, but Locke's
 counter arguments had God factor in it as the reason why no one has natural
 right to harm another in his life. Interestingly, Locke says that in the state
@@ -1132,9 +750,9 @@ from the right to self defence, which is claimed as a right by Hobbes. Locke
 thinks that moral law-abiding citizens will come together with the victim to
 bring the villain to justice. One key difference is that Locke thinks there will
 be no deep scarcity of goods in the world.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Locke assumes that human beings are naturally free, equal, and independent. This
 means that they are not naturally under the authority of any other person.
 Accordingly, Locke concluded that the only way of coming under another person's
@@ -1143,38 +761,39 @@ Locke, whether the person claiming authority is another private individual or
 the sovereign. Thus the sovereign, who claims authority over you, has no right
 to that authority unless you have voluntarily put yourself in this position
 through your own consent.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Jean-Jacques Rousseau(1712-1778) agrees with Locke about Hobbes being wrong of
 extreme scarcity in the state of nature, but disagrees about the ideas of
 morality as the motivation for goodness in the state of nature. Instead he
 proposes natural pity or compassion as the element that will rescue humanity
 from killing each other.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Essentially, for the social contract theorists after Hobbes, the state is
 justified if, but only if, every individual over which it claims authority has
 consented. Consent, that is keyword. That's probably what caused the
 discontinuity in the hitherto way of life. Well, I would like to leave you with
 few questions:
-</p>
+&lt;/p&gt;
 
-<ul class="org-ul">
-<li>Can you think of life in the state of nature if you were in it?</li>
-<li>What are your natural rights?</li>
-<li>What are you thoughts on possessions?</li>
-<li>What binds an individual to a state?</li>
-<li>Do you give consent?</li>
-</ul>
-<p>
+&lt;ul class="org-ul"&gt;
+&lt;li&gt;Can you think of life in the state of nature if you were in it?&lt;/li&gt;
+&lt;li&gt;What are your natural rights?&lt;/li&gt;
+&lt;li&gt;What are you thoughts on possessions?&lt;/li&gt;
+&lt;li&gt;What binds an individual to a state?&lt;/li&gt;
+&lt;li&gt;Do you give consent?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;
 The intention of this episode is to introduce the alternate thoughts before the
 French Revolution which could have been its possible causation. We have
 mentioned a few names, and omitted many more. But names are not interesting to
 us, it's the ideas and stories that enthral us.  There is more to cover from
 this part of history, but an episode's space is rather constrained. It's perhaps
-a travesty to omit <i>The Prince</i> by Niccolo Machiavelli(1469-1527) while
+a travesty to omit &lt;i&gt;The Prince&lt;/i&gt; by Niccolo Machiavelli(1469-1527) while
 discussing alternate thoughts and ideas. Enlightened despotism or absolutism was
 also skipped. The idea where monarch agrees that royal power does not come from
 divine right but from a social contract whereby a despot was entrusted with the
@@ -1182,15 +801,15 @@ power to govern through a social contract in lieu of any other governments. We
 didn't speak much about collection of knowledge in Encyclopedia, which happened
 in this era. The original feminist Mary Wollstonecraft lived in this era. Much,
 much more.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 In the next episode we discuss the terminologies in Political Ideologies, but
 for now, I must leave you and this episode with the following quote by the great
 German philosopher Immanuel Kant, about the French Revolution:
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 "Such an event," he said, does not consist in important deeds or
 misdeeds of men, whereby, what had been great, became little among men, or what
 had been little, became great, and . . . old glorious political edifices
@@ -1204,23 +823,9 @@ sympathy very near to enthusiasm. . . . Such a phenomenon in the history of
 mankind can never be forgotten; because it proves that in human nature there
 exists an inclination and disposition to the better which no politician ever
 could have been able to predict by summing up the course of former events."
-</p>
-</div>
-</div>
-                </div>
-            </article>
-</div>
-        <div class="site-content">
-            <article class="format-standard libretto-long-form"><div class="title-block post-format-icon-pin">
-                    <div class="entry-meta">
-                        <span class="posted-on">
-                            Posted on <a href="posts/pi_two/" rel="bookmark">28-2-2024</a>
-                        </span>
-                    </div>
-                    <h1><a href="posts/pi_two/">Political Ideologies - The French Revolution</a></h1>
-                </div>
-                <div class="entry-content">
-                        <p>
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><category>podcast</category><category>politics</category><guid>https://mindtoilet.com/posts/pi_three/</guid><pubDate>Sat, 20 Jul 2024 06:00:15 GMT</pubDate></item><item><title>Political Ideologies - The French Revolution</title><link>https://mindtoilet.com/posts/pi_two/</link><dc:creator>mindtoilet</dc:creator><description>&lt;p&gt;
 "On the morning of July 14, 1789, a crowd of Parisian workers set out to attack
 the royal prison of the Bastille. Joined by deserting soldiers who brought
 cannons, and ignored by Royal Army troops camped nearby, the crowds forced their
@@ -1228,65 +833,66 @@ way into the fortress by late afternoon, killing the governor and parading his
 head on a pike. That evening King Louis XVI reportedly asked a duke, "is this a
 revolt?" To which the duke replied: "No Sire, it is a revolution"" – excerpt
 from J. A. Goldstone's book, Revolutions, A Very Short Introduction.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 In the second episode of this series, we continue to blend into our topic of
 Political Ideologies through French Revolution. Hope is to present a succinct
 summary of the events, and then proceed to ask the mammoth question, 'Why?'
 Welcome to Hitchens' Razor!
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Someone had noticed that it is hard to talk about the French Revolution, not for
 the lack of resources, because there is a plethora of it. So, before we begin
 the revolution, may I regurgitate our gratefulness to the following authors for
 their great work on the topic, which has immensely helped us to tell the tale.
-</p>
+&lt;/p&gt;
 
-<ol class="org-ol">
-<li>Georges Lefebvre, The French Revolution, translated to English by Elizabeth Moss Evanson</li>
-<li>William Doyle, The French Revolution, a VSI</li>
-<li>Jack Goldstone, Revolutions VSI</li>
-</ol>
-<p>
+&lt;ol class="org-ol"&gt;
+&lt;li&gt;Georges Lefebvre, The French Revolution, translated to English by Elizabeth Moss Evanson&lt;/li&gt;
+&lt;li&gt;William Doyle, The French Revolution, a VSI&lt;/li&gt;
+&lt;li&gt;Jack Goldstone, Revolutions VSI&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;
 and a shout out to Jawaharlal Nehru for 'The Glimpses of World History', and
 H.G.Wells as well for 'A Short History of the World'.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Although the narrative is simplified to be retold as a lucid story, there are
 many places where we have directly quoted from some of the above authors without
 saying so. We hope to leech on your ample-supple magnanimity to forgive us.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Shall we?
-</p>
-<div id="outline-container-org4d31188" class="outline-2">
-<h2 id="org4d31188">The Story</h2>
-<div class="outline-text-2" id="text-org4d31188">
-<p>
+&lt;/p&gt;
+&lt;div id="outline-container-org4d31188" class="outline-2"&gt;
+&lt;h2 id="org4d31188"&gt;The Story&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org4d31188"&gt;
+&lt;p&gt;
 Our story begins in 18th century of the Common Era.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 France's attempt to remain a global super force meant waging war with other
 kingdoms. They fought all over the world, at both land and the sea, in America,
 in Asia, and in native Europe. Engaging in relentless war means destruction;
 destruction calls for rebuilding; rebuilding costs money. During hard times,
 money demands either financial discipline or bankruptcy. For France, it was the
 latter. They were running out of money. 
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 How did the French fund these wars in the first place? Well, the Finance
 minister borrowed money from Freemason banks and wealthy individual financiers
 of Europe. Wait, was there a system of government? Yes! It is what we now call
-the <i>ancien regime</i>. Under <i>ancien regime</i> the French society was then
+the &lt;i&gt;ancien regime&lt;/i&gt;. Under &lt;i&gt;ancien regime&lt;/i&gt; the French society was then
 classified into three orders: The nobles(wealthy and powerful), The clergy(God
-people), and the Third Estate, i.e. everyone else. &lt;beat&gt; Geographically, France
-was divided into provinces, and there were courts or <i>parlements</i> for each
+people), and the Third Estate, i.e. everyone else. &amp;lt;beat&amp;gt; Geographically, France
+was divided into provinces, and there were courts or &lt;i&gt;parlements&lt;/i&gt; for each
 province. The parlements were judicial bodies with around 1100 judges
 nationwide. The members of the parlements were aristocrats or nobles who had
 bought or inherited their offices, and were independent of the king. They
@@ -1294,41 +900,42 @@ wielded decision making powers on a wide range of subjects. Apart from this, the
 king had his ministers to take care of the kingdom's affairs. Okay, back to
 funding wars. For France, supporting the American war of Independence to defeat
 the British was dear. They had availed loans to enable the military, and
-borrowed even more money to pay off the arrears. &lt;beat&gt; Such was the deficit in
+borrowed even more money to pay off the arrears. &amp;lt;beat&amp;gt; Such was the deficit in
 August 1786, the Finance minister sent a letter to the king mentioning the need
 for a state reform. It was first of its kind act for France. Things turned worse
 in the following year; so much that in March 1788 the first budget of the old
 regime was needed to be drafted. Oddly enough, this was also the last budget of
 the old regime. It estimated a 20% deficit at 126 million livres. More than half
-of the expenditures were attributed to paying debts alone. &lt;beat&gt; The taxes in
+of the expenditures were attributed to paying debts alone. &amp;lt;beat&amp;gt; The taxes in
 the country was already high, so raising taxes further to clear the arrears was
 out of the question. There existed a solution to the problem though, that is to
 bring equality of taxation for different classes of people and provinces of the
-country. &lt;beat&gt; And that's how it all began!
-</p>
+country. &amp;lt;beat&amp;gt; And that's how it all began!
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Shall we move on from the state of economics to the state of people? French
 revolution could be broadly divided into three stages. The Aristocratic
 revolution, the Bourgeoisie revolution, and the Popular revolution. We shall
 begin with the Aristocracy's quarrel, that is the Nobles' and Clergy's quarrel
 with their king.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 At the verge of bankruptcy, the finance minister proposed new measures to raise
 funds. This included:
-</p>
-<ol class="org-ol">
-<li>A direct land tax upon all landowners without any exception</li>
-<li>Other taxes to be shared out without distinction as to order or class</li>
-<li>Freeing the grain trade from all controls, by abolishing internal customs barriers</li>
-<li>Asking clergy to clear its debt by selling the Church's manorial rights</li>
-</ol>
-<p>
+&lt;/p&gt;
+&lt;ol class="org-ol"&gt;
+&lt;li&gt;A direct land tax upon all landowners without any exception&lt;/li&gt;
+&lt;li&gt;Other taxes to be shared out without distinction as to order or class&lt;/li&gt;
+&lt;li&gt;Freeing the grain trade from all controls, by abolishing internal customs barriers&lt;/li&gt;
+&lt;li&gt;Asking clergy to clear its debt by selling the Church's manorial rights&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;
 The good minister thought that financial stability would strengthen his king's
 royal power, and reduce the opposition from parlements. The King Louis VI was a
-weak monarch; &lt;beat&gt; he had very little power and control over the country's
+weak monarch; &amp;lt;beat&amp;gt; he had very little power and control over the country's
 affairs. He was considered almost a laughing stock of his courtiers and all
 those who had heard the stories. Aware of this status, the finance minister used
 indirect methods to get the tax reforms done. He convoked a meeting with the
@@ -1343,9 +950,9 @@ retracting the proposal, and instead offered to increase the stamp duty. But the
 Notables and the parlements rejected the new tax proposal as well, because this
 decision was not in their power, but was to be made by the wider group called
 Estates-General or the States-General representatives of France.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 The debt remained, and the new finance minister was now desperate to raise
 money. Uncertain of the support from the parlements and aristocracy, he had the
 King pass an edict as a royal order superseding any opposition. Nevertheless,
@@ -1358,16 +965,16 @@ minister again. The consensus pointed to the convocation of Estates-General for
 any tax related decision making. Like before, that is in 1614, the convocation
 was to have three orders representing the classification of the French society;
 The clergy, The nobles, and the Third Estate.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 What you have heard until now is the revolution that happened in the
 background. The Aristocratic Revolution! The Nobles and Clergy against the
 monarch. The second part, which you are about to hear is called the Bourgeoisie
 Revolution.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 The Third Estate, that is everyone else also contained the bourgeoisie. We have
 spoken a great deal about the rise of the middle class, i.e. the bourgeoisie in
 the previous episode. The news of gathering of the Estates-General sent tremors
@@ -1382,16 +989,18 @@ third estate, when compared to the clergy and the nobles. Meanwhile the Nobles
 and the Clergy assured of their birth and divine rights, demanded a vote at the
 this meeting. Since Estates-General voted by order than by head, any two estates
 could outvote a third. This arrangement naturally favoured the upper
-classes. &lt;beat&gt; The mood of aristocracy during the French revolution is captured
+classes. &amp;lt;beat&amp;gt; The mood of aristocracy during the French revolution is captured
 in this extract of a letter sent to the king by the royal princes.
-</p>
+&lt;/p&gt;
 
 
-<hr>
-<p>
-<img src="galleries/lefebvre.jpeg" alt="nil"></p>
-<hr>
-<p>
+&lt;hr&gt;
+&lt;p&gt;
+&lt;img src="https://mindtoilet.com/galleries/lefebvre.jpeg" alt="nil"&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;p&gt;
 Estates-General. France was all set for the rendezvous. A hotel was arranged for
 the meetings of the clergy and the nobility. A big national hall was arranged
 for the third estate to meet. All party meetings were to be held in a large room
@@ -1410,9 +1019,9 @@ places. At the beginning, the Third Estate had taken a new name for itself;
 communes or, Commons. Not many knew that word evoked a vague memory of popular
 resistance to the feudal lords. For the Commons, they simply refused to be
 relegated to the third rank.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Few days later, the nobility, strong on its belief, announced themselves as a
 separate order. The Clergy meanwhile was in trouble because a large proportion
 of the parish church or the district church priests, supported the Commons. The
@@ -1422,9 +1031,9 @@ place, in the presence of his ministers. The finance minister further said that
 if no agreement could be reached, then the king's decision would be final. This
 put the Commons in a difficult position, but ironically the nobility rejected
 that royal arbitration proposal.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 The Commons now invited privileged members to join them. Many parish priests
 did, but not one noble. With the new members the Third Estate's name was again
 changed to National Assembly. They demanded that all three classes be merged and
@@ -1438,9 +1047,9 @@ Commons, formerly known as the Third Estate discovered that the national hall
 where they met regularly to discuss their affairs was closed without any notice
 or warning. Certainly not defeated yet, they immediately convened in a Tennis
 court nearby, and took an oath to give France a constitution.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 The king now disregarding his Finance minister, came up with his own
 declarations guaranteeing a constitutional system, civil liberty etc, but
 equality of taxation and voting by head was omitted. He then dismissed the
@@ -1452,17 +1061,17 @@ victorious at this point. The nobles considered this as a humiliation, albeit
 not accepting defeat. The king on the other hand saw the members of National
 Assembly as rebels. First step, they had to get rid of the Finance minister who
 had supported the National Assembly's cause. He was dismissed arbitrarily and
-exiled. The bourgeoisie revolution seemed lost, but they were saved &lt;beat&gt; by
+exiled. The bourgeoisie revolution seemed lost, but they were saved &amp;lt;beat&amp;gt; by
 the people, the proletarians, the peasants. That is the third part of the French
 Revolution, the Popular revolution!
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 We hope to talk more about the economic crisis and its effect in a later
 episode.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 For the lower classes, the peasants and artisans the crisis plus the recent crop
 failure meant hunger and poverty. The hammer-crush burden of the nation's taxes
 fell on their thin shoulders. Bread was their staple, and it's prices kept
@@ -1491,16 +1100,16 @@ the people. They started ransacking the strong points in the city for Guns and
 food. Storming into a prison, releasing its inmates, and brutally killing the
 guard commander who had earlier ordered to fire on them, the taking of Bastille
 was complete. The fall of Bastille.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 This quote from William Doyle's French Revolution sums up the episode, "The
 National Assembly had seized sovereign power in the name of the France
 Nation. It was the founding act of the French Revolution. If the Nation was
 sovereign, the king no longer was."
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 The National Assembly was indirectly helped by the proletarians and the
 peasants, and other hungry people of France. One thing to remember is that none
 of these happened overnight. For instance, the convocation of the Estates
@@ -1513,196 +1122,44 @@ release of new ideas. The politics of social antagonism which started in Paris
 have had now spread to the countryside. The whole feeling later was transcended
 into paranoia of loss. We shall stop our narration of the French revolution
 here. As they say, the rest is history! That in summary includes:
-</p>
-<ol class="org-ol">
-<li>Abolition of privileges</li>
-<li>October Days, when a group of women marched to Versailles to escort the King
-to Paris, the epicentre of revolution.</li>
-<li>Church property nationalised</li>
-<li>Nobility abolished</li>
-<li>Parliament abolished</li>
-<li>Civil constitution for Church, i.e. a common platform for Catholics and Protestants</li>
-<li>War with neighbours</li>
-<li>Liberty Fraternity Equality</li>
-<li>Monarch executed in 1793</li>
-<li>Massacres</li>
-<li>Napoleon</li>
-</ol>
-<p>
+&lt;/p&gt;
+&lt;ol class="org-ol"&gt;
+&lt;li&gt;Abolition of privileges&lt;/li&gt;
+&lt;li&gt;October Days, when a group of women marched to Versailles to escort the King
+to Paris, the epicentre of revolution.&lt;/li&gt;
+&lt;li&gt;Church property nationalised&lt;/li&gt;
+&lt;li&gt;Nobility abolished&lt;/li&gt;
+&lt;li&gt;Parliament abolished&lt;/li&gt;
+&lt;li&gt;Civil constitution for Church, i.e. a common platform for Catholics and Protestants&lt;/li&gt;
+&lt;li&gt;War with neighbours&lt;/li&gt;
+&lt;li&gt;Liberty Fraternity Equality&lt;/li&gt;
+&lt;li&gt;Monarch executed in 1793&lt;/li&gt;
+&lt;li&gt;Massacres&lt;/li&gt;
+&lt;li&gt;Napoleon&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;
 and much, much more if you wish to zoom in, enough content for another series.
 But now we must stop and try to identify links to Political Ideologies.
-</p>
-</div>
-</div>
-                </div>
-            </article>
-</div>
-        <div class="site-content">
-            <article class="format-standard libretto-long-form"><div class="title-block post-format-icon-pin">
-                    <div class="entry-meta">
-                        <span class="posted-on">
-                            Posted on <a href="posts/payyantemanasiranioodi/" rel="bookmark">27-2-2024</a>
-                        </span>
-                    </div>
-                    <h1><a href="posts/payyantemanasiranioodi/">പയ്യന്റെ മനസ്സിറങ്ങിയോടി</a></h1>
-                </div>
-                <div class="entry-content">
-                        <p>
-യാത്രയുടെ തുടക്കത്തിൽ എവിടെയെങ്കിലും ഒന്ന് തേങ്ങയുടയ്ക്കണം എന്ന് തോന്നി. സ്വീകൃത യാദവകുല മുരളീഗാന
-വിനോദ മോഹനകര. പഠെ! അവിടെ തന്നെ ഉടച്ചു നാളികേരം. കർപ്പൂരവും കത്തിച്ചു. കുറച്ചുനേരം ഗമധനിസ-യിൽ
-വട്ടത്തിരിഞ്ഞു. പിന്നെ നിമ്നോന്നതമായ ആ സ്വരങ്ങളിൽ അങ്ങോട്ടും ഇങ്ങോട്ടും നടന്നു. ഒരു തേങ്ങാപ്പൂളെടുത്ത്
-കീശയിലിട്ടു. സന്തോഷായി. നേരെ വിട്ടു വടക്കോട്ട്.
-</p>
-
-<p>
-ആര്യവർത്തത്തിന്റെ ചരിത്രത്തെപ്പറ്റി ആലോചിച്ചു. ആരൊക്കയോ വരുണു. എവിടോയെക്കൊയോ പോണു. ഉള്ളതിനെ
-പൊളിക്കുന്നു. പുതിയത് പണിയുന്നു. സങ്കൽപ്പത്തിന് ഒറ്റപ്പേര് മതിയെന്ന് വാദിക്കുന്നു. ആ പേരിൽ ചറപറാ
-ഹിംസിക്കുന്നു. അതിന്റെ ഇടയിൽ, ഹൈ! മാൽകോൺസ് അല്ലേ ആ കേൾക്കുന്നത്. കുറച്ചുനേരം ഗമധനിസ-യിൽ
-വട്ടത്തിരിഞ്ഞു. സംഗീതമെങ്കിലും രക്ഷപെട്ടല്ലോ എന്ന് കരുതി ഗുരുക്കന്മാർക്ക് മനസ്സിൽ മുറുക്കാൻ
-മേടിച്ചുകൊടുത്ത് നേരെ തെക്കോട്ട് തീവണ്ടി പിടിച്ചു. ജനലിന്റെ അരികിൽ ഇരുന്നു കാറ്റുകൊണ്ട് ഉറങ്ങി.
-</p>
-
-<p>
-ചുറ്റും പല ഉപകരണങ്ങൾ ചിലയ്ക്കുന്നു. മനസ്സിനെ നാല് അശ്വിനികൾ നാലുഭാഗത്തേക്ക് വലിക്കുന്നു. <br>
-എന്റെ കൈകാലുകൾ വിടൂ. നിങ്ങൾക്കെന്ത് വേണം പറയൂ.!  <br>
-നിന്റെ സമയം. അതാണ് ഞങ്ങൾക്ക് വേണ്ടത്.  <br>
-കടവുളേ, കാലനാണല്ലോ കാലം ചോദിച്ച് കാലുപിടിച്ചു വലിക്കുന്നത്. പക്ഷെ എവിടെയോ ഒരു പരിചയം. ഓ,
-കാലനല്ല, വിശപ്പാണ്. ചിന്തകൾക്ക് ഭക്ഷണം വേണം. ഉപകരണങ്ങൾ കയ്യിലെടുത്തു. എവിടെയൊക്കെയോ കയറി
-വാരി വലിച്ചു തിന്നു. മനസ്സിന്റെ ഭക്ഷണരീതിയിൽ ചിട്ടവരുത്തേണ്ടതിനെ കുറിച്ച് അദൃശ്യവൈദ്യന്മാർ
-ആഞ്ഞുപദേശിച്ചതിനെകുറിച്ചോർത്തു. 'ഹെൽത്തി' എന്ന് പേരുള്ള ഒരുതരം ഭക്ഷണം മാത്രമേ
-തിന്നാവൂത്രേ. മധുരമത്രെയും ഒഴിവാക്കണം. പക്ഷേ ഈ മനസ്സിന് ഇനിയും ഹെൽത്തിയാവാൻ
-സാധിച്ചിട്ടില്ല. ഭഗീരഥേട്ടനെ ഒന്ന് പ്രസംശിച്ചു. രുചിയുള്ള, വറുത്തുപൊരിച്ച, പൊരിച്ചുമൊരിച്ച,
-പഞ്ചസാരതൈലത്തിൽ മുക്കിയ ഇത്രയധികം വസ്തുക്കൾ ചുറ്റും മീഡിയകണക്കെ നിറഞ്ഞുനിൽക്കേ, ആർത്തിയെ
-ബന്ധിക്കേണ്ടതുണ്ടോ? ചോദ്യം തന്നോടുതന്നെ.  പക്ഷേ, അങ്ങനെ ലോഭങ്ങളെ പൂട്ടിയ ആളുകൾ
-പുസ്തകങ്ങളെഴുതുന്നുവെത്രെ. പടി പടിയായുള്ള ഉപദേശങ്ങൾ നിറഞ്ഞ ഒരു മുത്തുച്ചിപ്പി. ഈ പുസ്തകം വായിച്ചാൽ
-സ്വയം സഹായിക്കാൻ പറ്റുമെത്രെ. ഭഗീരഥേട്ടനെ വീണ്ടും പ്രസംശിച്ചു. ങ്ഹാ, എന്തായാലും ഈ വരുന്ന
-തിങ്കളാഴ്ച്ച തുടങ്ങാം.
-</p>
-
-<p>
-ദാ, ഒരു നിശാശലഭം. എവിടെ? പോയോ? പോയി.<br>
-അതെന്താ അവിടെ? മലയുടെ മുകളിൽ. <br>
-അത് ചന്ദ്രൻ. <br>
-അയാൾക്കെന്താ അവിടെ കാര്യം? <br>
-നക്ഷത്രങ്ങളെ കൂട്ടി ഭൂമിയോട് യുദ്ധത്തിന് വന്നതാണെത്രെ. <br>
-എന്നിട്ടെന്താ ഒന്നും നടക്കാത്തത് ? <br>
-ഇപ്പോൾ സീസ്‌ഫയറാണ്  വെടിനിരോധനം. ചർച്ചനടന്നുകൊണ്ടിരിക്കുകയാണ്   <br>
-സൂര്യനാണ് വിഭീഷണന്റെ റോൾ. <br>
-അയാൾ ഈ പണിക്ക് പറ്റുമോ? കടലിൽ പാലമിട്ടാൽ, കടക്കുന്നത് വരെ രാമായണാ, പിന്നെ തേരാപാരായണാന്നാണ്. <br>
-ങ്ഹേ? ഞാൻ കേട്ടിട്ടുള്ളത് പാലം കടക്കുന്നത് വരെ രാമാ, കടന്നാൽ നീ പോമാന്നാണ്. <br>
-അതെന്തായാലും വേണ്ടില്ല, സംഭവം രാത്രിയായാൽ അയാൾ ചന്ദ്രന്റെ കൂടെയാണ്. <br>
-അതൊക്കെ മൂപ്പരുടെ വെറും തരികിടയല്ലേ. ഭൂമിയെയാണയാൾക്കിഷ്ടം. നീ നോക്കിക്കോ, അവസാനം ചന്ദ്രൻ ശശിയാവും, അല്ലെങ്കിൽ സോമൻ, തീർച്ച!  <br>
-യുദ്ധം അപ്പൊ തീരൊ ? <br>
-ഏഹ്, യുദ്ധം എപ്പോഴും ഉണ്ടാവും. ഇഷ്ടപ്പടിക്ക്! ഇവരെല്ലാവരും കൂടി നമ്മളെയിട്ട് ഇങ്ങനെ കറക്കും അത്രതന്നെ.
-</p>
-
-<p>
-ഇഷ്ടപ്പടിക്കോ? ഇതെവിടെയോ കേട്ടിട്ടുണ്ടല്ലോ. ദാ പാലക്കാട്. സുൽത്താൻപേട്ട ജംഗ്ഷൻ എത്തിയപ്പോൾ,
-വട്ടവും നോക്കി   വരുംവരായ്കളുടെ ജക്സ്റ്റപൊസിഷൻ എന്താന്നെന്നോർത്ത് അമ്പരന്ന് നിന്ന പയ്യൻ വട്ടം ചുവപ്പിൽ
-നിന്നും ആംബർ ആയതറിഞ്ഞില്ല. പോലീസ്‌കാരൻ വാചാലനായി. പിന്നൊന്നും നോക്കിയില്ല. റോങ്ങ്ട്ടേണിൽ നേരെ ഹരിഹരപുത്രക്ക് വിട്ടു. ലക്ഷ്യം മാർഗ്ഗത്തെ സാധൂകരിക്കും എന്ന് പാർത്ഥസാരഥി പറഞ്ഞപ്പോൾ മൂപ്പർക്ക് വിശന്നു കാഞ്ഞിട്ടുണ്ടാവണം. 
-</p>
-
-<p>
-എന്താ ഏട്ടാ, സൂആംതന്നെ? <br>
-ഓ! <br>
-ദോശണ്ടാ? <br>
-ഇല്ല, റോസ്റ്റേയുളളൂ <br>
-വേറെന്താള്ള?  സേവ, വട, ഇലയട, ഇട്ട്ളി, പൊറോട്ട, ചപ്പാത്തി, ഭൂരി <br>
-ഭൂരി മതി, 3 എണ്ണം. <br>
-കാത്തിരുന്നു. നല്ല ഭുസ്‌ക്ന്നുള്ള മൂന്ന് ഭൂരി വന്നു. ഭൂരി കരുണാകാര എന്ന് സ്വാതിയേട്ടൻ പാടിയതിന്റെ സംഗതി
-ഇപ്പൊ പിടികിട്ടി. ഭൂരിയുടെ പെരടികുറ്റിക്ക് നോക്കി ഒരു കുത്തുകുത്തി. കാറ്റ് പൊസ്ക്ക്ന്ന് പോയി. ഹിംസിച്ച
-പാപം ഭക്ഷിച്ചാൽ തീരും എന്ന ദാർശനികതയിൽ മസാൽ കൂട്ടി വലിച്ചുവാരി കഴിച്ചു.  ഏട്ടൻ പിന്നേം
-വന്നു. <br></p>
-
-<p>
-കാപ്പിട്ടോളിൻ. ശക്തൻ. പൻസാര വേണ്ട. <br>
-കാപ്പി ആറ്റി ആറ്റി കുടിച്ചു. <br></p>
-
-<p>
-&lt;എട്ടനുമായുള്ള ഗീർവാണം ഇവിടെ എഴുതാൻ ഒരു ഓർമപ്പെടുത്തൽ ഭാവിയിലേക്ക് രേഖപ്പെടുത്തി&gt;
-</p>
-
-<p>
-കടയിൽനിന്നിറങ്ങി. തത്തക്ക പിത്തക്ക നടന്നു.  ഭയങ്കര സീണം. ഒന്ന് കിടക്കണം.  അടുത്തുള്ള ഒരു വലിയ
-അമ്പലത്തിന്റെ കൽത്തിണ്ണയിൽ കിടന്നുറങ്ങി.  ഉള്ളിൽ കയറിയില്ല. അശുദ്ധമാക്കേണ്ടെന്ന് മനസ്സ് സ്വയം
-തീരുമാനിച്ചു.  പെട്ടെന്നെണീറ്റു. ഒരു അടുക്കും ചിട്ടയുമില്ല. വേറെവിടെയോ ആണല്ലോ നിന്നിരുന്നത്. ങ്ഹാ,
-മലമുകളിൽ, ഭൂമിയും, ചന്ദ്രനും, സൂര്യനും. യുദ്ധം. അല്ലെങ്കിൽ യുദ്ധം വേണ്ട.  എന്നാ കടൽക്കരയിലേക്കു
-പോകാം. തീരത്തൂടെ നടക്കാം. ചക്രവാളത്തിന്റെ സ്ട്രക്ച്ചർ കണ്ടാസ്വദിക്കാം. ചാറ്റൽ
-മഴയുണ്ടാവും. നന്നായിരിക്കും. <br></p>
-
-<p>
-ങ്ഹേ, ഒറ്റയ്ക്കോ ? മഴയത്ത് പ്രേമിക്കാൻ ആരെങ്കിലും കൂടെ വേണ്ടേ? <br>
-അതിനല്ലേ പഴയ കാമുകിമാർ. <br>
-കൊണ്ടുവന്നിട്ടുണ്ടോ? <br>
-ഓ. എപ്പോഴും കൂടെയുണ്ട്. <br></p>
-
-<p>
-കൈകോർത്ത് നടക്കാം. ഓട്ടപ്പന്തയം വയ്ക്കാം. മുടിയിൽ പിടിച്ചുവലിക്കാം. തോളിൽ കയ്യിട്ടു ചെവിയിൽ
-ഉഫ്ന്നു കാറ്റൂതാം. അങ്ങനെയൊക്കെ സ്നേഹം പ്രകടിപ്പിക്കാം. പിന്നെ കവിത ചൊല്ലി
-ബുദ്ധിമുട്ടിക്കാം. അയ്യോ, കവിത മുട്ടുന്നു.
-</p>
-
-<p>
-എഴുതാൻ വാഞ്ഛ! <br>
-പക്ഷേ, എന്റെ പേനക്ക് നീരിളക്കം വരുന്നില്ല. <br>
-നളിനി, നളിനകാന്തി, മായാമോഹിനി <br>
-മലയാളപദങ്ങളെ, <br>
-നിങ്ങളെ മോചിപ്പിക്കാൻ, <br>
-എന്നെ ആശ്വസിപ്പിക്കാൻ, <br>
-എനിക്കാശ്രയിക്കാൻ,<br>
-ആശയങ്ങളെവിടെ? <br>
-അശ്വാരൂഢസാഹിത്യയോദ്ധാക്കളെ,<br>
-ഗുരുക്കന്മാരെ, <br>
-അതികായരെ, എന്റെ അതിഥികളെ, <br>
-സരസസരസനായ ഈ പയ്യനെ സഹായിക്കൂ,<br>
-അനുഗ്രഹിക്കൂ,<br>
-എനിക്കെഴുതാൻ വാഞ്ഛ.<br></p>
-
-
-<p>
-ഹാവൂ, ഒരു സുഖമുണ്ടിപ്പോൾ. ഇനി തിരിച്ചു പോകാം. ശിരോസ്‌ഥിക്കുള്ളിൽ വിശ്രമിക്കാം.  വന്ന വഴി
-തിരിച്ചുനടന്നപ്പോൾ കുറച്ചു തേങ്ങാപ്പൂളുക്കൾ ചിതറി കിടക്കുന്നതു കണ്ടു. ഒന്നെടുത്തപ്പോൾ അതിലെന്തോ
-വരപ്പെടുത്തിയിരിക്കുന്നു. 'ഗ'. തൊട്ടടുത്തതിൽ 'മ'. പിന്നെ അടുത്തതിൽ 'ധ', പിന്നെ 'നി'. എല്ലാം
-ചേർത്തി വച്ച് വായിച്ചു. എന്തോ ഒരു കുറവ് സ്പഷ്ടം. ചുറ്റും പരതി, ആകാശത്തേക്ക് നോക്കി,
-ങ്ഹേ.. കിട്ടിയില്ല. പെട്ടെന്ന് ഉള്ളിലേക്ക് നോക്കി. സ്വന്തം പോക്കറ്റിന്റെയുള്ളിൽ. 'സ' കിട്ടി. അതിനെ
-പൊട്ടിച്ചു. ചെറിയ കഷണം ഇടതുഭാഗത്തും വലുത് വലത്തും വച്ചു. എന്നിട്ടു ചേർത്ത് തിരിച്ചും മറിച്ചും
-പാടിക്കൊണ്ട് നടന്നു.
-</p>
-
-<p>
-സ ഗ മ ധ നി സ <br>
-സ നി ധ മ ഗ സുഭം. 
-</p>
-                </div>
-            </article>
-</div>
-        <div class="site-content">
-            <article class="format-standard libretto-long-form"><div class="title-block post-format-icon-pin">
-                    <div class="entry-meta">
-                        <span class="posted-on">
-                            Posted on <a href="posts/pi_one/" rel="bookmark">7-2-2024</a>
-                        </span>
-                    </div>
-                    <h1><a href="posts/pi_one/">Political Ideologies - The beginning</a></h1>
-                </div>
-                <div class="entry-content">
-                        <p>
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><category>podcast</category><category>politics</category><guid>https://mindtoilet.com/posts/pi_two/</guid><pubDate>Wed, 28 Feb 2024 06:00:15 GMT</pubDate></item><item><title>Political Ideologies - The beginning</title><link>https://mindtoilet.com/posts/pi_one/</link><dc:creator>mindtoilet</dc:creator><description>&lt;p&gt;
 "Listen – strange women lying in ponds distributing swords is no basis for a
 system of government. Supreme executive power derives from a mandate from the
 masses, not from some farcical aquatic ceremony."
 says Michael Palin's character in the film Monty Python and the Holy Grail.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Well, in today's episode we begin the series of discourse about supreme power
 and masses and governments.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Political ideologies.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 It's rather a difficult topic to discuss, isn't it? Where to begin, what to say,
 what not to utter, all those epoch defining events, everlasting personalities,
 textbook terminologies, its immortal influence in the past, present, and dare I
@@ -1711,44 +1168,44 @@ to discuss it under "Dumb it down to me" series, was deemed dumb
 unanimously. Like a live fish, the harder you try to grasp it, the farther it
 escapes. At any rate, an optimistic attempt is vital, so, Welcome, to Hitchens'
 Razor!
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Liberalism, Conservatism, Left, Right, Fascism, Socialism, Communism,
 Libertarianism, Nationalism, Left of centre, Right of centre, uff, and yet, here
 we are; One has to wonder, how has these managed to remain relevant to the
 modern world?
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Now, our attempt to be pragmatic in this episode, say, to rather talk about the
 juicy events of the past, than to be tediously academic, wouldn't mean that this
 episode would be any less boring than your current imagination. In fact, such a
 statement would be euphemistic to a fool's errand around a Mobius band. Such is
 the fatality of this topic. If you are not bored already,
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Let's begin, by travelling back to a time when the word Ideology did not exist.
-</p>
-<div id="outline-container-orgd9f8d33" class="outline-2">
-<h2 id="orgd9f8d33">Recap of history</h2>
-<div class="outline-text-2" id="text-orgd9f8d33">
-<p>
+&lt;/p&gt;
+&lt;div id="outline-container-orgd9f8d33" class="outline-2"&gt;
+&lt;h2 id="orgd9f8d33"&gt;Recap of history&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgd9f8d33"&gt;
+&lt;p&gt;
 If we are to believe in contemporary consensus, then "Life began in the
 ocean". Some creatures subsequently crawled up to the landmass; the
 reptiles. They had sex, laid eggs, and abandoned them, moved on to next honey
 moon. Reptile nonchalance is criminally underrated.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Then came the birds. They developed wings and feathers to counter the cold. They
 had intercourse and more eggs were delivered. But unlike the reptiles, they
 started caring about their eggs; by keeping them warm under their wings and
 fuselage. The first act of true selfishness.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Enter mammals, with the hitherto unknown notion of storing eggs inside its own
 body, inside its own body!. Such was the shock, bird brains accomplished maximum
 cognisance, and reptiles simply looked up. Mammals also acquired the habit of
@@ -1756,9 +1213,9 @@ providing protection and nutrition to the offspring. This created attachment
 between the youngling and the parent, and it kindled the possibility of learning
 by imitation. The beginnings of a true social life. As H.G.Wells put it, "A
 teachable type of life had come into the world". And thus we evolved!
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Well, the point is, we evolved as a species from Reptiles and Birds to Mammals,
 to Hunter Gatherers; we had the early civilizations in Egypt, India, Mesopotamia
 and China. We had Aryans and Dravidians, the panchayat or the village system,
@@ -1771,33 +1228,33 @@ Tsang), Charlesmagne, The fall of Rome, Chalukyas, Pallavas, Rashtrakutas,
 Pandyas, Cholas, Ghazni, Genghis Khan, Marco Polo, Timur, Dark Ages, Crusades,
 the Renaissance, Age of Science, Age of Enlightenment, Age of Revolution,
 and then the FRENCH REVOLUTION happened.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 1789
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 The word ideology was coined, literally a new ‘science of ideas’.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Thence we had Marx, Nietzsche, Electricity, Russian Revolution- part 1, WW- part
 1, Russian Revolution - part 2, the Great Depression, WW-part 2, Electronics,
 Computers, Cold War, Globalization, Internet, Climate change, Covid and now,
 now, as in, the now, now-now, at the moment now.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Now, hopefully that painted a vague timeline of our history. Now, we slip on a
 banana peel and fall into the coming of ideologies.
-</p>
-</div>
-</div>
-<div id="outline-container-orgd763a09" class="outline-2">
-<h2 id="orgd763a09">The coming of Ideologies</h2>
-<div class="outline-text-2" id="text-orgd763a09">
-<p>
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="outline-container-orgd763a09" class="outline-2"&gt;
+&lt;h2 id="orgd763a09"&gt;The coming of Ideologies&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgd763a09"&gt;
+&lt;p&gt;
 It is in Europe where the seeds of modern political ideologies germinated at a
 time when politics revolved around religion and religion only. The idea of
 nationality which is obvious these days was rather a niche topic then. War was
@@ -1805,12 +1262,12 @@ the most dangerous pandemic in the continent, and religion was the most
 important cog in the war machine. Christians, other Christians, Muslims, other
 Muslims endlessly fought and killed to protect their version of the
 supernatural.
-</p>
-</div>
-<div id="outline-container-org7e98ce8" class="outline-3">
-<h3 id="org7e98ce8">Feudal System and the Middle class</h3>
-<div class="outline-text-3" id="text-org7e98ce8">
-<p>
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id="outline-container-org7e98ce8" class="outline-3"&gt;
+&lt;h3 id="org7e98ce8"&gt;Feudal System and the Middle class&lt;/h3&gt;
+&lt;div class="outline-text-3" id="text-org7e98ce8"&gt;
+&lt;p&gt;
 Violence and disorder prevailed both internally and externally. Strong people
 seized land and power, and they built strong castles for own protection, as they
 were always under threat from people like themselves. The peasants were not
@@ -1821,12 +1278,12 @@ also part of this. The idea of equality or of freedom was exempted in this
 system.  Thus the middle ages passed under feudal system where peasants lived
 miserably. There were occasional revolts from the peasants, but they were
 cruelly put down by the upper classes.
-</p>
-</div>
-<div id="outline-container-org50c78bd" class="outline-4">
-<h4 id="org50c78bd">The bourgeoisie</h4>
-<div class="outline-text-4" id="text-org50c78bd">
-<p>
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id="outline-container-org50c78bd" class="outline-4"&gt;
+&lt;h4 id="org50c78bd"&gt;The bourgeoisie&lt;/h4&gt;
+&lt;div class="outline-text-4" id="text-org50c78bd"&gt;
+&lt;p&gt;
 There was also another type of people, a floating class including the traders
 and merchants. They were not part of the feudal system per se, but they had no
 wealth or influence in that society. But the discovery of sea routes radically
@@ -1836,41 +1293,41 @@ to them.  The middle-class, aka the bourgeoisie thus gathered wealth from global
 trade, and the new money fetched them privileges, and eventually power. They
 still had two classes above them, the nobles and the clergy, and of course the
 king at the top. This segregation based on class is officially called the
-<i>Ancien Regime</i>, which had policies and taxation controlling the freedom of the
+&lt;i&gt;Ancien Regime&lt;/i&gt;, which had policies and taxation controlling the freedom of the
 tradesmen. Naturally this was increasingly becoming a hindrance to the
 bourgeoisie, as they disliked the fact that the classes above them got money
 without work, and representation without taxation.
-</p>
-</div>
-</div>
-<div id="outline-container-org6e11756" class="outline-4">
-<h4 id="org6e11756">Three 'R's</h4>
-<div class="outline-text-4" id="text-org6e11756">
-<p>
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="outline-container-org6e11756" class="outline-4"&gt;
+&lt;h4 id="org6e11756"&gt;Three 'R's&lt;/h4&gt;
+&lt;div class="outline-text-4" id="text-org6e11756"&gt;
+&lt;p&gt;
 And then there were the three great movements of the era: Renaissance,
 Reformation, and Revolution. The renaissance was about learning, science,
 experimental rationalism and asking questions about the universe. Hopefully,
 more of Renaissance in another series. Now, Reformation was about religion,
 specifically Christianity, and of Revolutions, there were three.
-</p>
-</div>
-</div>
-</div>
-<div id="outline-container-orgb25a444" class="outline-3">
-<h3 id="orgb25a444">Reformation</h3>
-<div class="outline-text-3" id="text-orgb25a444">
-<p>
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="outline-container-orgb25a444" class="outline-3"&gt;
+&lt;h3 id="orgb25a444"&gt;Reformation&lt;/h3&gt;
+&lt;div class="outline-text-3" id="text-orgb25a444"&gt;
+&lt;p&gt;
 We shall start with the Reformation.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Printing! The Arabs learned paper-making form the Chinese, and Europe learnt it
 from the Arabs. Towards the end of 15th century, paper and printing became
 common. This meant common people could read books themselves, didn't need a
 priest to tell them the content of the Bible.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Rome was the epicentre of European Christianity in this era. At some point the
 Roman Church thought heresy hunting would be a fabulous idea. Apparently, there
 was fun to be derived and lessons to be taught by burning people alive at stakes
@@ -1885,39 +1342,39 @@ thus formed the christian faction Protestants, against the Roman Catholic,
 RC. This Protestant movement gathered pace when young princes and nobles sided
 with the protestants to put an end to all attempts made by the Pope to dominate
 over them.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 In England, Henry VIII, favoured the protestants because he wanted to divorce
 his wife and marry another woman, which the Roman Catholic Church, naturally,
 was against. So he formed another church called the Church of England, and
 established himself as the Head of the Church, and married the woman. He was
 then the head of the state and head of the church. Well, why not? god is
 omnipresent isn't it?
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 Italy, France, Austria, and Spain were Catholic at the time. Germany was half
 protestant.  The middle class carried the Protestantism with them; wherever they
 were strong, protestants thrived. But reformation was not enough to bring down
 the kings, they were still powerful and autocratic as ever. The monarch
 remained, and waited for the revolutions.
-</p>
-</div>
-</div>
-<div id="outline-container-org3c2626c" class="outline-3">
-<h3 id="org3c2626c">Netherlands, Switzerland and England</h3>
-<div class="outline-text-3" id="text-org3c2626c">
-<p>
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="outline-container-org3c2626c" class="outline-3"&gt;
+&lt;h3 id="org3c2626c"&gt;Netherlands, Switzerland and England&lt;/h3&gt;
+&lt;div class="outline-text-3" id="text-org3c2626c"&gt;
+&lt;p&gt;
 Before we get to the three big revolutions it is worth mentioning Netherlands,
 Switzerland and England. Netherlands became republic even before the French
 Revolution. There was a heroic but bloody battle that happened between the
 merchant classes bourgeoisie of Holland and King Philip II of Spain, who at that
 time ruled the region. Switzerland also gained independence around this time
 from the Holy Roman Empire after the Thirty Years war.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 England, had the parliament in place with two houses, mostly represented by the
 lords and nobles at the upper house, and the merchants and wealthy middle class
 in the lower house. The parliament eventually became stronger than the monarch,
@@ -1925,27 +1382,27 @@ at a point where its King was beheaded at the orders of the parliament, only to
 be later replaced with a puppet from elsewhere in Europe, Germany I
 think. England is a curious case, where the Gentlemen and the Bourgeoisie joined
 to share power with the king.
-</p>
-</div>
-</div>
-<div id="outline-container-orgbb47d51" class="outline-3">
-<h3 id="orgbb47d51">The Three Revolutions</h3>
-<div class="outline-text-3" id="text-orgbb47d51">
-<p>
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="outline-container-orgbb47d51" class="outline-3"&gt;
+&lt;h3 id="orgbb47d51"&gt;The Three Revolutions&lt;/h3&gt;
+&lt;div class="outline-text-3" id="text-orgbb47d51"&gt;
+&lt;p&gt;
 It is interesting that three revolutions happened broadly around the same time
 in history. The political revolution in North America, the industrial revolution
 in England, and the social revolution in France.
-</p>
-</div>
-<div id="outline-container-orgc924a75" class="outline-4">
-<h4 id="orgc924a75">American Revolution</h4>
-<div class="outline-text-4" id="text-orgc924a75">
-<p>
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id="outline-container-orgc924a75" class="outline-4"&gt;
+&lt;h4 id="orgc924a75"&gt;American Revolution&lt;/h4&gt;
+&lt;div class="outline-text-4" id="text-orgc924a75"&gt;
+&lt;p&gt;
 War is so demanding, it exhausts the resources of a kingdom, which in turn
 demands from its masses, more suffering that is.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 For the British Government, the umpteenth war with France meant need for more
 money, and they decide to squeeze the colonies to breakeven. The American
 colonies resisted, and when the British East India Company tried to force the
@@ -1953,289 +1410,14 @@ colony to buy their tea, the colonists boycotted the act, and some colonists
 threw the tea overboard from the ships. Cut to war scenes where France helped
 the American Colonists. Cut to British accepting defeat. Cut to the signing of
 the Declaration of Independence, with the famous cry, No taxation without
-representation. The declaration also said, "All men are born equal" &lt;beat/pause&gt;
+representation. The declaration also said, "All men are born equal" &amp;lt;beat/pause&amp;gt;
 except the negroes.
-</p>
+&lt;/p&gt;
 
-<p>
+&lt;p&gt;
 and, in the next episode, The French Revolution.
-</p>
-</div>
-</div>
-</div>
-</div>
-                </div>
-            </article>
-</div>
-        <div class="site-content">
-            <article class="format-standard libretto-long-form"><div class="title-block post-format-icon-pin">
-                    <div class="entry-meta">
-                        <span class="posted-on">
-                            Posted on <a href="posts/cursesandchances/" rel="bookmark">25-1-2023</a>
-                        </span>
-                    </div>
-                    <h1><a href="posts/cursesandchances/">Curses and Chances</a></h1>
-                </div>
-                <div class="entry-content">
-                        <p>
-The curse is upon all of us.<br>
-But we are not at faults!<br>
-To collect thoughts and connect dots.<br></p>
-
-<p>
-Curse of love, my love,<br>
-Curse of care, brother,<br>
-Curse of bond, my friend,<br>
-Blood, kin, and beyond.<br></p>
-
-<p>
-But, for every curse, there is a chance,<br>
-That might seem second at first,<br>
-but for a lifetime it will stick with us,<br>
-Only if we embrace it at self behest,<br>
-Alike the tale of hare and tortoise.<br></p>
-
-<p>
-Hitherto, we lived in parallel lines,<br>
-Belated, your smile crossed mine.<br>
-Then we spoke, and we laughed,<br>
-And then we sang, and we danced.<br>
-We are thus aware that we were,<br>
-For our purpose, joie de vivre!<br></p>
-
-<p>
-There are only poems, no poets,<br>
-Art owns its own artist.<br>
-A deaf maestro's lullaby,<br>
-That we could finally,<br>
-Feel the friend in you and me,<br>
-Where serendipity serenades to our vivacious youth,<br>
-And the greatest relief lies in telling the truth.<br></p>
-                </div>
-            </article>
-</div>
-        <div class="site-content">
-            <article class="format-standard libretto-long-form"><div class="title-block post-format-icon-pin">
-                    <div class="entry-meta">
-                        <span class="posted-on">
-                            Posted on <a href="posts/entethum/" rel="bookmark">6-12-2022</a>
-                        </span>
-                    </div>
-                    <h1><a href="posts/entethum/">എന്റേതുമായിരുന്നു</a></h1>
-                </div>
-                <div class="entry-content">
-                        <p>
-പടിപ്പുറത്തേക്ക് നോക്കിയാൽ കാണുന്നത് ടാർ റോഡാണ്. ഗ്രിഗോറിയൻ കലണ്ടറിൽ ഇന്ന്
-പുതുവത്സരം. ചിന്തകളടക്കാനാവാതെ പടിപുറത്തേക്കുനോക്കി ചാഞ്ഞുകിടന്നപ്പോൾ കണ്ടത് സ്കൂൾ
-കുട്ടികളെയാണ്. അവർ ഇന്നും യൂണിഫോം ധരിച്ചിരിക്കുന്നു. ഇന്നവധിയല്ലേ? ആത്മഗതത്തിൽ തന്നെ
-ഉത്തരവുമുണ്ട്. ഇളം നീല ഷർട്ടുകൾ. ട്രൗസറിന്റെയും ഫ്രോക്കിന്റെയും നിറം ഓർക്കുന്നില്ല. കുട്ടികൾ നടന്നു
-ചുമരിൽ അലിഞ്ഞു.
-</p>
-
-<p>
-അവർക്കു പിന്നിൽ വന്നത് ഒരു മൂരിവണ്ടിയാണ്. ഒഴിഞ്ഞ വണ്ടി, വൃദ്ധൻ വണ്ടിക്കാരൻ.
-തൊട്ടുപിന്നാലെ രണ്ട് മൂന്ന് ആൺകുട്ടികൾ വേഗത്തിൽ നടക്കുന്നു. വണ്ടിയിൽ ചാടികേറിയിരുന്ന്  പോകാനാണ് ശ്രമം
-എന്ന് മനസ്സിലായി. അവർക്കു കുറച്ചുപിന്നിലായി കൂട്ടത്തിൽ തന്നെയുള്ള രണ്ട് പെൺകുട്ടികളും ഒരാൺകുട്ടിയും മെല്ലെ നടന്നു വരുന്നു. അവനാണോ പഠിപ്പിസ്റ്റ് ?
-</p>
-
-<p>
-മൂരി ചുമരിൽ മറഞ്ഞു. വൃദ്ധനും പോയി. പിള്ളേരും. ഓർമ്മ, അത് പഴയകാലത്തിന്റെ സമ്പാദ്യമാണ്. പതിഞ്ഞസമയത്ത്
-അതിനു മനസ്സിൽവലിയ പ്രാധാന്യമില്ല. പക്ഷേ ഇന്നു ഞാൻ മങ്ങിക്കണ്ട ആ പഴയചിത്രം. ഞാൻ അറിയാതെ ചിരിച്ചുപോയി.
-</p>
-
-<p>
-ഞാൻ ചാടിക്കേറാൻ ശ്രമിച്ച മൂരിവണ്ടി എന്റെ മനസ്സിലേക്ക് വന്നു. ഓടുന്ന വണ്ടിയുടെ വേഗത്തിനൊപ്പം
-ചലിച്ച്, ആ ഉത്തമമുഹൂർത്തത്തിൽ പുറക്കോട്ടുതിരിഞ്ഞ്, കൈകൾ വണ്ടിയുടെ പലകയിലമർത്തിയൂന്നി, ഇടയിലൂടെ
-അൽപനേരം വായുവിൽ സഞ്ചരിച്ച് പിൻഭാഗം പലകയിൽ തട്ടിയപ്പോൾ മുന്നിൽ നടന്നകലുന്ന കൂട്ടുകാരുടെ മുഖത്തെ
-ചിരി എന്റേതുമായിരുന്നു.
-</p>
-                </div>
-            </article>
-</div>
-        <div class="site-content">
-            <article class="format-standard libretto-long-form"><div class="title-block post-format-icon-pin">
-                    <div class="entry-meta">
-                        <span class="posted-on">
-                            Posted on <a href="posts/chitrampathrathil/" rel="bookmark">3-8-2022</a>
-                        </span>
-                    </div>
-                    <h1><a href="posts/chitrampathrathil/">പയ്യന്റെ ചിത്രം പത്രത്തിൽ </a></h1>
-                </div>
-                <div class="entry-content">
-                        <p>
-ഇളം കാറ്റ്.
-</p>
-
-<p>
-ഒരു കൈയിൽ കണ്ണട, മറുകൈയിൽ പത്രം. അച്ഛൻ വരാന്തയിലേക്ക് വന്നു. ഒറ്റമുണ്ട്, വെള്ള ബനിയൻ,
-ആവശ്യത്തിലധികം ഭസ്മക്കുറി. ആകെമൊത്തം ധവളാഭം. കണ്ണടയിട്ട് കസേരയിലിരുന്നു. എന്നിട്ട് പത്രത്തിന്റെ
-മേൽത്തലപ്പിലൂടെ മുറ്റത്തേക്ക് നോക്കി. അമ്മ പൂജയ്ക്ക് പൂപറിക്കുകയാണ്.
-</p>
-
-<p>
-<b>അച്ഛൻ</b> : ഭവതി പൂപറിക്കുകയാണെന്ന് കണ്ടറിയുന്നു.
-</p>
-
-<p>
-<b>അമ്മ</b> : ഹോംസിന്റെ നിരുപമമായ വീക്ഷണബുദ്ധിയെ ഇന്ന് വീണ്ടും ഞാൻ അഭിനന്ദിക്കുന്നു.
-</p>
-
-<p>
-<b>അച്ഛൻ</b> : നന്ദി പറയേണ്ട ഈ അവസരത്തിൽ ഇങ്ങനെ ചൊല്ലുന്നത് ശരിതന്നെയോ എന്നറിയില്ല.
-</p>
-
-<p>
-<b>അമ്മ</b> : ശരിയല്ല.
-</p>
-
-<p>
-<b>അച്ഛൻ</b> : എങ്കിലും…, പത്രവും ചായയും. അതല്ലേ കേരളീയരുടെ മൗലികാവകാശം? പത്രവായനേന തേയിലപാനീയനേന എന്നല്ലേ ഗുരുവാക്യം.
-</p>
-
-<p>
-<b>അമ്മ</b> : രാവിലെതന്നെ വേണോ ലോ-കീ ഗീർവാണം? ഭഗവാന് പുഷ്പ്പാർച്ചന, ശേഷം ഭർത്താവിന് ചായ.  
-</p>
-
-<p>
-<b>അച്ഛൻ</b> : ദൈവത്തിന് പൂകൊടുക്കാൻ വേറെ എത്രയോ മഹിളകൾ ഈ നാട്ടിലുണ്ട്. എനിക്ക് ചായ തരാൻ നീ മാത്രമല്ലേയുള്ളു.
-</p>
-
-<p>
-<b>അമ്മ</b> : അറിഞ്ഞതിൽ വളരെ സന്തോഷം.
-</p>
-
-<p>
-<b>അച്ഛൻ</b> : "ദാറ്റ് വാസ് എ ഗുഡ് വൺ".
-</p>
-
-<p>
-<i>(അച്ഛൻ വായന തുടരുന്നു. അമ്മ അകത്തേക്ക് പോകുന്നു.)</i>
-</p>
-
-<hr>
-<p>
-<b>അച്ഛൻ</b> : അതേ…
-</p>
-
-<p>
-<b>അമ്മ</b> : ദാ വരുന്നു.
-</p>
-
-<p>
-<b>അച്ഛൻ</b> : ചായ വേണ്ട. ഒന്നിങ്ങോട്ടു വരൂ.
-</p>
-
-<p>
-<i>(ഭയങ്കര നിശ്ശബ്‌ദത. പിന്നെ കാലൊച്ച.)</i>
-</p>
-
-<p>
-<b>അമ്മ</b> :  "ചന്ദ്രനിലും ഗുരുത്വാകർഷണം, മലയാളിക്കിന്നു ചായ വേണ്ട", എന്നാണോ പ്രധാനവാർത്ത?
-</p>
-
-<p>
-അച്ഛൻ (പത്രം നീട്ടികൊണ്ട് ) : ഹ്രസ്വഹാസ്യം മതിയാകൂ, എന്നിട്ടിത് നോക്കു. അറിയോ ഇയാളെ?
-</p>
-
-<p>
-<b>അമ്മ</b> : ഇത്…
-</p>
-
-<p>
-<b>അച്ഛൻ</b> : അതെ, നമ്മുടെ മോൻ തന്നെ.
-</p>
-
-<p>
-<b>അമ്മ</b> : ഇവനെങ്ങനെ…
-</p>
-
-<p>
-<b>അച്ഛൻ</b> : വായിക്കാം. കേട്ടോളൂ.
-</p>
-
-<blockquote>
-<p>
-പാലക്കാട് : പേരുവെളിപ്പെടുത്താനാഗ്രഹിക്കാത്ത പാലക്കാട്ടുകാരൻ പയ്യൻ അതീവ സുന്ദരനാണെങ്കിലും,
-മാതാപിതാക്കളുടെ സന്തോഷം ആഗ്രഹിക്കുന്നവനാണ്. സ്വന്തം ചിത്രം പത്രത്തിൽ കൊടുക്കാനുണ്ടായ സാഹചര്യം പയ്യൻ
-ലളിതമായി വിവരിക്കുന്നു. കഴിഞ്ഞാഴ്ച്ചയാണ് യൂണിവേഴ്സിറ്റി പരീക്ഷാഫലം വന്നത്. അതേ ആഴ്ചതന്നെയാണ്
-ചേച്ചിയുടെ റാങ്ക് വിവരവും, ഫോട്ടോയും പത്രത്തിൽ വന്നത്. ലഡ്ഡു ഭക്ഷിക്കുന്നതിനിടയിൽ പയ്യനേയും,
-പത്രത്തേയും, ചിത്രത്തെയും ഒരേവാക്യത്തിൽ അച്ഛനമ്മമാർ പ്രയോഗിച്ചു. പയ്യനിനിയും പല പരീക്ഷകൾ
-പാസാവാനിരിക്കുന്നതേയുള്ളു. എങ്കിലും അവരുടെ ആഗ്രഹസാഫല്യത്തിന് വേണ്ടി അല്പം പ്രയത്നിക്കണമെന്ന് പയ്യന്
-തോന്നി. അതിനുവേണ്ടി എന്നത്തേയുംപോലെ പയ്യൻ അമ്മയുടെ പേഴ്സിൽ നിന്നും അമ്മയറിയാതെ രൂപ കടം
-വാങ്ങി. അമ്മേ, അഭിപ്രായസ്വാതന്ത്രത്തിനിന്നു നമ്മുടെ നാട്ടിൽ വലിയ വിലകൊടുകേണ്ടതുണ്ടെന്ന് ഞാൻ മനസിലാക്കുന്നു. ഇനിയും
-കുറേ എഴുതണം എന്നുണ്ട്, പക്ഷേ ഫോട്ടോയുടെ വലിപ്പം കുറയ്‌ക്കേണ്ടിവരും എന്ന് ഈ ഉണ്ടക്കണ്ണൻ പറഞ്ഞത് കൊണ്ട്
-നിർത്തുന്നു . ഇൻക്വിലാബ്.
-</p>
-</blockquote>
-
-<p>
-<b>അമ്മ</b> : ഇവന്റെ കാര്യത്തിൽ നമുക്ക് കുറച്ചുകൂടെ സൂക്ഷിക്കാമായിരുന്നു.
-</p>
-
-<p>
-<b>അച്ഛൻ</b> :
-"പലാനാം പലവിധാനാം, 
-ബഹ്വാനാം ബഹുവിധാനാം,  
-അതിലൊരു വിധാനാം".
-</p>
-                </div>
-            </article>
-</div>
-        <div class="site-content">
-            <article class="format-standard libretto-long-form"><div class="title-block post-format-icon-pin">
-                    <div class="entry-meta">
-                        <span class="posted-on">
-                            Posted on <a href="posts/payyanchinthamagnanayi/" rel="bookmark">15-7-2022</a>
-                        </span>
-                    </div>
-                    <h1><a href="posts/payyanchinthamagnanayi/">ചിന്താമഗ്നനായി</a></h1>
-                </div>
-                <div class="entry-content">
-                        <p>
-<i>വായന സമയം : 2 മിനിറ്റ്</i>
-</p>
-<hr>
-<p>
-മനസ്സിന്റെ സന്തുലിതയെ തകർക്കാൻ വിശപ്പിനു സാധിക്കും. ഇതല്ല, വേറെന്തോ എഴുതാനാണ്
-ഉദ്ദേശിച്ചത്.
-</p>
-
-<p>
-മനസൊരു കുളമാണെന്ന് കരുതി. അതിലേക്കു നീട്ടി എറിഞ്ഞ ഒരു പരന്ന കല്ല് പോലെ ആശയം തെന്നി തെന്നി ദൂരെ
-മറയുന്നു. പക്ഷേ അതൊരിക്കലും അക്കരെയെത്തുന്നില്ല. ജലാശയത്തിനു നടുവിൽ ആശയത്തിന്റെ പയനം
-പര്യവസാനിക്കുന്നു. പിന്നീട് എപ്പോഴോ ഒരു പഴയ ഓർമ്മ കൊളുത്തിയ പുതിയ ആവേശത്തിൽ, ആ ജലാശയത്തിലേക്കു
-നാം എടുത്തു ചാടുന്നു. മുങ്ങി നീന്തി ആശയത്തെ പുറത്തു കൊണ്ടുവരാൻ ശ്രമിക്കുന്നു. നീന്തി നീന്തി കുളത്തിന്റെ
-നടുവിലെത്തുമ്പോൾ, അവിടെ ഒരു ആശയദ്വീപ്! ചെറിയ പരന്ന കല്ലുകൾ കൊണ്ട് രൂപപ്പെട്ടിരിക്കുന്ന ഒരു
-അതിശയദ്വീപ്. ഓരോ കല്ലിലും തന്റെ കയ്യൊപ്പ് പതിഞ്ഞിരിക്കുന്നു. അതുകണ്ട് ആദ്യം ഒന്ന് അന്ധാളിക്കുന്നു, ഞാൻ
-താൻ തന്നെയോ ഇത് എന്ന് ചിന്തിച്ച്‌ ഉറ്റുനോക്കുന്നു. വലിച്ചെറിഞ്ഞ ആശയങ്ങളുടെ ഇടയിൽ നിന്നും ഒരു ചെറുപുളകം
-കുളിർപ്രവാഹത്തിലൂടെ തന്നെ തലോടുന്നു. മന്ദഹാസപുഞ്ചിരി ചുണ്ടിൽ വ്യാപിക്കുന്നു. സ്വാഭിമാനം
-രോമാഞ്ചമണിയിക്കുന്നു. ആശയത്തെ വീണ്ടും ഉപേക്ഷിച്ച്, വികാരം മാത്രം ഉൾക്കൊണ്ട് ഉപരിതലത്തിലേക്ക്
-ഉദിച്ചുയരുന്നു. വിടർന്ന ചുണ്ടുകളിലൂടെ ഒരു ചോദ്യം, ഇനി എന്ത്?
-</p>
-
-<p>
-ഇതല്ല, വേറെന്തോ എഴുതാനാണ് ഉദ്ദേശിച്ചത്. എന്തായാലും അടുക്കള വരെ ഒന്ന് പോയി നോക്കാം.
-</p>
-                </div>
-            </article>
-</div>
-    <!-- Lower Navigation links -->
-    <nav class="site-content navigation-post" role="navigation"><div class="previous">
-                <a href="index-3.html" rel="prev">
-                    <span class="meta-nav">Older Entries</span>                </a>
-            </div>
-    </nav><!-- Page Footer --><section class="footer-sidebar clear" role="complementary"><div class="widget-block">
-            <aside class="widget"><h2 class="widget-title">mindtoilet</h2>
-                <div class="widget-text">Mind Blogging</div>
-            </aside>
-</div>
-    </section><!-- Site Attributions --><footer class="site-footer" role="contentinfo"><div class="site-info">
-            <p>Contents © 2024         <a href="mailto:mindtoilet@gmail.com">mindtoilet</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         </p>
-            <p>Powered by <a href="https://getnikola.com/">Nikola</a> using the <a href="https://note2self.abraham-v.com/libretto-theme-for-nikola/">Libretto theme</a>.</p>
-        </div>
-        <div class="social">
-            <ul class="menu"></ul>
-</div>
-    </footer>
-</body>
-</html>
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><category>podcast</category><category>politics</category><guid>https://mindtoilet.com/posts/pi_one/</guid><pubDate>Wed, 07 Feb 2024 06:00:15 GMT</pubDate></item></channel></rss>
