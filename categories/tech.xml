@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>mindtoilet (Posts about tech)</title><link>https://mindtoilet.com/</link><description></description><atom:link href="https://mindtoilet.com/categories/tech.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2024 &lt;a href="mailto:mindtoilet@gmail.com"&gt;mindtoilet&lt;/a&gt; </copyright><lastBuildDate>Wed, 20 Nov 2024 21:44:31 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Blogging using nikola, github, emacs, orgmode</title><link>https://mindtoilet.com/posts/how-to-write-a-blog-using-nikola/</link><dc:creator>mindtoilet</dc:creator><description>&lt;div id="outline-container-org239f4da" class="outline-2"&gt;
-&lt;h2 id="org239f4da"&gt;&lt;code&gt;Blog about writing blogs&lt;/code&gt;&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org239f4da"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>mindtoilet (Posts about tech)</title><link>https://mindtoilet.com/</link><description></description><atom:link href="https://mindtoilet.com/categories/tech.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2024 &lt;a href="mailto:mindtoilet@gmail.com"&gt;mindtoilet&lt;/a&gt; </copyright><lastBuildDate>Wed, 11 Dec 2024 01:51:40 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Blogging using nikola, github, emacs, orgmode</title><link>https://mindtoilet.com/posts/how-to-write-a-blog-using-nikola/</link><dc:creator>mindtoilet</dc:creator><description>&lt;div id="outline-container-org9042838" class="outline-2"&gt;
+&lt;h2 id="org9042838"&gt;&lt;code&gt;Blog about writing blogs&lt;/code&gt;&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org9042838"&gt;
 &lt;p&gt;
 This blog about writing blogs is upon request by pestering
 friends. Thanks to all other blogs about writing blogs.
@@ -9,9 +9,9 @@ friends. Thanks to all other blogs about writing blogs.
 &lt;hr&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div id="outline-container-orgc51f182" class="outline-2"&gt;
-&lt;h2 id="orgc51f182"&gt;&lt;code&gt;To know these exist&lt;/code&gt;&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-orgc51f182"&gt;
+&lt;div id="outline-container-org4195149" class="outline-2"&gt;
+&lt;h2 id="org4195149"&gt;&lt;code&gt;To know these exist&lt;/code&gt;&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org4195149"&gt;
 &lt;table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides"&gt;
 
 
@@ -63,18 +63,18 @@ bother not, you shall.
 &lt;hr&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div id="outline-container-org0fe2d2d" class="outline-2"&gt;
-&lt;h2 id="org0fe2d2d"&gt;&lt;code&gt;Well&lt;/code&gt;&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org0fe2d2d"&gt;
+&lt;div id="outline-container-org92e9c9e" class="outline-2"&gt;
+&lt;h2 id="org92e9c9e"&gt;&lt;code&gt;Well&lt;/code&gt;&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org92e9c9e"&gt;
 &lt;p&gt;
 The idea is to create a blogging website hosted in &lt;i&gt;Github&lt;/i&gt;, using a
 static site generator software &lt;i&gt;Nikola&lt;/i&gt;, with the help of &lt;i&gt;Python
 virtual environment&lt;/i&gt; and then write blog posts using &lt;i&gt;emacs org mode&lt;/i&gt;.
 &lt;/p&gt;
 &lt;/div&gt;
-&lt;div id="outline-container-org07a0b91" class="outline-4"&gt;
-&lt;h4 id="org07a0b91"&gt;Also&lt;/h4&gt;
-&lt;div class="outline-text-4" id="text-org07a0b91"&gt;
+&lt;div id="outline-container-orgb4b247e" class="outline-4"&gt;
+&lt;h4 id="orgb4b247e"&gt;Also&lt;/h4&gt;
+&lt;div class="outline-text-4" id="text-orgb4b247e"&gt;
 &lt;ol class="org-ol"&gt;
 &lt;li&gt;I'm using Linux.&lt;/li&gt;
 &lt;li&gt;I will be assuming the name of your blog as 'bottle'&lt;/li&gt;
@@ -83,9 +83,9 @@ virtual environment&lt;/i&gt; and then write blog posts using &lt;i&gt;emacs org
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div id="outline-container-org60e36a1" class="outline-2"&gt;
-&lt;h2 id="org60e36a1"&gt;&lt;code&gt;GitHub&lt;/code&gt;&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org60e36a1"&gt;
+&lt;div id="outline-container-org82b7496" class="outline-2"&gt;
+&lt;h2 id="org82b7496"&gt;&lt;code&gt;GitHub&lt;/code&gt;&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org82b7496"&gt;
 &lt;blockquote&gt;
 &lt;p&gt;
 &lt;code&gt;git&lt;/code&gt; : &lt;i&gt;(British)&lt;/i&gt; a foolish or worthless person
@@ -124,9 +124,9 @@ push them back to GitHub later.
 &lt;hr&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div id="outline-container-org6aec6d5" class="outline-2"&gt;
-&lt;h2 id="org6aec6d5"&gt;&lt;code&gt;Python Virtual Environment&lt;/code&gt;&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org6aec6d5"&gt;
+&lt;div id="outline-container-org5878ce9" class="outline-2"&gt;
+&lt;h2 id="org5878ce9"&gt;&lt;code&gt;Python Virtual Environment&lt;/code&gt;&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org5878ce9"&gt;
 &lt;p&gt;
 If you haven't heard the news yet, Python is a programming
 language and Python 3 is here to stay.
@@ -145,9 +145,9 @@ cooking vegetables, where you don't want nikola to be installed,
 create a virtual environment called vegetables. 
 &lt;/p&gt;
 &lt;/div&gt;
-&lt;div id="outline-container-org95b4407" class="outline-3"&gt;
-&lt;h3 id="org95b4407"&gt;Virtual environment wrapper&lt;/h3&gt;
-&lt;div class="outline-text-3" id="text-org95b4407"&gt;
+&lt;div id="outline-container-orgbf18bcc" class="outline-3"&gt;
+&lt;h3 id="orgbf18bcc"&gt;Virtual environment wrapper&lt;/h3&gt;
+&lt;div class="outline-text-3" id="text-orgbf18bcc"&gt;
 &lt;p&gt;
 Gift-wrapped python virtual environment commands.
 For ease of use. No need to remember too many virtualenv commands.
@@ -164,9 +164,9 @@ Let "$HOME/virenvs" be our directory for all environments.
 &lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div id="outline-container-orga141557" class="outline-3"&gt;
-&lt;h3 id="orga141557"&gt;Steps&lt;/h3&gt;
-&lt;div class="outline-text-3" id="text-orga141557"&gt;
+&lt;div id="outline-container-org0b927c4" class="outline-3"&gt;
+&lt;h3 id="org0b927c4"&gt;Steps&lt;/h3&gt;
+&lt;div class="outline-text-3" id="text-org0b927c4"&gt;
 &lt;p&gt;
 Make sure you have pip (python package manager) installed in your machine.
 And follow the steps :
@@ -186,17 +186,17 @@ Now you should see that you have entered the 'bottle' environment.
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div id="outline-container-org0876959" class="outline-2"&gt;
-&lt;h2 id="org0876959"&gt;&lt;code&gt;Nikola&lt;/code&gt;&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-org0876959"&gt;
+&lt;div id="outline-container-org656cf5d" class="outline-2"&gt;
+&lt;h2 id="org656cf5d"&gt;&lt;code&gt;Nikola&lt;/code&gt;&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-org656cf5d"&gt;
 &lt;p&gt;
 If you are inside the bottle, then you are ready to install &lt;i&gt;nikola&lt;/i&gt;, the
 static site generator.
 &lt;/p&gt;
 &lt;/div&gt;
-&lt;div id="outline-container-org96ba468" class="outline-3"&gt;
-&lt;h3 id="org96ba468"&gt;Installation&lt;/h3&gt;
-&lt;div class="outline-text-3" id="text-org96ba468"&gt;
+&lt;div id="outline-container-org46ee5ae" class="outline-3"&gt;
+&lt;h3 id="org46ee5ae"&gt;Installation&lt;/h3&gt;
+&lt;div class="outline-text-3" id="text-org46ee5ae"&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;pip&lt;span class="w"&gt; &lt;/span&gt;install&lt;span class="w"&gt; &lt;/span&gt;--upgrade&lt;span class="w"&gt; &lt;/span&gt;pip&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s1"&gt;'Nikola[extras]'&lt;/span&gt;
 nikola&lt;span class="w"&gt; &lt;/span&gt;plugin&lt;span class="w"&gt; &lt;/span&gt;-i&lt;span class="w"&gt; &lt;/span&gt;orgmode
 &lt;span class="nb"&gt;cd&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;$HOME&lt;/span&gt;/projects/bottle
@@ -224,9 +224,9 @@ git&lt;span class="w"&gt; &lt;/span&gt;commit&lt;span class="w"&gt; &lt;/span&gt
 &lt;/pre&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div id="outline-container-orgce65a7e" class="outline-3"&gt;
-&lt;h3 id="orgce65a7e"&gt;Website&lt;/h3&gt;
-&lt;div class="outline-text-3" id="text-orgce65a7e"&gt;
+&lt;div id="outline-container-orgc8ffdcd" class="outline-3"&gt;
+&lt;h3 id="orgc8ffdcd"&gt;Website&lt;/h3&gt;
+&lt;div class="outline-text-3" id="text-orgc8ffdcd"&gt;
 &lt;p&gt;
 Create a website using nikola
 &lt;/p&gt;
@@ -269,9 +269,9 @@ To stop the localhost web service in the terminal hit Ctrl-c.
 &lt;hr&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div id="outline-container-org20bc26d" class="outline-3"&gt;
-&lt;h3 id="org20bc26d"&gt;Posts&lt;/h3&gt;
-&lt;div class="outline-text-3" id="text-org20bc26d"&gt;
+&lt;div id="outline-container-org0220bfd" class="outline-3"&gt;
+&lt;h3 id="org0220bfd"&gt;Posts&lt;/h3&gt;
+&lt;div class="outline-text-3" id="text-org0220bfd"&gt;
 &lt;p&gt;
 Now, you would want to flush your ideas into blogs. That could be
 easily accomplished.
@@ -289,8 +289,8 @@ Movimg on from editor of your choice,
 &lt;/div&gt;
 
 &lt;ul class="org-ul"&gt;
-&lt;li&gt;&lt;a id="orga119d1d"&gt;&lt;/a&gt;Emacs Org-mode&lt;br&gt;
-&lt;div class="outline-text-5" id="text-orga119d1d"&gt;
+&lt;li&gt;&lt;a id="org04f048f"&gt;&lt;/a&gt;Emacs Org-mode&lt;br&gt;
+&lt;div class="outline-text-5" id="text-org04f048f"&gt;
 &lt;p&gt;
 Every great software application is a file with some text in it and
 &lt;code&gt;Emacs is a text file editor&lt;/code&gt;
@@ -317,8 +317,8 @@ Two cool things in org-mode that I must mention:
 &lt;hr&gt;
 &lt;/div&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;a id="org4a99590"&gt;&lt;/a&gt;To write a new blog post in Emacs org-mode&lt;br&gt;
-&lt;div class="outline-text-5" id="text-org4a99590"&gt;
+&lt;li&gt;&lt;a id="org0902f93"&gt;&lt;/a&gt;To write a new blog post in Emacs org-mode&lt;br&gt;
+&lt;div class="outline-text-5" id="text-org0902f93"&gt;
 &lt;p&gt;
 You've already installed org mode plugin for nikola in your
 installation process. 
@@ -347,9 +347,9 @@ Now, to write a post using org-mode,
 &lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-org603f036" class="outline-3"&gt;
-&lt;h3 id="org603f036"&gt;Comments&lt;/h3&gt;
-&lt;div class="outline-text-3" id="text-org603f036"&gt;
+&lt;div id="outline-container-orgc2b58bc" class="outline-3"&gt;
+&lt;h3 id="orgc2b58bc"&gt;Comments&lt;/h3&gt;
+&lt;div class="outline-text-3" id="text-orgc2b58bc"&gt;
 &lt;p&gt;
 If you like using disqus as the commenting system then:
 &lt;/p&gt;
@@ -379,13 +379,13 @@ SKIP that as well.&lt;/li&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-org277618c" class="outline-3"&gt;
-&lt;h3 id="org277618c"&gt;Publish&lt;/h3&gt;
-&lt;div class="outline-text-3" id="text-org277618c"&gt;
+&lt;div id="outline-container-orgd4ebcdd" class="outline-3"&gt;
+&lt;h3 id="orgd4ebcdd"&gt;Publish&lt;/h3&gt;
+&lt;div class="outline-text-3" id="text-orgd4ebcdd"&gt;
 &lt;/div&gt;
-&lt;div id="outline-container-org8506b88" class="outline-4"&gt;
-&lt;h4 id="org8506b88"&gt;To launch the site in local host&lt;/h4&gt;
-&lt;div class="outline-text-4" id="text-org8506b88"&gt;
+&lt;div id="outline-container-orgc9221da" class="outline-4"&gt;
+&lt;h4 id="orgc9221da"&gt;To launch the site in local host&lt;/h4&gt;
+&lt;div class="outline-text-4" id="text-orgc9221da"&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;nikola&lt;span class="w"&gt; &lt;/span&gt;build
 nikola&lt;span class="w"&gt; &lt;/span&gt;serve
 &lt;/pre&gt;&lt;/div&gt;
@@ -399,9 +399,9 @@ every change you make to your post.
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div id="outline-container-org1ade120" class="outline-4"&gt;
-&lt;h4 id="org1ade120"&gt;To publish your blog to the so called internet,&lt;/h4&gt;
-&lt;div class="outline-text-4" id="text-org1ade120"&gt;
+&lt;div id="outline-container-org74334cf" class="outline-4"&gt;
+&lt;h4 id="org74334cf"&gt;To publish your blog to the so called internet,&lt;/h4&gt;
+&lt;div class="outline-text-4" id="text-org74334cf"&gt;
 &lt;p&gt;
 Edit the &lt;code&gt;conf.py&lt;/code&gt; file and change these following variables. This helps
 in keeping the master branch of GitHub page less crowded.
@@ -422,9 +422,9 @@ And visit &lt;a href="https://bottle.github.io"&gt;https://bottle.github.io&lt;/
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div id="outline-container-orga3ca026" class="outline-2"&gt;
-&lt;h2 id="orga3ca026"&gt;&lt;code&gt;Thanks&lt;/code&gt;&lt;/h2&gt;
-&lt;div class="outline-text-2" id="text-orga3ca026"&gt;
+&lt;div id="outline-container-orgeb26abd" class="outline-2"&gt;
+&lt;h2 id="orgeb26abd"&gt;&lt;code&gt;Thanks&lt;/code&gt;&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgeb26abd"&gt;
 &lt;p&gt;
 For detailed information : 
 &lt;/p&gt;
