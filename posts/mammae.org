@@ -9,8 +9,6 @@
 .. type: text
 .. status: 
 #+END_COMMENT
-/Reading time : 5 minutes/
---------------------------------------------------
 
 Let us travel back to the age of reptiles. Early reptiles understood the need
 for world sustainability by reproduction, hence they happily mated, laid eggs
