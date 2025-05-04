@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://mindtoilet.com/categories/cat_english.xml</loc>
-  <lastmod>2025-02-12T06:56:00Z</lastmod>
+  <lastmod>2025-02-16T20:25:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.com/categories/cat_malayalam.xml</loc>
@@ -54,6 +54,10 @@
   <lastmod>2025-02-12T06:56:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://mindtoilet.com/categories/review.xml</loc>
+  <lastmod>2025-02-16T20:25:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://mindtoilet.com/categories/satire.xml</loc>
   <lastmod>2025-02-12T06:56:00Z</lastmod>
  </sitemap>
@@ -71,10 +75,10 @@
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.com/rss.xml</loc>
-  <lastmod>2025-02-12T06:56:00Z</lastmod>
+  <lastmod>2025-02-16T20:25:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://mindtoilet.com/sitemap.xml</loc>
-  <lastmod>2025-02-12T06:56:00Z</lastmod>
+  <lastmod>2025-02-16T20:25:00Z</lastmod>
  </sitemap>
 </sitemapindex>
