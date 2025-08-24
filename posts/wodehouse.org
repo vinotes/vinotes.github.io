@@ -9,11 +9,7 @@
 .. type: text
 #+END_COMMENT
 
-Dear Listener,
-
 The only way you can spoil a Wodehouse story is by not reading it.
-
-Welcome to Hitchens' Razor.
 
 What is the irresistible charm of a Wodehouse story on a teenage boy living in a
 remote village on a mountainous high range in tropical south Asia? What's Jeeves

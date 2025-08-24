@@ -1,5 +1,5 @@
 #+BEGIN_COMMENT
-.. title: പയ്യന്റെ സാധനം കാണാനില്ല
+.. title: സാധനം കാണാനില്ല
 .. slug: saadhanamkannanilla
 .. date: 2024-12-11 05:46:45 UTC+05:30
 .. tags: satire, comedy, പയ്യൻ
