@@ -1,11 +1,23 @@
 #+BEGIN_COMMENT
-.. title: Jagadhanadhakaraka
+.. title: ജഗദാനന്ദകാരാകാ
 .. slug: jagadhanadhakaraka
-.. date: 2025-01-17 11:30:15 UTC+05:30
-.. tags: review
-.. category: English
+.. date: 2025-05-28 11:30:15 UTC+05:30
+.. tags: Carnatic
+.. category: Malayalam
 .. link: 
 .. description: 
 .. type: text
 .. status: 
 #+END_COMMENT
+
+[[img-url:/galleries/Jagadhanadhakaraka_1.jpeg]]
+[[img-url:/galleries/Jagadhanadhakaraka_2.jpeg]]
+[[img-url:/galleries/Jagadhanadhakaraka_3.jpeg]]
+[[img-url:/galleries/Jagadhanadhakaraka_4.jpeg]]
+[[img-url:/galleries/Jagadhanadhakaraka_5.jpeg]]
+[[img-url:/galleries/Jagadhanadhakaraka_6.jpeg]]
+[[img-url:/galleries/Jagadhanadhakaraka_7.jpeg]]
+[[img-url:/galleries/Jagadhanadhakaraka_8.jpeg]]
+[[img-url:/galleries/Jagadhanadhakaraka_9.jpeg]]
+[[img-url:/galleries/Jagadhanadhakaraka_10.jpeg]]
+[[img-url:/galleries/Jagadhanadhakaraka_11.jpeg]]

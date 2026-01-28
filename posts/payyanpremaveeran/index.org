@@ -2,7 +2,7 @@
 .. title: പ്രേമവീരൻ
 .. slug: payyanpremaveeran
 .. date: 2025-07-07 21:25:45 UTC+00:00
-.. tags: satire, comedy, payyan, പയ്യൻ
+.. tags: പ്രേമം, comedy, payyan, പയ്യൻ
 .. category: Malayalam
 .. link: 
 .. description: 
